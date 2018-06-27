@@ -46,6 +46,9 @@ TODO:
 - RLE 7bit encoding
 - 538 dpi
 
+## COMMUNITY RESIN EXPOSURE SETTINGS
+- [Known good resin settings - Curated by Artur Fuste](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0)
+
 ## COMMUNITY PROJECTS
 - [Exposure Range Tester - Quick method to test multiple resin exposure settings in one go](https://github.com/altLab/photon-resin-calibration) 
 - [Photon File Utils - Photon files visualizer editor and creator tools](https://github.com/NardJ/PhotonFileUtils)
@@ -54,5 +57,6 @@ TODO:
 - [Andoryuuta's Photon - Go Library to read and write Photon and .cbddlp files](https://github.com/Andoryuuta/photon)
 
 ## PHOTON ON THE WIRE
-
+- [FB Anycubic Owners Group](https://www.facebook.com/groups/AnycubicPhoton/?ref=group_header)
+- [Anycubic Photon Forum - Managed by official distribuitor PT](http://photonforum.statusavailable.pt/viewforum.php?f=23)
 - [Twitter #AnycubicPhoton](https://twitter.com/hashtag/ANYCUBICPHOTON?src=hash)
