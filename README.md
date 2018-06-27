@@ -27,7 +27,7 @@ TODO:
 - 538ppi
 - Color Pixel Arrangement:RGB Vertical Stripe
 - Power Supply Voltage:AVDD=5.5+/-0.1V AVEE=-5.5+/-0.1 V
-- 30W 405nm LED
+- 25W 405nm LED
 
 ## MOTION DRIVER / MECHANICS
 
