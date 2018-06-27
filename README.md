@@ -50,3 +50,7 @@ TODO:
 - [Rob's Voxel Engine - Javascript 3D model rebuilder and visualization from sliced Photon file's](https://github.com/Rob2048/PhotonTool)
 - [Reunarudo's PCB2Photon - Swift Gerber image to photon for PCB  mask burning and production](https://github.com/Reonarudo/pcb2photon)
 - [Andoryuuta's Photon - Go Library to read and write Photon and .cbddlp files](https://github.com/Andoryuuta/photon)
+
+## PHOTON ON THE WIRE
+
+- (Twitter #AnycubicPhoton)[https://twitter.com/hashtag/ANYCUBICPHOTON?src=hash]
