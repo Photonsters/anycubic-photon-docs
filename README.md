@@ -57,5 +57,6 @@ TODO:
 - [Anycubic Photon Forum - Managed by official distribuitor PT](http://photonforum.statusavailable.pt/viewforum.php?f=23)
 - [Twitter #AnycubicPhoton](https://twitter.com/hashtag/ANYCUBICPHOTON?src=hash)
 
-## PHOTON MODELS
+## PHOTON MODELS & BLUEPRINTS
+- [CAD Files on this repo](https://github.com/altLab/anycubic-photon-docs/tree/master/photon-blueprints)
 - [Photon on Thinguiverse](https://www.thingiverse.com/search?q=Anycubic+Photon)
