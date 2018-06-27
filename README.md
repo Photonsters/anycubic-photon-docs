@@ -17,12 +17,10 @@ TODO:
 - List community software projects and tools for the photon
 
 ## PHOTON DIMENSIONS
-
 - Machine Volume: 220(L)x200(W)x400(H)
 - Print Volume: 115(L)x65(W)x155(H)
 
 ## PHOTON MASKING 
-
 - RGB 5.5 MIPI_DSI 2K LCD screen
 - 68.04(W)mm x 120.96(H)mm (5.46")
 - XY resolution: 47µ (0.047mm)
@@ -32,7 +30,6 @@ TODO:
 - 25W 405nm LED
 
 ## MOTION DRIVER / MECHANICS
-
 - T8 leadscrew with 2mm lead/pitch
 - Nema 17 Motor 1.8º 200steps/rev
 - Driver embeded Polulu Alegro 4998 set at 1/16 microstepping
@@ -40,7 +37,6 @@ TODO:
 - Digital microstepped resolution 0.625µ (0.000625mm)
 
 ## PHOTON FILE IMAGE FORMAT
-
 - 2560x1440px 
 - Black and White 
 - RLE 7bit encoding
@@ -60,3 +56,6 @@ TODO:
 - [FB Anycubic Owners Group](https://www.facebook.com/groups/AnycubicPhoton/?ref=group_header)
 - [Anycubic Photon Forum - Managed by official distribuitor PT](http://photonforum.statusavailable.pt/viewforum.php?f=23)
 - [Twitter #AnycubicPhoton](https://twitter.com/hashtag/ANYCUBICPHOTON?src=hash)
+
+## PHOTON MODELS
+- [Photon on Thinguiverse](https://www.thingiverse.com/search?q=Anycubic+Photon)
