@@ -4,11 +4,13 @@ Use this repo to collect information on anycubic photon hardware software and us
 
 TODO:
 
+- FAQ
 - Map Photon hardware
 - Map Photon file anatomy
+- How-to test resins
 - How-to level
-- FAQ
-- How-to use external Stepper
+- How-to use external Stepper driver
+- Create Repo with resins and community consesus resin test method
 - List official slicers and alternative/usefull software
 - Collect config files and firmware from google group
 - Collect community reversed photon cad parts
