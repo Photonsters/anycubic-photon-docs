@@ -20,7 +20,6 @@ TODO:
 - 68.04(W)mm x 120.96(H)mm (5.46")
 - XY resolution: 47µ (0.047mm)
 - 538ppi
-
 - Color Pixel Arrangement:RGB Vertical Stripe
 - Power Supply Voltage:AVDD=5.5+/-0.1V AVEE=-5.5+/-0.1 V
 
