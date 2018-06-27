@@ -14,6 +14,11 @@ TODO:
 - Collect community reversed photon cad parts
 - List community software projects and tools for the photon
 
+## PHOTON DIMENSIONS
+
+- Machine Volume: 220(L)x200(W)x400(H)
+- Print Volume: 115(L)x65(W)x155(H)
+
 ## PHOTON MASKING 
 
 - RGB 5.5 MIPI_DSI 2K LCD screen
@@ -22,6 +27,7 @@ TODO:
 - 538ppi
 - Color Pixel Arrangement:RGB Vertical Stripe
 - Power Supply Voltage:AVDD=5.5+/-0.1V AVEE=-5.5+/-0.1 V
+- 30W 405nm LED
 
 ## MOTION DRIVER / MECHANICS
 
