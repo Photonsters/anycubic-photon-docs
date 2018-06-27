@@ -53,4 +53,4 @@ TODO:
 
 ## PHOTON ON THE WIRE
 
-- (Twitter #AnycubicPhoton)[https://twitter.com/hashtag/ANYCUBICPHOTON?src=hash]
+- [Twitter #AnycubicPhoton](https://twitter.com/hashtag/ANYCUBICPHOTON?src=hash)
