@@ -60,3 +60,7 @@ TODO:
 ## PHOTON MODELS & BLUEPRINTS
 - [CAD Files on this repo](https://github.com/altLab/anycubic-photon-docs/tree/master/photon-blueprints)
 - [Photon on Thinguiverse](https://www.thingiverse.com/search?q=Anycubic+Photon)
+
+## SLICERS & HELPERS
+
+- [Support done with Meshmixer](https://youtu.be/OXFKVmMwXCQ?t=2m10s)
