@@ -65,8 +65,9 @@ TODO:
 - [Support done with Meshmixer](https://youtu.be/OXFKVmMwXCQ?t=2m10s)
 
 ## COOL STL MODELS FOR TESTING
-- [Chubby Girl - By K_Models](https://www.turbosquid.com/FullPreview/Index.cfm/ID/805220#)
-- [T1000 Head - By Geoffro](https://www.cgtrader.com/free-3d-print-models/art/sculptures/t-800-single-and-3-piece-high-detail-head)
 - [Knight of Egipt - By Zorum](https://www.thingiverse.com/thing:1826018)
 - [Bearded Yell - By Bendansie](https://www.thingiverse.com/thing:1376314)
+- [T1000 Head - By Geoffro](https://www.cgtrader.com/free-3d-print-models/art/sculptures/t-800-single-and-3-piece-high-detail-head)
 - [Predator Bust - By chauvanla](https://www.turbosquid.com/3d-models/free-obj-model-predator-bust-sculpture/695753)
+- [Chubby Girl - By K_Models](https://www.turbosquid.com/FullPreview/Index.cfm/ID/805220#)
+
