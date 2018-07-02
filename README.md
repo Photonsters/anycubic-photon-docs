@@ -1,6 +1,6 @@
-# anycubic-photon-docs
+# Anycubic Photon Owner's Documentation
 
-Use this repo to collect information on anycubic photon hardware software and use
+Use this repo to collect information on anycubic photon hardware software and use.
 
 TODO:
 
@@ -15,6 +15,9 @@ TODO:
 - Collect config files and firmware from google group
 - Collect community reversed photon cad parts
 - List community software projects and tools for the photon
+
+## KNOWN ISSUES
+- [Known issues page](photon-common-issues.md)
 
 ## PHOTON DIMENSIONS
 - Machine Volume: 220(L)x200(W)x400(H)
