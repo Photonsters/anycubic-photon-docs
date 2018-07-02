@@ -16,6 +16,9 @@ TODO:
 - Collect community reversed photon cad parts
 - List community software projects and tools for the photon
 
+## KNOWN ISSUES
+- [Known issues page](photon-common-issues.md)
+
 ## PHOTON DIMENSIONS
 - Machine Volume: 220(L)x200(W)x400(H)
 - Print Volume: 115(L)x65(W)x155(H)
