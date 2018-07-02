@@ -1,6 +1,6 @@
-# anycubic-photon-docs
+# Anycubic Photon Owner's Documentation
 
-Use this repo to collect information on anycubic photon hardware software and use
+Use this repo to collect information on anycubic photon hardware software and use.
 
 TODO:
 
