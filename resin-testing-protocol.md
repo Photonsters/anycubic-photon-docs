@@ -1,24 +1,28 @@
-Density
-Color pre-cure
-Color post-cure
-Smell
+## GENERAL TESTS
 
-Tensile strenght
-Break force
-Exposure sweet spot
-Exposure range
-Post cured heat resistance
+- Cost per kg
+- Availability (distribuitors)
 
-Detail holding
-Minimum support size @50u layer 
+- Density
+- Color pre-cure
+- Color post-cure
+- Smell
 
-Washing solvent
+- Exposure sweet spot
+- Exposure range
+
+- Detail holding
+- Minimum support size @50u layer 
+
+- Washing solvent
 
 
-# POST CURE TESTS
+### POST CURE TESTS
 
-Burn test (does it leave ash)
-Suitable for casting?
-
+- Burn test (does it leave ash)
+- Suitable for casting?
+- Tensile strenght
+- Break force
+- Heat resistance
 
 ---
