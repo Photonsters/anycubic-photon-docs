@@ -48,6 +48,9 @@ TODO:
 ## COMMUNITY RESIN EXPOSURE SETTINGS
 - [Known good resin settings - Curated by Artur Fuste](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0)
 
+## TIPS & TRICKS
+- [Troubleshoting DLP Prints](https://l3d.ie/2018/06/29/dlp-3d-printing-troubleshooting/)
+
 ## COMMUNITY PROJECTS
 - [Exposure Range Tester - Quick method to test multiple resin exposure settings in one go](https://github.com/altLab/photon-resin-calibration) 
 - [Photon File Utils - Photon files visualizer editor and creator tools](https://github.com/NardJ/PhotonFileUtils)
