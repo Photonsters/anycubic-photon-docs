@@ -64,6 +64,9 @@ TODO:
 - [CAD Files on this repo](https://github.com/altLab/anycubic-photon-docs/tree/master/photon-blueprints)
 - [Photon on Thinguiverse](https://www.thingiverse.com/search?q=Anycubic+Photon)
 
+## COMMUNITY MODDINGS AND TOOLS
+- [UV light distribuition tester](https://www.facebook.com/kzhkshj/posts/1782894801789685)
+
 ## SLICERS & HELPERS
 - [Support done with Meshmixer](https://youtu.be/OXFKVmMwXCQ?t=2m10s)
 
