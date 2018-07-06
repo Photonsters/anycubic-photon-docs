@@ -8,11 +8,12 @@ Last review 2018.07.02
 ## KNOWN PROBLEMS
 
 - z-wobble
-- bad usb
-- bad psu 
+- bad stock usb stick
+- bad psu brick (models before yellow windows)
 - half screen
-- flickering screen
-- sheer screen cable
+- flickering screen during print 
+- screen cable sheering on transport
 - loose internal usb cable
-- memory error
+- memory errors
 - dead z axis
+- failure to set homing offset values
