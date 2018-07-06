@@ -17,3 +17,8 @@ Last review 2018.07.02
 - memory errors
 - dead z axis
 - failure to set homing offset values
+
+
+---
+
+TODO: Provide references for the problems, solutions and what happened to the user machines when these problems were found
