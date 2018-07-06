@@ -13,5 +13,6 @@ Last review 2018.07.02
 - half screen
 - flickering screen
 - sheer screen cable
+- loose internal usb cable
 - memory error
 - dead z axis
