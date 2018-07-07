@@ -2,7 +2,8 @@
 
 Before running any of the firmwares archived here in the git go to the official website and see if there is a newer version available first. If it is update this post ;)
 
-[Official firmware page](https://github.com/Photonsters/anycubic-photon-docs/tree/master/firmware)
+[![image](https://user-images.githubusercontent.com/11083514/42406261-8b4b32d6-819b-11e8-91e0-ef02ec12e6d2.png)
+](http://www.anycubic3d.com/support/show/594032.html#firmwares)
 
 ---
 These firmwares were obtained via Anycubic Support. 
