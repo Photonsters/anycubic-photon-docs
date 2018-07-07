@@ -1,5 +1,10 @@
 ## ANYCUBIC PHOTON FIRMWARE
 
+Before running any of the firmwares archived here in the git go to the official website and see if there is a newer version available first. If it is update this post ;)
+
+[Official firmware page](https://github.com/Photonsters/anycubic-photon-docs/tree/master/firmware)
+
+---
 These firmwares were obtained via Anycubic Support. 
 If your machine is not reporting any problems don't update the firmware. 
 Use it at your own risk
