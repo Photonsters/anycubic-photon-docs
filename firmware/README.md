@@ -1,9 +1,11 @@
 ## ANYCUBIC PHOTON FIRMWARE
 
-Before running any of the firmwares archived here in the git go to the official website and see if there is a newer version available first. If it is update this post ;)
+Before running any of the firmwares archived here in the git go to the official website and see if there is a newer version available first. 
 
 [![image](https://user-images.githubusercontent.com/11083514/42406261-8b4b32d6-819b-11e8-91e0-ef02ec12e6d2.png)
 ](http://www.anycubic3d.com/support/show/594032.html#firmwares)
+
+If there is update this post or open a issue so that a member of the team can update this information ;)
 
 ---
 These firmwares were obtained via Anycubic Support. 
