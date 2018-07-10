@@ -22,4 +22,7 @@ Last review 2018.07.02
 ---
 
 TODO: Provide references for the problems, solutions and what happened to the user machines when these problems were found
-Test
+
+## Error codes
+#### M_11820
+Machine will randomly freeze during print and display error, Z does not retract, fan stays on.
