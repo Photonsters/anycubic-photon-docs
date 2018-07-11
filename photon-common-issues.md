@@ -14,10 +14,11 @@ Last review 2018.07.02
 - half screen
 - flickering screen during print 
 - screen cable sheering on transport
-- loose internal usb cable
+- loose / faulty internal usb cable
 - memory errors
 - dead z axis
 - failure to set homing offset values
+- layers shifting on LCD during print ( possible cause is defactive chip on mainboard )
 
 ---
 ### Random resets / Memory errors / USB Read problems
