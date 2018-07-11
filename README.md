@@ -52,12 +52,12 @@ TODO:
 - [Troubleshoting DLP Prints](https://l3d.ie/2018/06/29/dlp-3d-printing-troubleshooting/)
 
 ## COMMUNITY PROJECTS
-- [X3msnake's Exposure Range Tester - Quick method to test multiple resin exposure settings in one go](https://github.com/altLab/photon-resin-calibration) 
-- [NardJ's Photon File Utils - Photon files visualizer editor and creator tools](https://github.com/NardJ/PhotonFileUtils)
-- [Bonosoft's Photon File Validator -  Check if your sliced file has errors before printing](https://github.com/Photonsters/PhotonFileViewer)
-- [Rob's Voxel Engine - Javascript 3D model rebuilder and visualization from sliced Photon file's](https://github.com/Rob2048/PhotonTool)
-- [Reunarudo's PCB2Photon - Swift Gerber image to photon for PCB  mask burning and production](https://github.com/Reonarudo/pcb2photon)
-- [Andoryuuta's Photon - Go Library to read and write Photon and .cbddlp files](https://github.com/Andoryuuta/photon)
+- [Exposure Range Tester - Quick method to test multiple resin exposure settings in one go (X3msnake)](https://github.com/altLab/photon-resin-calibration) 
+- [Photon File Utils - Photon files visualizer editor and creator tools (NardJ)](https://github.com/NardJ/PhotonFileUtils)
+- [Photon File Validator -  Check if your sliced file has errors before printing (Bonosoft)](https://github.com/Photonsters/PhotonFileViewer)
+- [Browser Voxel Engine - Javascript 3D model rebuilder and visualization from sliced Photon file's (Rob2048)](https://github.com/Rob2048/PhotonTool)
+- [PCB2Photon - Swift Gerber image to photon for PCB  mask burning and production (Reunarudo)](https://github.com/Reonarudo/pcb2photon)
+- [Photon Go Library to read and write Photon and .cbddlp files (Andoryuuta)](https://github.com/Andoryuuta/photon)
 
 ## PHOTON ON THE WIRE
 - [FB Anycubic Owners Group](https://www.facebook.com/groups/AnycubicPhoton/?ref=group_header)
