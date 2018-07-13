@@ -51,6 +51,16 @@ TODO: Provide references for the problems, solutions and what happened to the us
  - Taken the Z Axis screw out completely and reinstalled it
  - Grease Z rod
  
+ ### layers shifting on LCD during print 
+ #### Symptoms
+ - prints look like they have been sliced / cut and moved onto another part of the build plate
+ - Checking the photon file reveals no problems ( use photonFileValidator ) 
+ 
+ #### Causes and fixes
+ - LCD or mainboard defact - perform 'dry run' and use timelapse camera to check if the LCD shifts during print.
+ - UNCONFIRMED FIX - Suggest contact Anycubic with evidence of issue first. check all cables are tight, Update Firmware.
+ 
+ 
 ## Error codes
 #### M_11820
 Machine will randomly freeze during print and display error, Z does not retract, fan stays on.
