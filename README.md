@@ -75,6 +75,7 @@ TODO:
 - [Support done with Meshmixer](https://youtu.be/OXFKVmMwXCQ?t=2m10s)
 
 ## COOL STL MODELS FOR TESTING
+- [Caesar chess piece](https://www.thingiverse.com/thing:3002177)
 - [AmeraLabs Town for SLA & DLP](https://www.thingiverse.com/thing:2810666)
 https://ameralabs.com/blog/town-calibration-part/
 - [Knight of Egipt - By Zorum](https://www.thingiverse.com/thing:1826018)
