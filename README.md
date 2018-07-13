@@ -75,6 +75,7 @@ TODO:
 - [Support done with Meshmixer](https://youtu.be/OXFKVmMwXCQ?t=2m10s)
 
 ## COOL STL MODELS FOR TESTING
+- [Anycubic Photon calibration file By Ilja](https://www.myminifactory.com/object/3d-print-anycubic-photon-calibration-file-70127)
 - [Caesar chess piece by John](https://www.thingiverse.com/thing:3002177)
 - [AmeraLabs Town for SLA & DLP](https://www.thingiverse.com/thing:2810666) / [How to use](https://ameralabs.com/blog/town-calibration-part/)
 - [Knight of Egipt - By Zorum](https://www.thingiverse.com/thing:1826018)
