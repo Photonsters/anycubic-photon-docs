@@ -42,6 +42,18 @@ TODO: Provide references for the problems, solutions and what happened to the us
 - If you have a small USB key, you can plug it directly to the mainboard for testing, I would not recommend it as permanent solution. 
 - If the problem does not solve with replacement USB cable, then you might have a faulty mainboard. Contact Anycubic immediately for a replacement or new machine. Firmware updates will not solve the USB issue.
 
+### Z Wobble / non random layer artifacts 
+#### Symptoms
+- non random layer artifacts visible on print no matter oreintation of print
+- Consistent warped prints
+
+#### Causes and fixes
+ - Loose FEP - remove and retighten FEP
+ - Z Axis video fix (adjusting the wheels on the carriage)
+ - Loosened the Z Axis stepper motor mounting screws twice (different degrees each time)
+ - Taken the brass seating fixture out of the carriage and reseated it for a smooth fit
+ - Taken the Z Axis screw out completely and reinstalled it
+ 
 ## Error codes
 #### M_11820
 Machine will randomly freeze during print and display error, Z does not retract, fan stays on.
