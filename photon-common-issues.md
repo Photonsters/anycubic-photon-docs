@@ -1,6 +1,10 @@
 All issues apply to Photons that came out with blue windows with firmware 4.0.11_LCD
 Last review 2018.07.02
 
+TODO: Provide references for the problems, solutions and what happened to the user machines when these problems were found
+
+---
+
 ## KNOWN ISSUES
 
 - USB names must be kept short and avoid special chars since photon cannot read them. found by [Michael Lippert](https://www.facebook.com/groups/AnycubicPhoton/permalink/1370647173079921/)
@@ -37,8 +41,6 @@ Last review 2018.07.02
  Unplug the male connector to the mainboard and plug in a replacement, then plug in your USB key. If this fixes the problem, contact Anycubic for a replacement cable as it uses a special external mount.
 - If you have a small USB key, you can plug it directly to the mainboard for testing, I would not recommend it as permanent solution. 
 - If the problem does not solve with replacement USB cable, then you might have a faulty mainboard. Contact Anycubic immediately for a replacement or new machine. Firmware updates will not solve the USB issue.
-
-TODO: Provide references for the problems, solutions and what happened to the user machines when these problems were found
 
 ## Error codes
 #### M_11820
