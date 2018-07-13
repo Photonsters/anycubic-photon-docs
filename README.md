@@ -17,7 +17,7 @@ TODO:
 - List community software projects and tools for the photon
 
 ## KNOWN ISSUES
-- [Known issues page](photon-common-issues.md)
+- [Known issues page](known-issues/photon-known-issues.md)
 
 ## PHOTON DIMENSIONS
 - Machine Volume: 220(L)x200(W)x400(H)
