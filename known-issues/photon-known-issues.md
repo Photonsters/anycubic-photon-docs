@@ -53,6 +53,7 @@ TODO: Provide references for the problems, solutions and what happened to the us
  - Loosened the Z Axis stepper motor mounting screws twice (different degrees each time)
  - Taken the brass seating fixture out of the carriage and reseated it for a smooth fit
  - Taken the Z Axis screw out completely and reinstalled it
+ - Grease Z rod
  
 ## Error codes
 #### M_11820
