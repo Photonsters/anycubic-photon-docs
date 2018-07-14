@@ -64,3 +64,6 @@ TODO: Provide references for the problems, solutions and what happened to the us
 ## Error codes
 #### M_11820
 Machine will randomly freeze during print and display error, Z does not retract, fan stays on.
+
+#### M_11800
+From Anycubic engineer 'this means USB is not plugged in'
