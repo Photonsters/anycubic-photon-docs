@@ -85,5 +85,5 @@ TODO:
 - [Chubby Girl - By K_Models](https://www.turbosquid.com/FullPreview/Index.cfm/ID/805220#)
 
 ## Investment Casting and 3D Printing
-- [2018 - Resin Casting: A Collection of Hypotheses] (http://www.santafesymposium.org/2018-santa-fe-symposium-papers/2018-resin-casting-a-collection-of-hypotheses)
+- [2018 - Resin Casting: A Collection of Hypotheses](http://www.santafesymposium.org/2018-santa-fe-symposium-papers/2018-resin-casting-a-collection-of-hypotheses)
 
