@@ -37,6 +37,7 @@ TODO: Provide references for the problems, solutions and what happened to the us
  Unplug the male connector to the mainboard and plug in a replacement, then plug in your USB key. If this fixes the problem, contact Anycubic for a replacement cable as it uses a special external mount.
 - If you have a small USB key, you can plug it directly to the mainboard for testing, I would not recommend it as permanent solution. 
 - If the problem does not solve with replacement USB cable, then you might have a faulty mainboard. Contact Anycubic immediately for a replacement or new machine. Firmware updates will not solve the USB issue.
+- Update 15-07-18 : before printing try to remove power cable with no USB plugged in, wait for 1 min then plug power and USB back in. Possible cause might be IC Memory buffer issue, unplug the power should reset it.
 
 ### Z Wobble / non random layer artifacts 
 #### Symptoms
