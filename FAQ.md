@@ -5,9 +5,12 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - Example leveling video - https://youtu.be/Y0bz5nYwll0
 - Detailed Anycubic leveling instructions - https://youtu.be/bIMwjmVl3Ho?t=2m32s
 
-## I can see the supports in my .photon sliced file but not my model
+## I can see/print the supports in my .photon sliced file but not my model
 The normals of your model are reversed. Flip them or they wont print. 
 - How to flip normals in meshmixer - https://www.youtube.com/watch?v=pa9R-gPUNwg
+Your model has errors
+- Meshmixer to repai holes - https://youtu.be/kfmY4Wk8bhA
+- Meshmixer top tips - https://youtu.be/C9VDKb3W4qA
 
 ## How long can I keep the resin in the vat?
 It depends on environmental factors and type/brand of resin, typically if the resin is kept out of light and moisture/dirt it may sit in the vat for 1 - 2 weeks. Clear resins tend to sit better, opaque resins will need more stirring before use to mix the pigments back. 
