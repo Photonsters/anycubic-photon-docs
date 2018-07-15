@@ -6,9 +6,8 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - Detailed Anycubic leveling instructions - https://youtu.be/bIMwjmVl3Ho?t=2m32s
 
 ## I can see/print the supports in my .photon sliced file but not my model
-The normals of your model are reversed. Flip them or they wont print. 
+The normals of your model are reversed. Flip them or they wont print. or your model has errors.
 - How to flip normals in meshmixer - https://www.youtube.com/watch?v=pa9R-gPUNwg
-Your model has errors
 - Meshmixer to repai holes - https://youtu.be/kfmY4Wk8bhA
 - Meshmixer top tips - https://youtu.be/C9VDKb3W4qA
 
