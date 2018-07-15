@@ -1,5 +1,9 @@
 # Frequently Asked Questions
 
+## My printer resets during prints!
+- this is a known problem and there are a few solutions to test. see the [KNOWN ISSUES SECTION](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md)
+
+
 ## How tight should the leveling be?
 If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER once tightening the level bolt it will move the plate down a tiny bit more, so you should raise / back off the level bout .01mm.
 - Example leveling video - https://youtu.be/Y0bz5nYwll0
