@@ -1,6 +1,3 @@
-All issues apply to Photons that came out with blue windows with firmware 4.0.11_LCD
-Last review 2018.07.02
-
 CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty machines, some of the fixes here may void you warrarnty, proceed at your own risk!
 
 ---
