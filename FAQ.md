@@ -14,6 +14,16 @@ It depends on environmental factors and type/brand of resin, typically if the re
 - check for loose cured resin or stuck resin, you will need to clean that out
 - cover the vat, you can cut a piece of cardboard that fits over the vat, or print one out on an FDM printer. Here is a good vat cover.https://www.thingiverse.com/thing:2837171
 - Before printing, carefully stir the resin for 1 - 2 minutes with the plastic spatula, be careful not to scratch the FEP screen.
+- Do not leave the z bed dangling with uncured resin, take it out and clean with IPA, leave it out untill you are ready to print, this will lessen the weight on the single Z rod thus prevent z wobble. 
+
+## My prints just wont stick
+- this is generally a leveling issue, make sure your leveling is 100% correct before attempting the other solutions
+- Clean the build plate with IPA.
+- Shake your resin well
+- Warm the resin, you can use hot hair dryer on most bottles to gently heat the resin while swiling between 20c - 30c
+- Did you relevel?
+- Loose and floppy FEP sheet, replace or tighten fep - instructions here https://youtu.be/DLi3chV43LQ
+- Sanding your print bed with 240 Grit sandpaper stuck on a flat surface until the powder coating is removed, make sure it is completely flat. THIS WILL VOID YOUR WARRANTY.
 
 ## How long should I cure my print?
 The best way to learn if your print has cured enough with sun light or a UV light set up is to find an area where you dont mind a mark and try to dent it with your finger or thumb nail, If you can then it's not ready yet, and as soon as you can't dent it it's ready.
