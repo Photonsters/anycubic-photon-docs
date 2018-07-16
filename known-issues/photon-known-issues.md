@@ -58,6 +58,7 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
  #### Causes and fixes
  - LCD or mainboard defact - perform 'dry run' and use timelapse camera to check if the LCD shifts during print.
  - UNCONFIRMED FIX - Suggest contact Anycubic with evidence of issue first. check all cables are tight, Update Firmware.
+ - Check cables are secure and not loose during shipping.
  
  
 ## Error codes
