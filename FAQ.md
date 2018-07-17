@@ -15,6 +15,19 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - Meshmixer to repai holes - https://youtu.be/kfmY4Wk8bhA
 - Meshmixer top tips - https://youtu.be/C9VDKb3W4qA
 
+## How do I clean the FEP Film?
+- once you have drained the vat of resin, spray down with IPA and wipe with paper towel. Spray again and use soft tissue on the clear FEP, finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratchthe FEP. Santize wipes can also be used then buff with lens cloth.
+
+## How do I clean the LCD?
+- Use soft tissues and a small spray of IPA to remove any dried resin, buff with microfiber cloth.
+
+## Can I put excess resin that doesn't get used in a print back into the original bottle?
+- Yes, but you should strain out any debri first using a filter.
+- You can keep the used resin in medicine bottles separately 
+
+## Should I coat my FEP sheet?
+Not advisable, and not really a proven solution, infact this may cause bad quality prints.
+
 ## How long can I keep the resin in the vat?
 It depends on environmental factors and type/brand of resin, typically if the resin is kept out of light and moisture/dirt it may sit in the vat for 1 - 2 weeks. Clear resins tend to sit better, opaque resins will need more stirring before use to mix the pigments back. 
 - check for loose cured resin or stuck resin, you will need to clean that out
