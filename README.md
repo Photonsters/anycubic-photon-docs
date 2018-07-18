@@ -4,7 +4,7 @@ Use this repo to collect information on anycubic photon hardware software and us
 
 TODO:
 
-- FAQ
+- [FAQ](FAQ.md)
 - Map Photon hardware
 - Map Photon file anatomy
 - How-to test resins
@@ -30,7 +30,6 @@ TODO:
 - 538ppi
 - Color Pixel Arrangement:RGB Vertical Stripe
 - Power Supply Voltage:AVDD=5.5+/-0.1V AVEE=-5.5+/-0.1 V
-- 25W 405nm LED
 
 ## MOTION DRIVER / MECHANICS
 - T8 leadscrew with 2mm lead/pitch
@@ -38,6 +37,11 @@ TODO:
 - Driver embeded Polulu Alegro 4998 set at 1/16 microstepping
 - Hardware resolution 10µ (0.01mm)
 - Digital microstepped resolution 0.625µ (0.000625mm)
+
+## ELECTRONICS
+- LED POWER 25W 405nm
+- PSU 12v 6A (72w) - 5.5x2.5 Jack - [check image](https://user-images.githubusercontent.com/11083514/42894729-92fd1f22-8aaf-11e8-9f58-2fdb9be91fb1.png)
+
 
 ## PHOTON FILE IMAGE FORMAT
 - 2560x1440px 
