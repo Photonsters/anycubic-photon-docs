@@ -18,6 +18,7 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
 - failure to set homing offset values
 - layers shifting on LCD during print ( possible cause is defactive chip on mainboard )
 - slicer no longer displays STL
+- Loose print bed head / print head too short
 
 ---
 ### Random resets / Memory errors / USB Read problems
@@ -38,6 +39,17 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
 - If the problem does not solve with replacement USB cable, then you might have a faulty mainboard. Contact Anycubic immediately for a replacement or new machine. Firmware updates will not solve the USB issue.
 - Update 15-07-18 : before printing try to remove power cable with no USB plugged in, wait for 1 min then plug power and USB back in. Possible cause might be IC Memory buffer issue, unplug the power should reset it.
 
+### Random resets / Memory errors / USB Read problems
+#### Symptoms
+- The printhead tilts side to side even when mount screw is tightened,
+- The print head sits too high from the FEP and can not lower any more.
+
+#### How to fix
+- This is unconfirmed solution
+- remove the mount screw
+- remove the four screwes holding the print bed
+- re align and adjust the length of the printhead.
+
 ### Z Wobble / non random layer artifacts 
 #### Symptoms
 - non random layer artifacts visible on print no matter oreintation of print
@@ -45,7 +57,7 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
 
 #### Causes and fixes
  - Loose FEP - remove and retighten FEP
- - Z Axis video fix (adjusting the wheels on the carriage)
+ - Z Axis video fix (adjusting the wheels on the carriage)https://www.youtube.com/watch?v=4cfCWmHtsy8
  - Loosened the Z Axis stepper motor mounting screws twice (different degrees each time)
  - Taken the brass seating fixture out of the carriage and reseated it for a smooth fit
  - Taken the Z Axis screw out completely and reinstalled it
