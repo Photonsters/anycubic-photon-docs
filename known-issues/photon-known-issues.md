@@ -60,7 +60,7 @@ Photo of the print bed assembly here - https://github.com/Photonsters/anycubic-p
 - Consistent warped prints
 
 #### Causes and fixes
- - Loose FEP - remove and retighten FEP
+ - Loose FEP - remove and retighten FEP https://youtu.be/DLi3chV43LQ
  - Z Axis video fix (adjusting the wheels on the carriage)https://www.youtube.com/watch?v=4cfCWmHtsy8
  - Loosened the Z Axis stepper motor mounting screws twice (different degrees each time)
  - Taken the brass seating fixture out of the carriage and reseated it for a smooth fit
