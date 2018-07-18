@@ -52,6 +52,7 @@ Photo of the print bed assembly here - https://github.com/Photonsters/anycubic-p
 - CLEAR OUT ANY RESIN WITH IPA.
 - they should be tight. Some users report that grinding, cutting the screws all it to sit tighter, be careful.
 - re align and adjust the length of the printhead. 
+- If you can't tighten down the build plate with the grub screw, Remove the four screws holding the ball joint in place and have a look inside there are 3 more screws and it may be that they are loose tighten them up again and off you go.
 
 ### Z Wobble / non random layer artifacts 
 #### Symptoms
