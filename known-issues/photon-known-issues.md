@@ -17,6 +17,7 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
 - dead z axis
 - failure to set homing offset values
 - layers shifting on LCD during print ( possible cause is defactive chip on mainboard )
+- slicer no longer displays STL
 
 ---
 ### Random resets / Memory errors / USB Read problems
@@ -60,6 +61,8 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
  - UNCONFIRMED FIX - Suggest contact Anycubic with evidence of issue first. check all cables are tight, Update Firmware.
  - Check cables are secure and not loose during shipping.
  
+  ### Photon slicer does not display STL
+  - Update display driver.
  
 ## Error codes
 #### M_11820
