@@ -48,6 +48,8 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
 - remove the mount screw
 - remove the four screwes holding the print bed
 - three more screws inside that will help tighten the ball joint have a look in there.
+- CLEAR OUT ANY RESIN WITH IPA.
+- they should be tight. Some users report that grinding, cutting the screws all it to sit tighter, be careful.
 - re align and adjust the length of the printhead. 
 
 ### Z Wobble / non random layer artifacts 
