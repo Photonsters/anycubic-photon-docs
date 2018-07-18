@@ -43,6 +43,7 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
 #### Symptoms
 - The printhead tilts side to side even when mount screw is tightened,
 - The print head sits too high from the FEP and can not lower any more.
+Photo of the print bed assembly here - https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon_bed_mount_assembly.jpg
 
 #### How to fix
 - remove the mount screw
