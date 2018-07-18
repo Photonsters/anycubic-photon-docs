@@ -39,7 +39,7 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
 - If the problem does not solve with replacement USB cable, then you might have a faulty mainboard. Contact Anycubic immediately for a replacement or new machine. Firmware updates will not solve the USB issue.
 - Update 15-07-18 : before printing try to remove power cable with no USB plugged in, wait for 1 min then plug power and USB back in. Possible cause might be IC Memory buffer issue, unplug the power should reset it.
 
-### Random resets / Memory errors / USB Read problems
+### Loose print bed head / print head too short
 #### Symptoms
 - The printhead tilts side to side even when mount screw is tightened,
 - The print head sits too high from the FEP and can not lower any more.
