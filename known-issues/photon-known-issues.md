@@ -45,10 +45,10 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
 - The print head sits too high from the FEP and can not lower any more.
 
 #### How to fix
-- This is unconfirmed solution
 - remove the mount screw
 - remove the four screwes holding the print bed
-- re align and adjust the length of the printhead.
+- three more screws inside that will help tighten the ball joint have a look in there.
+- re align and adjust the length of the printhead. 
 
 ### Z Wobble / non random layer artifacts 
 #### Symptoms
