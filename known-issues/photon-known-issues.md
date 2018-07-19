@@ -1,4 +1,4 @@
-CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty machines, some of the fixes here may void you warrarnty, proceed at your own risk!
+CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty machines, some of the fixes here may void you warranty, proceed at your own risk!
 
 ---
 
@@ -8,17 +8,19 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
 - Faulty internal USB cable ( bad connection, causing random resets )
 - Random reset possibily caused by internal memory buffer issue
 - z-wobble
-- bad stock usb stick
+- bad usb stick (stock stick)
 - bad psu brick (models before yellow windows)
+- machine reset / reboot
+- machine freezes mid print (usually usb related)
 - half screen
 - flickering screen during print 
 - screen cable sheering on transport
 - memory errors
 - dead z axis
-- failure to set homing offset values
+- failure to set homing offset values ( config.gcode issue reflash config.gcode )
 - layers shifting on LCD during print ( possible cause is defective chip on mainboard )
-- slicer no longer displays STL
-- Loose print bed head / print head too short
+- loose print bed head / print head too short ( plate assembly issue )
+- slicer does not display STL ( PC Gfx board driver issue )
 
 ---
 ### Random resets / Memory errors / USB Read problems
