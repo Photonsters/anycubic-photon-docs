@@ -16,7 +16,7 @@ CONTACT ANYCUBIC SUPPORT! This should be your first point of contact for faulty 
 - memory errors
 - dead z axis
 - failure to set homing offset values
-- layers shifting on LCD during print ( possible cause is defactive chip on mainboard )
+- layers shifting on LCD during print ( possible cause is defective chip on mainboard )
 - slicer no longer displays STL
 - Loose print bed head / print head too short
 
