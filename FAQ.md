@@ -62,6 +62,8 @@ https://www.youtube.com/watch?v=ZXu6VYj4Um0
 ## Help my plate slips during a print!!!
 This can happen if the screws that live inside the arm of your build plate (there are three of them in there), Work loose or if because you filled the vat quite high some resin has go inside and is making the grip of the ball joint in there slip about.
 
+Video Instructions https://www.youtube.com/watch?v=Uc8senzACFM
+
 There first remove the 4 bolts you can see just either side of the arms holder (the bit with red the platen knob on it) put them some place you can find them again then the housing will be able to open once you have gotten the build plate off you will see three more screws undo and place them in a safe spot too then you can take the mechanism of the ball joint apart be sure to note where it all goes so you can easily put it back together again (this may be a great time to take some pictures for your reference when rebuilding it.
 
 Now you have it all apart clean all the parts with some IPA and remove any cured or uncured resin you find, Then just put it all back together nice and tight and you can re level and start printing nice straight prints again!
