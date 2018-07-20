@@ -50,6 +50,7 @@ These issues / solutions have been compiled from cases reported by photonsters i
 Photo of the print bed assembly here - https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon_bed_mount_assembly.jpg
 
 #### How to fix
+- Check your build plate mount screws Tutorial > https://www.youtube.com/watch?v=Uc8senzACFM
 - remove the mount screw
 - remove the four screwes holding the print bed
 - three more screws inside that will help tighten the ball joint have a look in there.
