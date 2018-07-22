@@ -23,6 +23,7 @@ These issues / solutions have been compiled from cases reported by photonsters i
 - layers shifting on LCD during print ( possible cause is defective chip on mainboard )
 - loose print bed head / print head too short ( plate assembly issue )
 - slicer does not display STL ( PC Gfx board driver issue )
+- z motors stops moving mid print, LCD keeps exposing resin, no error message, stopping print and moving z via menu works.
 
 ---
 ### Random resets / Memory errors / USB Read problems
