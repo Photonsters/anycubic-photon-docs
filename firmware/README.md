@@ -7,6 +7,8 @@ Before running any of the firmwares archived here in the git go to the official 
 
 If there is a update open a issue with the new information so that a member of the team can update this page ;)
 
+The stock firmware of most machines before yellow windo«ws is 4.0.11_LCD
+
 ---
 These firmwares were obtained via Anycubic Support. 
 If your machine is not reporting any problems don't update the firmware. 
