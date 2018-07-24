@@ -86,6 +86,16 @@ Photo of the print bed assembly here - https://github.com/Photonsters/anycubic-p
   ### Photon slicer does not display STL
   - Update display driver.
  
+ ### LCD displpays only half of the model
+ #### Symptoms
+ - LCD displays half model, viewing display shows correctly.
+ - this is not related to flickering LCD
+ 
+  #### Causes and fixes
+  - check cables
+  - contact anycubic
+  - update firmware from anycubic support site 
+ 
 ## Error codes
 #### M_11820
 Machine will randomly freeze during print and display error, Z does not retract, fan stays on.
