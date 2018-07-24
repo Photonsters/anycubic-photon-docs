@@ -104,4 +104,4 @@ Machine will randomly freeze during print and display error, Z does not retract,
 From Anycubic engineer 'this means USB is not plugged in'
 
 #### M_11000
-Unknown
+USB Read problem, Buy new USB, 8GB or less FAT 32. ( sandisk reported fixed issue )
