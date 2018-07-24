@@ -102,3 +102,6 @@ Machine will randomly freeze during print and display error, Z does not retract,
 
 #### M_11800
 From Anycubic engineer 'this means USB is not plugged in'
+
+#### M_11000
+Unknown
