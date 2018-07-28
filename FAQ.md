@@ -26,6 +26,9 @@ Imagine a glass full of water upside down in a bucket of water. When you pull th
 
 Initially, In the printer vat, the inside volume of resin will be pulled up. Eventually, depending on the volume of the inside space and the volume of resin in the vat, the new layer will rise above the fluid level because the surface of the fluid will be moving down at ever increasing rates with each layer. That is, the level of the fluid inside the space and in the vat are actually moving in opposite directions. When that happens, all of the fluid inside will be released, but now you have a trapped volume of air, so you will alternate between struggling with lifting up and struggling with pushing down. It's a really bad situation to get into. The result is that you can get multiple failures at various heights, depending on where these extremes occur.
 
+https://support.formlabs.com/hc/en-us/articles/115000018124-Model-Orientation
+
+
 ## I can see/print the supports in my .photon sliced file but not my model
 The normals of your model are reversed. Flip them or they wont print. or your model has errors.
 - How to flip normals in meshmixer - https://www.youtube.com/watch?v=pa9R-gPUNwg
