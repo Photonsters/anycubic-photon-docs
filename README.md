@@ -57,9 +57,9 @@ TODO:
 
 ## COMMUNITY PROJECTS
 - [Exposure Range Tester - Quick method to test multiple resin exposure settings in one go (X3msnake)](https://github.com/altLab/photon-resin-calibration) 
-- [Photon File Utils - Photon files visualizer editor and creator tools (NardJ)](https://github.com/NardJ/PhotonFileUtils)
+- [Photon File Editor - Photon files visualizer editor and creator tools (NardJ)](https://github.com/NardJ/PhotonFileUtils)
 - [Photon File Validator -  Check if your sliced file has errors before printing (Bonosoft)](https://github.com/Photonsters/PhotonFileViewer)
-- [Browser Voxel Engine - Javascript 3D model rebuilder and visualization from sliced Photon file's (Rob2048)](https://github.com/Rob2048/PhotonTool)
+- [Photon 3D Viewer - Javascript Voxel engine for sliced Photon files (Rob2048)](https://github.com/Rob2048/PhotonTool)
 - [PCB2Photon - Swift Gerber image to photon for PCB  mask burning and production (Reunarudo)](https://github.com/Reonarudo/pcb2photon)
 - [Photon Go Library to read and write Photon and .cbddlp files (Andoryuuta)](https://github.com/Andoryuuta/photon)
 
