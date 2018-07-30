@@ -85,6 +85,10 @@ Photo of the print bed assembly here - https://github.com/Photonsters/anycubic-p
  
   ### Photon slicer does not display STL
   - Update display driver.
+  
+  ### Photon slicer does not run
+  - ReInstall C++ distribution library
+  https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads
  
  ### LCD displpays only half of the model
  #### Symptoms
