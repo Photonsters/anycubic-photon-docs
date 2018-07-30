@@ -19,7 +19,7 @@ On startup the update.lcd file is used to update the firmware and the printer st
 At this point you need to "print" the other two files. 
 
 T_88 error code means that the firmware files are not coherent.
-Check in the menu if the version has been updated to 4.1.3, and if so "print" the other two files again.
+Check in the menu if the version has been updated to the correct firmware version, and if so "print" the other two files again.
 
 ---
 This text was last updated in 2018.07.02
