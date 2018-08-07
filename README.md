@@ -62,7 +62,7 @@ TODO:
 
 [**Chitu Slicer** (Anycubic is rebranded chitu)](http://www.cbd-3d.com/en/soft/dlpslicer.shtml)
 
-Chitu devs have been helping Photonster devs with some support questions and their new software release will allow for better integration of photonsters tools with their software.
+Chitu devs have been helping Photonster devs with some support questions and. Chitu's new software release will allow for better integration of photonsters tools with the slicer software and will support many new formats including zip/gcode import/export.
 
 ## COMMUNITY PROJECTS
 - [Exposure Range Tester - Quick method to test multiple resin exposure settings in one go (X3msnake)](https://github.com/altLab/photon-resin-calibration) 
