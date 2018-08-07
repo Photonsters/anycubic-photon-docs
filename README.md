@@ -55,6 +55,12 @@ TODO:
 ## TIPS & TRICKS
 - [Troubleshoting DLP Prints](https://l3d.ie/2018/06/29/dlp-3d-printing-troubleshooting/)
 
+## PHOTON SLICERS
+- Anycubic Slicer [![image](https://user-images.githubusercontent.com/11083514/43782437-4634c3ea-9a57-11e8-8dab-698e92a305be.png)](http://www.anycubic3d.com/support/show/594032.html)
+- [Chitu Slicer (Anycubic is rebranded chitu](http://www.cbd-3d.com/en/soft/dlpslicer.shtml)
+
+Chitu devs have been helping Photonster devs with some support questions and their new software release will allow for better integration of photonsters tools with their software.
+
 ## COMMUNITY PROJECTS
 - [Exposure Range Tester - Quick method to test multiple resin exposure settings in one go (X3msnake)](https://github.com/altLab/photon-resin-calibration) 
 - [Photon File Editor - Photon files visualizer editor and creator tools (NardJ)](https://github.com/NardJ/PhotonFileUtils)
