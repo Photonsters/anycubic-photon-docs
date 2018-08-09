@@ -38,6 +38,7 @@ These issues / solutions have been compiled from cases reported by photonsters i
 - replace stock USB key with >16gb one, format to Fat32
 - Only have one file on USB, using short name and no non english characters or spaces.
 - If problem still occurring you might have defective USB extension cable or faulty mainboard.
+- video instructions for checking USB cable - https://www.youtube.com/watch?v=6JowsfJEdHs
 - Test with a new USB Extension cable. this is male to female type, you can easily access this by removing the four screws holding the rear vent. UNPLUG POWER BEFORE DOING THIS
  Unplug the male connector to the mainboard and plug in a replacement, then plug in your USB key. If this fixes the problem, contact Anycubic for a replacement cable as it uses a special external mount.
 - If you have a small USB key, you can plug it directly to the mainboard for testing, I would not recommend it as permanent solution. 
