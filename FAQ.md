@@ -18,6 +18,7 @@
 - Did you relevel?
 - Loose and floppy FEP sheet, replace or tighten fep - instructions here https://youtu.be/DLi3chV43LQ
 - Sanding your print bed with 240 Grit sandpaper stuck on a flat surface until the powder coating is removed, make sure it is completely flat. THIS WILL VOID YOUR WARRANTY.
+- Bed is too high / low. this is caused by incorrectly seated ball joint screws. fix here. https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md#loose-print-bed-head--print-head-too-short
 
 ## How tight should the leveling be?
 If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER once tightening the level bolt it will move the plate down a tiny bit more, so you should raise / back off the level bout .01mm.
