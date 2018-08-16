@@ -44,6 +44,7 @@ These issues / solutions have been compiled from cases reported by photonsters i
 - If you have a small USB key, you can plug it directly to the mainboard for testing, I would not recommend it as permanent solution. 
 - If the problem does not solve with replacement USB cable, then you might have a faulty mainboard. Contact Anycubic immediately for a replacement or new machine. Firmware updates will not solve the USB issue.
 - Update 15-07-18 : before printing try to remove power cable with no USB plugged in, wait for 1 min then plug power and USB back in. Possible cause might be IC Memory buffer issue, unplug the power should reset it.
+- Check printer driver reference voltage is between 1.07 and 1.16v if not tune it to that how to in [here](https://www.facebook.com/groups/AnycubicPhoton/permalink/1404990436312261/) confirmed by Laszlo Cook
 
 ### Loose print bed head / print head too short
 #### Symptoms
