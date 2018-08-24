@@ -103,6 +103,14 @@ Photo of the print bed assembly here - https://github.com/Photonsters/anycubic-p
   - contact anycubic
   - update firmware from anycubic support site 
  
+ ### Other random problems with a combination of the above
+ #### Symptoms
+ - After you have tried all the fixes above, machine is still behaving abnormally, this could be a faulty Mainboard.
+ 
+  #### Causes and fixes
+ - Check for mainboard faults using mulitmeter following this video https://youtu.be/F69UMKYKvbY
+ - Replace Mainboard.
+ 
 ## Error codes
 #### M_11820
 Machine will randomly freeze during print and display error, Z does not retract, fan stays on.
