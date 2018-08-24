@@ -17,6 +17,7 @@ These issues / solutions have been compiled from cases reported by photonsters i
 - half screen
 - flickering screen during print 
 - screen cable sheering on transport
+- mainboard failure ( how to test video ) https://youtu.be/F69UMKYKvbY
 - memory errors
 - dead z axis
 - failure to set homing offset values ( config.gcode issue reflash config.gcode )
