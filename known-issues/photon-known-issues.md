@@ -47,6 +47,9 @@ These issues / solutions have been compiled from cases reported by photonsters i
 - Update 15-07-18 : before printing try to remove power cable with no USB plugged in, wait for 1 min then plug power and USB back in. Possible cause might be IC Memory buffer issue, unplug the power should reset it.
 - Check printer driver reference voltage is between 1.07 and 1.16v if not tune it to that how to in [here](https://www.facebook.com/groups/AnycubicPhoton/permalink/1404990436312261/) confirmed by Laszlo Cook
 
+### Slicer wont display model / doesnt work
+Photon Slicer currently does not support intergrated graphic driver, or resolution above 2k.
+
 ### Loose print bed head / print head too short
 #### Symptoms
 - The printhead tilts side to side even when mount screw is tightened,
