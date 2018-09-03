@@ -57,6 +57,7 @@ Photon Slicer currently does not support intergrated graphic driver, or resoluti
 Photo of the print bed assembly here - https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon_bed_mount_assembly.jpg
 
 #### How to fix
+- Dissamble build plate assembly and resit ball joint - https://www.youtube.com/watch?v=VdiNI_Xu6bI
 - Check your build plate mount screws Tutorial > https://www.youtube.com/watch?v=Uc8senzACFM
 - remove the mount screw
 - remove the four screwes holding the print bed
