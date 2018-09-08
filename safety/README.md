@@ -54,22 +54,25 @@ Sensitisation may give severe responses to very low levels of exposure, in situa
 - Enclosure
 - Mask
 
-### Ventilation
+#### Ventilation
 This serves to remove the harmfull vapours from your working area or at least dilute them enough to be harmless in their concentration.
 - Work outside
 - Open a window
 - Actively remove air with a e.g. bathroom fan 
 
-### Enclosures
+#### Enclosures
 This serves to prevent harmfull vapours from entering your your working area. The enclosure should have ventilation to the outside so that when opening the enclosure (for removing/cleaning prints and pouring resins) you are not confronted with the vapours.
 
 ![Example enclosure](https://user-images.githubusercontent.com/11459480/45254634-ceff7e80-b37b-11e8-95b2-5b4e83e51e28.jpg)
 
-### Masks
+#### Masks
 A mask you can be used to protect yourself from vapours, however not the people around you. However since you are closest to the source and thus experience the highest concentration, you are best of wearing one.
 
 ![Organic Vapour Mask](https://user-images.githubusercontent.com/11459480/45254635-d030ab80-b37b-11e8-93b2-81b094c04e7b.jpg)
 
+
+
+---
 
 #### References
 https://forum.formlabs.com/t/toxic-where-to-put-printer/12158/16
