@@ -2,16 +2,16 @@
 
 ## Disclaimer
 
-##Types of danger
+## Types of danger
 - ingestion
 - inhalation
 - skin contact
 
-##Duration of danger
+## Duration of danger
 
-##Amount of danger
+## Amount of danger
 
-##Protection types
+## Protection types
 - ventilation
 - enclosure
 - mask
