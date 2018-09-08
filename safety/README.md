@@ -45,3 +45,8 @@ This serves to prevent harmfull vapours from entering your your working area. Th
 ### mask
 A mask you can be used to protect yourself from vapours, however not the people around you. However since you are closest to the source and thus experience the highest concentration, you are best of wearing one.
 ![Organic Vapour Mask](https://user-images.githubusercontent.com/11459480/45254635-d030ab80-b37b-11e8-93b2-81b094c04e7b.jpg)
+
+
+#### References
+https://forum.formlabs.com/t/toxic-where-to-put-printer/12158/16
+https://forum.peopoly.net/t/concerned-about-health-safety-of-sla-resin-in-moai-your-thoughts/636/11
