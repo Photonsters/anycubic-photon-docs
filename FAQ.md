@@ -8,6 +8,7 @@
 
 ## How do I level my printbed
 - paper method https://youtu.be/bIMwjmVl3Ho?t=2m32s
+- Paper method by Nic W https://youtu.be/qEaNVfT8y9w
 - Flint Read method https://www.youtube.com/watch?v=roAqm5c3rfU
 
 ## My prints just wont stick
@@ -23,6 +24,7 @@
 ## How tight should the leveling be?
 If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER once tightening the level bolt it will move the plate down a tiny bit more, so you should raise / back off the level bout .01mm.
 - Example leveling video - https://youtu.be/Y0bz5nYwll0
+- Tight but not too tight example - https://youtu.be/qEaNVfT8y9w
 - Detailed Anycubic leveling instructions - https://youtu.be/bIMwjmVl3Ho?t=2m32s
 
 ## What is suction warping and how do I combat it, should I add a vent hole?
