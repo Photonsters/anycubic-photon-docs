@@ -6,7 +6,8 @@ After getting the Chinese version of the gcode parameter description, let me kno
 
 If you want to control the relevant parameters of the Z axis, the following parameters can be used together with the application.
 
-M8070 S3 is set to the slow rise Z distance height of the release type
+M8070 S3 is set to the slow rise Z distance height of the release type.
+
 M8070 Z6 is the total height of the Z release type = S# slow rise Z distance height + fast rise distance height, so the height of 6-3=3 rapid rise is 3mm
 
 M8015 T2 is the speed of Z-axis slow release
