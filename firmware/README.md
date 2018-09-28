@@ -18,13 +18,13 @@ After finalizing the settings, you need to save the parameters you designed to t
 
 My last test parameter was parameter(Slow T1).gcode changed as follows:
 
-M8015 T1
-M8016 T2
+M8015 T1;
+M8016 T2;
 
-M8070 Z6
-M8080 S3
+M8070 Z6;
+M8080 S3;
 
-M8500 
+M8500 ;
 
 ==============================================
 取得中文版gcode參數說明後, 讓我更明白之前做的實驗是正確的.
