@@ -30,7 +30,7 @@ If you are using the paper method, the paper should be tight enough to pull but 
 Not advisable, and not really a proven solution, infact this may cause bad quality prints.
 
 
-# MODEL SETUP & SETTINGS
+## MODEL SETUP & SETTINGS
 
 ### What do the print settings mean?
 Bottom Exposures (Bottom layers): this is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about)
@@ -59,7 +59,7 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - [Meshmixer top tips - Youtube](https://youtu.be/C9VDKb3W4qA)
 
 
-# CLEANING
+## CLEANING
 
 ### How do I clean the LCD?
 - Use soft tissues and a small spray of IPA to remove any dried resin, buff with microfiber cloth.
