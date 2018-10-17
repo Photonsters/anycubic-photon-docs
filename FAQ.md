@@ -7,9 +7,9 @@
 - this is a known problem and there are a few solutions to test. see the [KNOWN ISSUES SECTION](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md)
 
 ## How do I level my printbed
-- paper method https://youtu.be/bIMwjmVl3Ho?t=2m32s
-- Paper method by Nic W https://youtu.be/qEaNVfT8y9w
-- Flint Read method https://www.youtube.com/watch?v=roAqm5c3rfU
+- [Paper method by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
+- [Paper method by Nic W - Youtube](https://youtu.be/qEaNVfT8y9w)
+- [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU)
 
 ## My prints just wont stick
 - this is generally a leveling issue, make sure your leveling is 100% correct before attempting the other solutions
@@ -17,16 +17,16 @@
 - Shake your resin well
 - Warm the resin, you can use hot hair dryer on most bottles to gently heat the resin while swiling between 20c - 30c
 - Did you relevel?
-- Bed is too high / low. this is caused by incorrectly seated ball joint screws. fix here. https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md#loose-print-bed-head--print-head-too-short
-- Loose and floppy FEP sheet, replace or tighten fep - instructions here https://youtu.be/Sdxf9mf7-ns or https://youtu.be/DLi3chV43LQ
+- Bed is too high / low. this is caused by incorrectly seated ball joint screws. [fix here](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md#loose-print-bed-head--print-head-too-short)
+- Loose and floppy FEP sheet, replace or tighten fep - [instructions here](https://youtu.be/Sdxf9mf7-ns) and [here](https://youtu.be/DLi3chV43LQ)
 - Sanding your print bed with 240 Grit sandpaper stuck on a flat surface until the powder coating is removed, make sure it is completely flat. THIS WILL VOID YOUR WARRANTY.
 
 
 ## How tight should the leveling be?
 If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER once tightening the level bolt it will move the plate down a tiny bit more, so you should raise / back off the level bout .01mm.
-- Example leveling video - https://youtu.be/Y0bz5nYwll0
-- Tight but not too tight example - https://youtu.be/qEaNVfT8y9w
-- Detailed Anycubic leveling instructions - https://youtu.be/bIMwjmVl3Ho?t=2m32s
+- [Example leveling video - Youtube](https://youtu.be/Y0bz5nYwll0)
+- [Tight but not too tight example - Youtube](https://youtu.be/qEaNVfT8y9w)
+- [Detailed Anycubic leveling instructions - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 
 ## What is suction warping and how do I combat it, should I add a vent hole?
 Imagine a glass full of water upside down in a bucket of water. When you pull the glass up out of the bucket, it stays full until the lip of the glass breaks the surface of the water in the bucket. In the tray, the lowest point of the print, the new layer, does not (generally) rise above the level of the liquid resin in the vat. Therefore, the liquid resin inside the "bowl" cannot evacuate. You have to add an air hole. This is a significant cause of failures. You have to reduce the work that the stepper motor has to do to lift the platform.
@@ -38,9 +38,9 @@ https://support.formlabs.com/hc/en-us/articles/115000018124-Model-Orientation
 
 ## I can see/print the supports in my .photon sliced file but not my model
 The normals of your model are reversed. Flip them or they wont print. or your model has errors.
-- How to flip normals in meshmixer - https://www.youtube.com/watch?v=pa9R-gPUNwg
-- Meshmixer to repai holes - https://youtu.be/kfmY4Wk8bhA
-- Meshmixer top tips - https://youtu.be/C9VDKb3W4qA
+- [How to flip normals in meshmixer - Youtube](https://www.youtube.com/watch?v=pa9R-gPUNwg)
+- [Meshmixer to repair holes - Youtube](https://youtu.be/kfmY4Wk8bhA)
+- [Meshmixer top tips - Youtube](https://youtu.be/C9VDKb3W4qA)
 
 ## How do I clean the FEP Film?
 - once you have drained the vat of resin, spray down with IPA and wipe with paper towel. Spray again and use soft tissue on the clear FEP, finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratchthe FEP. Santize wipes can also be used then buff with lens cloth.
@@ -72,8 +72,8 @@ https://www.youtube.com/watch?v=ZXu6VYj4Um0
 ## Help my plate slips during a print!!!
 This can happen if the screws that live inside the arm of your build plate (there are three of them in there), Work loose or if because you filled the vat quite high some resin has go inside and is making the grip of the ball joint in there slip about.
 
-Official Anycubic instructions https://www.youtube.com/watch?v=VdiNI_Xu6bI
-Photonsters Video Instructions https://www.youtube.com/watch?v=Uc8senzACFM
+- [Official Anycubic instructions - Youtube](https://www.youtube.com/watch?v=VdiNI_Xu6bI)
+- [Photonsters Video Instructions - Youtube](https://www.youtube.com/watch?v=Uc8senzACFM)
 
 There first remove the 4 bolts you can see just either side of the arms holder (the bit with red the platen knob on it) put them some place you can find them again then the housing will be able to open once you have gotten the build plate off you will see three more screws undo and place them in a safe spot too then you can take the mechanism of the ball joint apart be sure to note where it all goes so you can easily put it back together again (this may be a great time to take some pictures for your reference when rebuilding it.
 
