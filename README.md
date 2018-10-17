@@ -82,9 +82,9 @@ Chitu devs have been helping Photonster devs with some support questions, and Ch
 
 ## Community projects
 - [Exposure Range Tester](https://github.com/altLab/photon-resin-calibration) - Quick method to test multiple resin exposure settings in one go *(X3msnake)*
-- [Photon File Utils](https://github.com/NardJ/PhotonFileUtils) - Photon file visualizer editor and creator tools *(NardJ)*
 - [Photon File Validator](https://github.com/Photonsters/PhotonFileViewer) - Check if your sliced file has errors before printing *(Bonosoft)*
 - [Photon Sliced File 3D Viewer](https://github.com/Rob2048/PhotonTool) - Javascript 3D model rebuilder and visualization from sliced Photon files *(Rob2048)*
+- [Photon File Utils](https://github.com/NardJ/PhotonFileUtils) - Photon file visualizer editor and creator tools *(NardJ)*
 - [PCB2Photon](https://github.com/Reonarudo/pcb2photon) - Swift Gerber image to Photon for PCB mask burning and production *(Reunarudo)*
 - [Photon Go](https://github.com/Andoryuuta/photon) - Library to read and write Photon and .cbddlp files *(Andoryuuta)*
 - [UV light distribution tester](https://www.facebook.com/kzhkshj/posts/1782894801789685)
