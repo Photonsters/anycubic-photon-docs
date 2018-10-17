@@ -3,10 +3,10 @@
 - Cost per kg
 - Availability (distribuitors)
 
-- Density
-- Color pre-cure
-- Color post-cure
-- Smell
+- Density (Anounced / Mesured - Need a density cup) 
+- Color pre-cure (controlled light photo of a break sample?)
+- Color post-cure (controlled light photo of a break sample?)
+- Smell (subjective test - Check if the VOC sensosrs can detect a smelly resin from a non smelly one)
 
 - Exposure sweet spot
 - Exposure range
