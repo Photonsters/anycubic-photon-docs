@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## Ive just bought a Photon, what accessories should I get? 
+### Ive just bought a Photon, what accessories should I get? 
 - What you need before printing by Kevin Rank. http://makerfun3d.com/toolbox-resin-printers 
 
 ## LEVELLING
