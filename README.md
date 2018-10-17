@@ -72,6 +72,8 @@ Go to [this page](http://www.anycubic3d.com/support/show/594032.html) and click 
 #### [**Chitu Slicer**](http://www.cbd-3d.com/en/soft/dlpslicer.shtml) (ANYCUBIC is rebranded Chitu)
 Chitu devs have been helping Photonster devs with some support questions, and Chitu's new software release will allow for better integration of Photonsters tools with the slicer software, and will support many new formats including zip/gcode import/export.
 
+#### [**Photon Firmware & Gcode Mods**](https://github.com/Photonsters/anycubic-photon-docs/tree/master/firmware)
+
 ## Community resin exposure settings
 - [Known good resin settings - Curated by Artur Fuste](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0)
 
