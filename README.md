@@ -2,6 +2,7 @@
 
 Use this repo to collect information on ANYCUBIC Photon hardware, software and usage.
 
+Want to help? check at the bottom of this page the [TO DO](#todo) list and open a [issue with #IWantToHelp](https://github.com/Photonsters/anycubic-photon-docs/issues/new?title=IWantToHelp)
 
 ## Table of Contents
 
@@ -14,7 +15,7 @@ Use this repo to collect information on ANYCUBIC Photon hardware, software and u
 * [Community projects](#community-projects)
 * [Social media groups](#social-media-groups)
 * [Models & resources](#models--resources)
-* [TODO](#todo)
+* [TO.DO.](#todo)
 
 <!-- toc -->
 
@@ -115,8 +116,9 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 1. How-to test resins
 1. How-to level
 1. How-to use external Stepper driver
-1. Create Repo with resins and community consensus resin test method
+1. Create Repo with resins and community consensus resin test method [check this page](https://github.com/Photonsters/anycubic-photon-docs/blob/master/resin-tests/resin-testing-protocol.md)
 1. List official slicers and alternative/usefull software
 1. Collect config files and firmware from Google group
 1. Collect community reversed Photon CAD parts
 1. List community software projects and tools for the Photon
+
