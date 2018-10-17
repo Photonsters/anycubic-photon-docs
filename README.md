@@ -105,12 +105,14 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 - [DLP/SLA models on MyMiniFactory](https://www.myminifactory.com/search/?tech=DLP_SLA)
 
 ### Tutorials, videos, tips & tricks
+- [Photonsters Youtube Channel](https://www.youtube.com/channel/UCtkUaPjl49fyaNOLNTbKHlQ)
 - [Troubleshooting DLP Prints](https://l3d.ie/2018/06/29/dlp-3d-printing-troubleshooting/)
 - [Supports created with Meshmixer](https://youtu.be/OXFKVmMwXCQ?t=2m10s)
 - [2018 - Resin Casting: A Collection of Hypotheses](http://www.santafesymposium.org/2018-santa-fe-symposium-papers/2018-resin-casting-a-collection-of-hypotheses)
 
 
 ## TODO
+1. Videos for the [Photonsters Youtube Channel](https://www.youtube.com/channel/UCtkUaPjl49fyaNOLNTbKHlQ)
 1. Map Photon hardware
 1. Map Photon file anatomy
 1. How-to test resins
