@@ -6,7 +6,7 @@ These issues / solutions have been compiled from cases reported by photonsters i
 
 ## KNOWN ISSUES
 
-- USB names must be kept short and avoid special chars since photon cannot read them. found by [Michael Lippert - see fb post here](https://www.facebook.com/groups/AnycubicPhoton/permalink/1370647173079921/)
+- USB names must be kept short and avoid special chars since photon cannot read them. found by Michael Lippert [(see facebook post here)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1370647173079921/)
 - Faulty internal USB cable ( bad connection, causing random resets )
 - Random reset possibily caused by internal memory buffer issue
 - z-wobble
