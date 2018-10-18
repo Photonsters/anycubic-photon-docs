@@ -78,12 +78,10 @@ Chitu devs have been helping Photonster devs with some support questions, and Ch
 
 ## Community resin exposure settings
 - [Known good resin settings - Curated by Artur Fuste](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0)
-
-Check also the resin exposure finder test below.
-
+- Also checkout the resin exposure finder test under community projects.
 
 ## Community projects
-- [Exposure Range Tester](https://github.com/altLab/photon-resin-calibration) - Quick method to test multiple resin exposure settings in one go *(X3msnake)*
+- [Resin Exposure Range Finder](https://github.com/altLab/photon-resin-calibration) - Quick method to test multiple resin exposure settings in one go *(X3msnake)*
 - [Photon File Validator](https://github.com/Photonsters/PhotonFileViewer) - Check if your sliced file has errors before printing *(Bonosoft)*
 - [Photon Sliced File 3D Viewer](https://github.com/Rob2048/PhotonTool) - Javascript 3D model rebuilder and visualization from sliced Photon files *(Rob2048)*
 - [Photon File Utils](https://github.com/NardJ/PhotonFileUtils) - Photon file visualizer editor and creator tools *(NardJ)*
@@ -102,7 +100,7 @@ Check also the resin exposure finder test below.
 
 ### Calibration models
 Use these resources to test how your Photon is printing, and to remove guesswork from calculating resin exposure times.
-- [X3msnake's Exposure Range Tester](https://github.com/altLab/photon-resin-calibration/releases/latest)
+- [X3msnake's Resin Exposure Range Finder](https://github.com/altLab/photon-resin-calibration/releases/latest)
 - [ANYCUBIC Photon calibration file By Ilja](https://www.myminifactory.com/object/3d-print-anycubic-photon-calibration-file-70127)
 
 ### Model repositories
