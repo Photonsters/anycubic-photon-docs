@@ -48,7 +48,7 @@ These issues / solutions have been compiled from cases reported by photonsters i
 - Update 15-07-18 : before printing try to remove power cable with no USB plugged in, wait for 1 min then plug power and USB back in. Possible cause might be IC Memory buffer issue, unplug the power should reset it.
 - Check printer driver reference voltage is between 1.07 and 1.16v if not tune it to that how to in [here](https://www.facebook.com/groups/AnycubicPhoton/permalink/1404990436312261/) confirmed by Laszlo Cook
 - Check power supply unit (PSU) version. Early versions are known to be faulty. Replace with another 12V 6A unit.
-(https://raw.githubusercontent.com/Photonsters/anycubic-photon-docs/master/known-issues/photon_psu_comparison.png)  
+(Comparison photo here [https://raw.githubusercontent.com/Photonsters/anycubic-photon-docs/master/known-issues/photon_psu_comparison.png])  
 
 ### Slicer wont display model / doesnt work
 Photon Slicer currently does not support intergrated graphic driver, or resolution above 2k.
