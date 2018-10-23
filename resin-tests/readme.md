@@ -1,3 +1,3 @@
 Resin testing and reviews have their own project now
 
-Check [resin-reviews.org project](www.resin-reviews.org)
+Check [resin-reviews.org project](http://resin-reviews.org)
