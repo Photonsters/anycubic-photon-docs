@@ -12,8 +12,10 @@ The attachment firmware for your reference
 
 The refresh order is: 
 
-fpga26 
-导出状态文件.txt
-机器参数.gcode
+- fpga26 
+- 导出状态文件.txt
+- 机器参数.gcode
+
+----
 
 ![](http://file.suopprt.anycubic3d.com/bucket/uploadfile/201810/24/102410544834528.png)
