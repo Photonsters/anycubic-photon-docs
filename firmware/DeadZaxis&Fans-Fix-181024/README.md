@@ -1,11 +1,12 @@
-﻿
-#Dead Z axis fix by anycubic
+# Dead Z axis fix by anycubic
 
 Original FB post: https://www.facebook.com/groups/AnycubicPhoton/permalink/1479964245481546/
 
+**Kudos: Curtis Miller**
 
 I got these files from Anycubic support to fix the issue where there's no movement on the z-axis, the fans don't turn on, and no UV light on the screen. They provided the following instructions and an image when contradicts them:  
 
+----
 
 The attachment firmware for your reference  
 
