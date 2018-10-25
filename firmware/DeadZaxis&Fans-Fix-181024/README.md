@@ -4,7 +4,7 @@ Original FB post: https://www.facebook.com/groups/AnycubicPhoton/permalink/14799
 
 **Kudos: Curtis Miller**
 
-I got these files from Anycubic support to fix the issue where there's no movement on the z-axis, the fans don't turn on, and no UV light on the screen. They provided the following instructions and an image when contradicts them:  
+I got these files from Anycubic support to fix the issue where there's no movement on the z-axis, the fans don't turn on, and no UV light on the screen. They provided the following instructions and an image which contradicts them:  
 
 ----
 
