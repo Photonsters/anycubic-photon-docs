@@ -100,7 +100,7 @@ Chitu devs have been helping Photonster devs with some support questions, and Ch
 
 ### Calibration models
 Use these resources to test how your Photon is printing, and to remove guesswork from calculating resin exposure times.
-- [X3msnake's Resin Exposure Range Finder](https://github.com/altLab/photon-resin-calibration/releases/latest)
+- [X3msnake's Resin Exposure Range Finder](https://github.com/altLab/photon-resin-calibration)
 - [ANYCUBIC Photon calibration file By Ilja](https://www.myminifactory.com/object/3d-print-anycubic-photon-calibration-file-70127)
 
 ### Model repositories
