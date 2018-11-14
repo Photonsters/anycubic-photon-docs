@@ -95,7 +95,6 @@ Chitu devs have been helping Photonster devs with some support questions, and Ch
 - [ANYCUBIC Photon Forum - Managed by official distributor PT](http://photonforum.statusavailable.pt/viewforum.php?f=23)
 - [Twitter #AnycubicPhoton](https://twitter.com/hashtag/ANYCUBICPHOTON?src=hash)
 
-
 ## Models & resources
 
 ### Calibration models
@@ -105,7 +104,7 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 
 ### Model repositories
 - [CAD files on this repo](https://github.com/altLab/anycubic-photon-docs/tree/master/photon-blueprints)
-- [Photon on Thingiverse](https://twitter.com/search?vertical=default&q=%23anycubicphoton%20OR%20Anycubic%20Photon&src=typd)
+- [Photon on Thinguiverse](https://www.thingiverse.com/search?q=Anycubic+Photon)
 - [DLP/SLA models on MyMiniFactory](https://www.myminifactory.com/search/?tech=DLP_SLA)
 
 ### Tutorials, videos, tips & tricks
