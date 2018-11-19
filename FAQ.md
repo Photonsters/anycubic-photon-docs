@@ -118,7 +118,7 @@ Now you have it all apart clean all the parts with some IPA and remove any cured
 
 ## MAINTENANCE
 
-### What grease should I use in the lead screw?
+### What grease should I use for the lead screw (Z rod)?
 Viscous grease. The thick, creamy, toothpaste consistency type.
 Aka machine grease, cosmoline, gel grease, gear grease, etc. 
 White Lithium grease is well received. You could also try "non flick" motorcycle lube. 
