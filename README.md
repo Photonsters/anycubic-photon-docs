@@ -111,7 +111,7 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 - [Photonsters Youtube Channel](https://www.youtube.com/channel/UCtkUaPjl49fyaNOLNTbKHlQ)
 - [Troubleshooting DLP Prints](https://l3d.ie/2018/06/29/dlp-3d-printing-troubleshooting/)
 - [Supports created with Meshmixer](https://youtu.be/OXFKVmMwXCQ?t=2m10s)
-- [How supports work]()
+- [How supports work](./Resources/AddingSupportsForSLA3DPrinters-v1.pdf)
 - [2018 - Resin Casting: A Collection of Hypotheses](http://www.santafesymposium.org/2018-santa-fe-symposium-papers/2018-resin-casting-a-collection-of-hypotheses)
 
 
