@@ -26,6 +26,7 @@ These issues / solutions have been compiled from cases reported by photonsters i
 - slicer does not display STL ( PC Gfx board driver issue )
 - slicer up to 1.3.6 has a floating point bug in layer sizes other than 50u making layer heigh float ([see the facebook post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1398780826933222/))
 - z motors stops moving mid print, LCD keeps exposing resin, no error message, stopping print and moving z via menu works.
+- lcd light bleed. UV test rectangle shows dimly, low contrast, entire screen letting uv thru slightly. 
 
 ---
 ### Random resets / Memory errors / USB Read problems
