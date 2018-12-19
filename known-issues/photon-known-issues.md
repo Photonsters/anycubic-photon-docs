@@ -26,7 +26,7 @@ These issues / solutions have been compiled from cases reported by photonsters i
 - slicer does not display STL ( PC Gfx board driver issue )
 - slicer up to 1.3.6 has a floating point bug in layer sizes other than 50u making layer heigh float ([see the facebook post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1398780826933222/))
 - z motors stops moving mid print, LCD keeps exposing resin, no error message, stopping print and moving z via menu works.
-- lcd light bleed. UV test rectangle shows dimly, low contrast, entire screen letting uv thru slightly. 
+- lcd light bleed. UV test rectangle shows dimly, low contrast, entire screen letting uv thru slightly. Possibly fpga/contrast issue reported fixable by firmware update. 
 
 ---
 ### Random resets / Memory errors / USB Read problems
@@ -102,7 +102,7 @@ Photo of the print bed assembly here - https://github.com/Photonsters/anycubic-p
   - ReInstall slicer
   https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads
  
- ### LCD displpays only half of the model
+ ### LCD displays only half of the model
  #### Symptoms
  - LCD displays half model, viewing display shows correctly.
  - this is not related to flickering LCD
