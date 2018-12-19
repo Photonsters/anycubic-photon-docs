@@ -3,21 +3,21 @@
 ### Ive just bought a Photon, what accessories should I get? 
 - What you need before printing by Kevin Rank. http://makerfun3d.com/toolbox-resin-printers 
 
-## LEVELLING
+## BUILD PLATE TRAMMING (aka LEVELLING)
 
-### How do I level my printbed
+### How do I tram (level) my build plate
 - [Paper method by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 - [Paper method by Nic W - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU)
 
-### How tight should the leveling be?
+### How tight should I tram/level the build plate?
 If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER once tightening the level bolt it will move the plate down a tiny bit more, so you should raise / back off the level bout .01mm.
 - [Example leveling video - Youtube](https://youtu.be/Y0bz5nYwll0)
 - [Tight but not too tight example - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Detailed Anycubic leveling instructions - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 
 ### My prints just wont stick
-- this is generally a leveling issue, make sure your leveling is 100% correct before attempting the other solutions
+- this is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting the other solutions. Do not confuse build plate tramming (leveling) with adjusting the 4 legs of the machine. 
 - Clean the build plate with IPA.
 - Shake your resin well
 - Warm the resin, you can use hot hair dryer on most bottles to gently heat the resin while swiling between 20c - 30c
