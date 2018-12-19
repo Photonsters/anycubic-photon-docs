@@ -64,6 +64,7 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 
 ### Can I add resin halfway through a print?
 - Yes, no problem. You do not have to pause the print, just slowly and gently pour resin into the vat. Make sure to not bump or touch the build plate while pouring. Do not over add resin, do not go over the line in the vat. 
+- Make sure to mix the fresh resin well before adding. Try to ensure the resin temperature is the same, if the difference is more than 5~10 degrees Celsius, it may cause a layer line. 
 
 
 ## CLEANING
