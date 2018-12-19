@@ -24,7 +24,7 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - Did you relevel?
 - Bed is too high / low. this is caused by incorrectly seated ball joint screws. [fix here](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md#loose-print-bed-head--print-head-too-short)
 - Loose and floppy FEP sheet, replace or tighten fep - [instructions here](https://youtu.be/Sdxf9mf7-ns) and [here](https://youtu.be/DLi3chV43LQ)
-- Sanding your print bed with 240 Grit sandpaper stuck on a flat surface until the powder coating is removed, make sure it is completely flat. THIS WILL VOID YOUR WARRANTY.
+- If all else fails, check your plate level again. 
 
 ### Should I coat my FEP sheet?
 Not advisable, and not really a proven solution, infact this may cause bad quality prints.
