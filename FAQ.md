@@ -22,6 +22,7 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - Shake your resin well
 - Warm the resin, you can use hot hair dryer on most bottles to gently heat the resin while swiling between 20c - 30c
 - Did you relevel?
+- Did you remember to set Z=0?
 - Bed is too high / low. this is caused by incorrectly seated ball joint screws. [fix here](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md#loose-print-bed-head--print-head-too-short)
 - Loose and floppy FEP sheet, replace or tighten fep - [instructions here](https://youtu.be/Sdxf9mf7-ns) and [here](https://youtu.be/DLi3chV43LQ)
 - If all else fails, check your plate level again. 
