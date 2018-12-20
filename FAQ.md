@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-### Ive just bought a Photon, what accessories should I get? 
+### I've just bought a Photon, what accessories should I get? 
 - What you need before printing by Kevin Rank. http://makerfun3d.com/toolbox-resin-printers 
 
 ## BUILD PLATE TRAMMING (aka LEVELLING)
@@ -128,7 +128,7 @@ First remove the 4 bolts you can see just either side of the arm holder (the bit
 Now you have it all apart clean all the parts with some IPA and remove any cured or uncured resin you find, Then just put it all back together nice and tight and you can relevel and start printing nice straight prints again!
 
 ### My printer resets during prints!
-- this is a known problem and there are a few solutions to test. see the [KNOWN ISSUES SECTION](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md)
+- This is a known problem and there are a few solutions to test. see the [KNOWN ISSUES SECTION](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md)
 
 
 ## MAINTENANCE
