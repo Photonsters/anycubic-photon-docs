@@ -6,7 +6,7 @@
 ## BUILD PLATE TRAMMING (aka LEVELLING)
 - Incorrect build plate tramming (levelling) is the number one reason for new user print failures. Make sure you take the time to level your build plate correctly. Do not rush this step in your hurry to start printing. Once your build plate is leveled correctly and locked down tight, you do not have to relevel until you change your FEP or make other adjustments that affect the build plate. 
 
-### How do I tram (level) my build plate
+### How do I tram (level) my build plate? 
 - [Paper method by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 - [Paper method by Nic W - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU)
@@ -17,7 +17,7 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - [Tight but not too tight example - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Detailed Anycubic leveling instructions - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 
-### My prints just wont stick
+### My prints just won't stick? 
 - this is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting the other solutions. Do not confuse build plate tramming (leveling) with adjusting the 4 legs of the machine. 
 - Clean the build plate with IPA.
 - Shake your resin well
@@ -29,7 +29,7 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - If all else fails, check your plate level again. 
 
 ### Should I coat my FEP sheet?
-Not advisable, and not really a proven solution, in fact this may cause bad quality prints.
+Not advisable, and not really a proven solution, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film may in fact cause bad quality prints.
 
 ### Should I sand my build plate?
 Not advisable, the anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Sanding is the very last resort if the build plate surface is defective and not flat.
@@ -57,7 +57,7 @@ https://support.formlabs.com/hc/en-us/articles/115000018124-Model-Orientation
 Here is a link to how to hollow with Meshmixer (a free program)
 https://www.youtube.com/watch?v=ZXu6VYj4Um0
 
-### I can see/print the supports in my .photon sliced file but not my model
+### I can see/print the supports in my .photon sliced file but not my model? 
 The normals of your model are reversed. Flip them or they wont print. or your model has errors.
 - [How to flip normals in meshmixer - Youtube](https://www.youtube.com/watch?v=pa9R-gPUNwg)
 - [Meshmixer to repair holes - Youtube](https://youtu.be/kfmY4Wk8bhA)
@@ -80,7 +80,7 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - Use soft tissues and a small spray of IPA to remove any dried resin, buff with microfiber cloth.
 
 ### How do I clean the FEP Film?
-- once you have drained the vat of resin, spray down with IPA and wipe with paper towel. Spray again and use soft tissue on the clear FEP, finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratchthe FEP. Santize wipes can also be used then buff with lens cloth.
+- Once you have drained the vat of resin, spray down with IPA and wipe with paper towel. Spray again and use soft tissue on the clear FEP, finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratch the FEP. Santize wipes can also be used then buff with lens cloth.
 
 ### What can I use to clean my prints and tools from uncured resin?
 - If you have bought a water washable resin, you can use water and some mild soap, preferably with a ultrassonic cleaner if you don't have one you can use a small brush to help in the cleaning.
@@ -88,25 +88,25 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - IPA and other flamable solvents should not be used directly with ultrassonic cleaner because of the fire hazard.
 
 ### How do I dispose of saturated cleaning solvents, cleaning tools, uncured and cured resin?
-- Anything containing uncured resin if no curing is possible should be disposed in a hazards facility near you. Uncured resin is considered extremely hazardous to the envoirenment and must be cured before disposal
-- Cured resin is stable and can be disposed with the rest of the solid trash
+- Anything containing uncured resin if no curing is possible should be disposed in a hazards facility near you. Uncured resin is considered extremely hazardous to the envoirenment and must be cured before disposal. 
+- Cured resin is stable and can be disposed with the rest of the solid trash. 
 - Resin saturated water (for the water washable resins) and Saturated solvents should be cured in the sun and evaporated, resulting solids can be disposed in the solids trash.
 - Resin saturated cleaning paper can also be cured in the sun or in a curing UV oven and treated as solid trash.
 - **Never throw resin contaminated fluids down the drain**
 
 ### Can I extend the life of my solvents?
-- Yes, if you regulary cure the washing solvents along with your printed parts and filter out the solids your solvents will last longer
+- Yes, if you regulary cure the washing solvents along with your printed parts and filter out the solids your solvents will last longer. 
 
 ### How long can I keep the resin in the vat?
 It depends on environmental factors and type/brand of resin, typically if the resin is kept out of light and moisture/dirt it may sit in the vat for 1 - 2 weeks. Clear resins tend to sit better, opaque resins will need more stirring before use to mix the pigments back. 
-- check for loose cured resin or stuck resin, you will need to clean that out
-- cover the vat, you can cut a piece of cardboard that fits over the vat, or print one out on an FDM printer. Here is a good vat cover.https://www.thingiverse.com/thing:2837171
+- Check for loose cured resin or stuck resin, you will need to clean that out. 
+- Cover the vat, you can cut a piece of cardboard that fits over the vat, or print one out on an FDM printer. Here is a good vat cover.https://www.thingiverse.com/thing:2837171
 - Before printing, carefully stir the resin for 1 - 2 minutes with the plastic spatula, be careful not to scratch the FEP screen.
-- Do not leave the z bed dangling with uncured resin, take it out and clean with IPA, leave it out untill you are ready to print, this will lessen the weight on the single Z rod thus prevent z wobble. 
+- Do not leave the build plate hanging with uncured resin, take it out and clean with IPA, leave it out until you are ready to print, this will lessen the weight on the single Z rod thus prevent z wobble. 
 
 ### Can I put excess resin that doesn't get used in a print back into the original bottle?
-- Yes, but you should strain out any debri first using a filter.
-- You can keep the used resin in medicine bottles separately 
+- Yes, but you should strain out any debris first using a filter.
+- You can keep the used resin in medicine bottles separately. 
 
 
 ## POST PROCESSING
@@ -117,15 +117,15 @@ The best way to learn if your print has cured enough with sun light or a UV ligh
 
 ## TROUBLESHOOTING
 
-### Help my plate slips during a print!!!
+### Why does my build plate move / slip during a print? 
 This can happen if the screws that live inside the arm of your build plate (there are three of them in there), Work loose or if because you filled the vat quite high some resin has go inside and is making the grip of the ball joint in there slip about.
 
 - [Official Anycubic instructions - Youtube](https://www.youtube.com/watch?v=VdiNI_Xu6bI)
 - [Photonsters Video Instructions - Youtube](https://www.youtube.com/watch?v=Uc8senzACFM)
 
-There first remove the 4 bolts you can see just either side of the arms holder (the bit with red the platen knob on it) put them some place you can find them again then the housing will be able to open once you have gotten the build plate off you will see three more screws undo and place them in a safe spot too then you can take the mechanism of the ball joint apart be sure to note where it all goes so you can easily put it back together again (this may be a great time to take some pictures for your reference when rebuilding it.
+First remove the 4 bolts you can see just either side of the arm holder (the bit with the red platen knob on it) put them some place safe then the housing will be able to open once you have gotten the build plate off, you will see three more screws undo and place them in a safe spot too then you can take the mechanism of the ball joint apart, be sure to note where it all goes so you can easily put it back together again (this may be a great time to take some pictures for your reference when rebuilding it.) 
 
-Now you have it all apart clean all the parts with some IPA and remove any cured or uncured resin you find, Then just put it all back together nice and tight and you can re level and start printing nice straight prints again!
+Now you have it all apart clean all the parts with some IPA and remove any cured or uncured resin you find, Then just put it all back together nice and tight and you can relevel and start printing nice straight prints again!
 
 ### My printer resets during prints!
 - this is a known problem and there are a few solutions to test. see the [KNOWN ISSUES SECTION](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md)
