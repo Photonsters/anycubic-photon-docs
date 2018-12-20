@@ -3,8 +3,10 @@
 ### I've just bought a Photon, what accessories should I get? 
 - What you need before printing by Kevin Rank. http://makerfun3d.com/toolbox-resin-printers 
 
-## What's this leveling that I keep hearing about?
-BUILD PLATE TRAMMING (aka LEVELLING)
+
+## BUILD PLATE TRAMMING (LEVELING) 
+
+### What's this leveling that I keep hearing about?
 - Incorrect build plate tramming (levelling) is the number one reason for new user print failures. Make sure you take the time to level your build plate correctly. Do not rush this step in your hurry to start printing. Once your build plate is leveled correctly and locked down tight, you do not have to relevel until you change your FEP or make other adjustments that affect the build plate. 
 
 ### So how do I tram (level) my build plate? 
@@ -19,7 +21,8 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - [Detailed Anycubic leveling instructions - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 
 ### My prints just won't stick? 
-- This is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting the other solutions. Do not confuse build plate tramming (leveling) with adjusting the 4 legs of the machine. 
+- This is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting the other solutions.
+- Do not confuse build plate tramming (leveling) with adjusting the 4 legs of the machine. 
 - Clean the build plate with IPA.
 - Shake your resin well
 - Warm the resin, you can use hot hair dryer on most bottles to gently heat the resin while swiling between 20c - 30c
