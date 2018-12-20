@@ -7,7 +7,10 @@
 ## BUILD PLATE TRAMMING (LEVELING) 
 
 ### What's this leveling that I keep hearing about?
-- Incorrect build plate tramming (levelling) is the number one reason for new user print failures. Make sure you take the time to level your build plate correctly. Do not rush this step in your hurry to start printing. Once your build plate is leveled correctly and locked down tight, you do not have to relevel until you change your FEP or make other adjustments that affect the build plate. 
+Incorrect build plate tramming (levelling) is the number one reason for new user print failures. 
+
+- Make sure you take the time to level your build plate correctly. Do not rush this step in your hurry to start printing.
+- Once your build plate is leveled correctly and locked down tight, you do not have to relevel until you change your FEP or make other adjustments that affect the build plate. 
 
 ### So how do I tram (level) my build plate? 
 - [Paper method by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
