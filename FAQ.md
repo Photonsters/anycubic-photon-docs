@@ -28,7 +28,10 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - If all else fails, check your plate level again. 
 
 ### Should I coat my FEP sheet?
-Not advisable, and not really a proven solution, infact this may cause bad quality prints.
+Not advisable, and not really a proven solution, in fact this may cause bad quality prints.
+
+### Should I sand my build plate?
+Not advisable, the anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Sanding is the very last resort if the build plate surface is defective and not flat.
 
 
 ## MODEL SETUP & SETTINGS
