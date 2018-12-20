@@ -8,7 +8,7 @@
 
 ### How do I tram (level) my build plate? 
 - [Paper method by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
-- [Paper method by Nic W - Youtube](https://youtu.be/qEaNVfT8y9w)
+- [Paper method by Nick W. - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU)
 
 ### How tight should I tram/level the build plate?
@@ -18,7 +18,7 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - [Detailed Anycubic leveling instructions - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 
 ### My prints just won't stick? 
-- this is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting the other solutions. Do not confuse build plate tramming (leveling) with adjusting the 4 legs of the machine. 
+- This is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting the other solutions. Do not confuse build plate tramming (leveling) with adjusting the 4 legs of the machine. 
 - Clean the build plate with IPA.
 - Shake your resin well
 - Warm the resin, you can use hot hair dryer on most bottles to gently heat the resin while swiling between 20c - 30c
