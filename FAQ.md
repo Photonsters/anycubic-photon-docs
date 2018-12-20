@@ -3,10 +3,11 @@
 ### I've just bought a Photon, what accessories should I get? 
 - What you need before printing by Kevin Rank. http://makerfun3d.com/toolbox-resin-printers 
 
-## BUILD PLATE TRAMMING (aka LEVELLING)
+## What's this leveling that I keep hearing about?
+BUILD PLATE TRAMMING (aka LEVELLING)
 - Incorrect build plate tramming (levelling) is the number one reason for new user print failures. Make sure you take the time to level your build plate correctly. Do not rush this step in your hurry to start printing. Once your build plate is leveled correctly and locked down tight, you do not have to relevel until you change your FEP or make other adjustments that affect the build plate. 
 
-### How do I tram (level) my build plate? 
+### So how do I tram (level) my build plate? 
 - [Paper method by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 - [Paper method by Nick W. - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU)
