@@ -67,7 +67,7 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - Make sure to mix the fresh resin well before adding. Try to ensure the resin temperature is the same, if the difference is more than 5~10 degrees Celsius, it may cause a layer line. 
 
 ### How long can I leave resin in the vat between prints?
-- You can leave resin in the vat for extended periods of time, some owners have left it for weeks. Make sure it's left in the dark, a vast cover comes in handy. 
+- You can leave resin in the vat for extended periods of time, some owners have left it for weeks. Make sure it's left in the dark, a vat cover comes in handy. 
 
 
 ## CLEANING
