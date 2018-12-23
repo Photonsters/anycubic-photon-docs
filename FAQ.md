@@ -45,7 +45,7 @@ Not advisable, the anodized aluminium surface of the build plate provides plenty
 ## MODEL SETUP & SETTINGS
 
 ### What do the print settings mean?
-Bottom Exposures (Bottom layers): this is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about)
+#### Bottom Exposures (Bottom layers): this is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about)
 
 Bottom layer: (Bottom layers) simple, this one it's about how many of those super hard base layers to lay down on the base of your print usually this is 5-8 layers.
 
