@@ -45,13 +45,17 @@ Not advisable, the anodized aluminium surface of the build plate provides plenty
 ## MODEL SETUP & SETTINGS
 
 ### What do the print settings mean?
-#### Bottom Exposures (Bottom layers): this is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about)
+#### Bottom Exposures (Bottom layers): 
+this is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about)
 
-Bottom layer: (Bottom layers) simple, this one it's about how many of those super hard base layers to lay down on the base of your print usually this is 5-8 layers.
+#### Bottom layer (Bottom layers):
+Simple, this one it's about how many of those super hard base layers to lay down on the base of your print usually this is 5-8 layers.
 
-Normal exposures (Normal exposure time) : After your base layers have finished this is the time the UV will be on to cure all the rest of the layers of your print and will always be lower to your base layers setting it can be looked up in the excellent settings chart compiled by Artur Fuste that you can find in the files section of this group.
+#### Normal exposures (Normal exposure time) : 
+After your base layers have finished this is the time the UV will be on to cure all the rest of the layers of your print and will always be lower to your base layers setting it can be looked up in the excellent settings chart compiled by Artur Fuste that you can find in the files section of this group.
 
-Exposure off (Off time). it's the amount of time the plate will wait at the bottom of a cycle (Pressed down on the FEP sheet, in the bottom of your vat) Before the UV light comes on for the next exposure longer times leave more time for the resin to settle out and form  a flat layer.
+#### Exposure off (Off time):
+This is the amount of time the plate will wait at the bottom of a cycle (Pressed down on the FEP sheet, in the bottom of your vat) Before the UV light comes on for the next exposure longer times leave more time for the resin to settle out and form  a flat layer. If unsure, leave the value at 1, your printer will then default to the firmware settings, usually 6.5 secs for older printers or firmware, 4.5 secs for newer printers or firmware. 
 
 ### What is suction warping and how do I combat it, should I add a vent hole?
 Imagine a glass full of water upside down in a bucket of water. When you pull the glass up out of the bucket, it stays full until the lip of the glass breaks the surface of the water in the bucket. In the tray, the lowest point of the print, the new layer, does not (generally) rise above the level of the liquid resin in the vat. Therefore, the liquid resin inside the "bowl" cannot evacuate. You have to add an air hole. This is a significant cause of failures. You have to reduce the work that the stepper motor has to do to lift the platform.
