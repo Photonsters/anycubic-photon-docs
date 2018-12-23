@@ -46,7 +46,7 @@ Not advisable, the anodized aluminium surface of the build plate provides plenty
 
 ### What do the print settings mean?
 #### Bottom Exposures (Bottom layers): 
-this is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about)
+This is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about)
 
 #### Bottom layer (Bottom layers):
 Simple, this one it's about how many of those super hard base layers to lay down on the base of your print usually this is 5-8 layers.
@@ -77,8 +77,11 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 
 ## PRINTING
 
+### How much resin should I pour into the vat? 
+- Pour resin up to the line about a third up from the FEP. This is about 125ml. Do not exceed the line, if there is too much resin, it will rise from displacement and get into the screws and ball joint of your build plate! 
+
 ### Can I add resin halfway through a print?
-- Yes, no problem. You do not have to pause the print, just slowly and gently pour resin into the vat. Make sure to not bump or touch the build plate while pouring. Do not over add resin, do not go over the line in the vat. 
+- Yes , no problem. You do not have to pause the print, just slowly and gently pour resin into the vat. Make sure to not bump or touch the build plate while pouring. Do not over add resin, do not go over the line in the vat. 
 - Make sure to mix the fresh resin well before adding. Try to ensure the resin temperature is the same, if the difference is more than 5~10 degrees Celsius, it may cause a layer line. 
 
 ### How long can I leave resin in the vat between prints?
