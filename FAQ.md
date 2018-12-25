@@ -35,6 +35,11 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - Loose and floppy FEP sheet, replace or tighten fep - [instructions here](https://youtu.be/Sdxf9mf7-ns) and [here](https://youtu.be/DLi3chV43LQ)
 - If all else fails, check your plate level again. 
 
+### The bottom layers stick but my prints didn't form at the supports?
+- This is generally due to incorrect exposure settings for your normal layers. Try increasing exposure. 
+- It can also be due to the orientation of your model. Try to angle your model and reslice. 
+- Is your model a large solid? Hollowing the model is recommended. 
+
 ### Should I coat my FEP sheet?
 Not advisable, and not really a proven solution, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film may in fact cause bad quality prints.
 
