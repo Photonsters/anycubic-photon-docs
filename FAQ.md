@@ -39,6 +39,7 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - This is generally due to incorrect exposure setting for your normal layers. Try increasing exposure. 
 - It can also be due to the orientation of your model. Try to angle your model and minimise large surface sections. 
 - Is your model a large solid? Hollowing the model is recommended. 
+- See "Model setup & settings" below. 
 
 ### Should I coat my FEP sheet?
 Not advisable, and not really a proven solution, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film may in fact cause bad quality prints.
