@@ -19,7 +19,7 @@ Incorrect build plate tramming (levelling) is the number one reason for new user
 - [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try the this method as you may scratch the FEP.)  
 
 ### How tight should I tram/level the build plate?
-If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER once tightening the level bolt it will move the plate down a tiny bit more, so you should raise / back off the level bout .01mm.
+If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER that as you tighten the setting (begin) screw it will move the plate down a tiny bit more, so you should raise / backoff the level about 0.01mm.
 - [Example leveling video - Youtube](https://youtu.be/Y0bz5nYwll0)
 - [Tight but not too tight example - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Detailed Anycubic leveling instructions - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
@@ -36,8 +36,8 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - If all else fails, check your plate level again. 
 
 ### The bottom layers stick but my prints didn't form at the supports?
-- This is generally due to incorrect exposure settings for your normal layers. Try increasing exposure. 
-- It can also be due to the orientation of your model. Try to angle your model and reslice. 
+- This is generally due to incorrect exposure setting for your normal layers. Try increasing exposure. 
+- It can also be due to the orientation of your model. Try to angle your model and minimise large surface sections. 
 - Is your model a large solid? Hollowing the model is recommended. 
 
 ### Should I coat my FEP sheet?
