@@ -16,7 +16,7 @@ Incorrect build plate tramming (levelling) is the number one reason for new user
 ### So how do I tram (level) my build plate? 
 - [Paper method by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 - [Paper method by Nick W. - Youtube](https://youtu.be/qEaNVfT8y9w)
-- [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) Be careful if you try the Flint method as you may scratch the FEP. 
+- [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try the this method as you may scratch the FEP.)  
 
 ### How tight should I tram/level the build plate?
 If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER once tightening the level bolt it will move the plate down a tiny bit more, so you should raise / back off the level bout .01mm.
