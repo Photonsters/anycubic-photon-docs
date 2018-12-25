@@ -6,8 +6,8 @@ Want to help? check at the bottom of this page the [TO DO](#todo) list and open 
 
 ## Table of Contents
 
-* [Frequently asked questions (FAQ)](#frequently-asked-questions-faq)
-* [Known issues](#known-issues)
+* [Frequently asked questions (FAQ)](FAQ.md)
+* [Known issues](known-issues/photon-known-issues.md)
 * [ANYCUBIC Photon technical specifications](#anycubic-photon-technical-specifications)
 * [Photon file image format](#photon-file-image-format)
 * [Photon slicing software](#photon-slicing-software)
