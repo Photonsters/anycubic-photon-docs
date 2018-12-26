@@ -89,7 +89,7 @@ Chitu devs have been helping Photonster devs with some support questions, and Ch
 - [Photon Go](https://github.com/Andoryuuta/photon) - Library to read and write Photon and .cbddlp files *(Andoryuuta)*
 - [UV light distribution tester](https://www.facebook.com/kzhkshj/posts/1782894801789685)
 - [MeshMixer Photon Slicer Plugin](https://github.com/Photonsters/Slicer) - *(NardJ)*
-- [Voxel Ops](https://github.com/Photonsters/VoxelsOps) *(Antharon)* - Voxel tools to dilate, erode, hollow, project and mesure
+- [Voxel Ops](https://github.com/Photonsters/VoxelsOps) - Voxel tools to dilate, erode, hollow, project and mesure *(Antharon)*
 
 
 ## Social media groups
