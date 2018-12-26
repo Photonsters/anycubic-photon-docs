@@ -147,6 +147,9 @@ The best way to find out if your print has cured enough with sunlight or a UV li
 ### Should I remove supports before or after curing? 
 It depends. While it is easier to remove before uv curing (it's softer and you can just pull or rub them off), you may want to remove them after, especially thin parts that may warp during the curing process. 
 
+### How durable are the prints? Will they break if I drop them? 
+It depends on the resin used. Unlike PLA or ABS, regular hobby grade resin prints are quite brittle and can easily break when dropped. There are specially formulated resins for prototyping or even functional usage which have different properties such as flexibility, hardness and uv resistance. Once you have familiarised yourself with your printer using the sample green resin, you might want to experiment further with different resins. 
+
 
 ## TROUBLESHOOTING
 
