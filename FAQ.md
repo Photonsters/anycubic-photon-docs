@@ -106,15 +106,18 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 
 ## CLEANING
 
+### How do I clean my prints? 
+- One popular method is the two tub system. Fill both containers with Isopropyl Alcohol (IPA) or other solvents such as Ethanol (90 ‰or higher). Drop the print into the first tub and swirl. Use a soft brush for hard to reach parts, holes etc. Then dunk the part in the second tub of solvent and swirl clean. Remove then dry thoroughly before uv curing. 
+
 ### How do I clean the LCD?
 - Use soft tissues and a small spray of IPA to remove any dried resin, buff with microfiber cloth.
 
 ### How do I clean the FEP Film?
 - Once you have drained the vat of resin, spray down with IPA and wipe with paper towel. Spray again and use soft tissue on the clear FEP, finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratch the FEP. Santize wipes can also be used then buff with lens cloth.
 
-### What can I use to clean my prints and tools from uncured resin?
-- If you have bought a water washable resin, you can use water and some mild soap, preferably with a ultrassonic cleaner if you don't have one you can use a small brush to help in the cleaning.
-- For all other resins most companies recomend the use of IPA (Isopropil Alcohol). You can also use Ethanol 96% and above, Mineral oil, Yellow magic 7, Propylene Glycol or specilaized products like ResinAway or TEK.
+### What else can I use to clean my prints and tools from uncured resin?
+- If you have bought a water washable resin, you can use water and some mild soap, preferably with a ultrasonic cleaner if you don't have one you can use a small brush to help in the cleaning.
+- For all other resins most companies recomend the use of IPA (Isopropyl Alcohol). You can also use Ethanol or other solvents such as Mineral oil, Yellow magic 7, Propylene Glycol or other specilaized products like ResinAway or TEK.
 - IPA and other flamable solvents should not be used directly with ultrassonic cleaner because of the fire hazard.
 
 ### How do I dispose of saturated cleaning solvents, cleaning tools, uncured and cured resin?
