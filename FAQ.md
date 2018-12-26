@@ -62,13 +62,13 @@ Not necessary at all, the blue anodized aluminium surface of the build plate pro
 
 ### What do the print settings mean?
 #### Bottom Exposures (Bottom layers): 
-This is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about)
+This is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about.) For the sample green resin at 0.05mm layers, the exposure for bottom layers is 60 seconds. 
 
 #### Bottom layer (Bottom layers):
 Simple, this one it's about how many of those super hard base layers to lay down on the base of your print usually this is 5-8 layers.
 
 #### Normal exposures (Normal exposure time) : 
-After your base layers have finished this is the time the UV will be on to cure all the rest of the layers of your print and will always be lower to your base layers setting it can be looked up in the excellent settings chart compiled by Artur Fuste that you can find in the files section of this group.
+After your base layers have finished this is the time the UV will be on to cure all the rest of the layers of your print and will always be lower than your base/bottom layers setting, For the sample green resin at 0.05mm layers, the exposure for normal layers is 10 seconds. 
 
 #### Exposure off (Off time):
 This is the amount of time the plate will wait at the bottom of a cycle (Pressed down on the FEP sheet, in the bottom of your vat) Before the UV light comes on for the next exposure longer times leave more time for the resin to settle out and form  a flat layer. If unsure, leave the value at 1, your printer will then default to the firmware settings, usually 6.5 secs for older printers or firmware, 4.5 secs for newer printers or firmware. 
