@@ -142,7 +142,10 @@ It depends on environmental factors and type/brand of resin, typically if the re
 ## POST PROCESSING
 
 ### How long should I cure my print?
-The best way to learn if your print has cured enough with sun light or a UV light set up is to find an area where you dont mind a mark and try to dent it with your finger or thumb nail, If you can then it's not ready yet, and as soon as you can't dent it it's ready.
+The best way to find out if your print has cured enough with sunlight or a UV light set up is to find an area where you don't mind a mark and try to dent it with your fingernail, If you can then it's not ready yet, and as soon as you can't dent it it's ready. Do not overcure as resin may become overly brittle, and white or clear resin will turn yellow. 
+
+### Should I remove supports before or after curing? 
+It depends. While it is easier to remove before uv curing (it's softer and you can just pull or rub them off), you may want to remove them after, especially thin parts that may warp during the curing process. 
 
 
 ## TROUBLESHOOTING
