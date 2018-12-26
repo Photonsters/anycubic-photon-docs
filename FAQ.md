@@ -61,6 +61,8 @@ Not necessary at all, the blue anodized aluminium surface of the build plate pro
 ## MODEL SETUP & SETTINGS
 
 ### What do the print settings mean?
+This is assuming you're using the Anycubic slicer program (rebadged Chitu slicer v.1.3.6) that is included on the USB stick. Other slicers may use different terminology but they're functionally the same. 
+
 #### Bottom Exposures (Bottom layers): 
 This is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about.) For the sample green resin at 0.05mm layers, the exposure for bottom layers is 60 seconds. 
 
