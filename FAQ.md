@@ -46,7 +46,7 @@ This is generally a build plate tramming issue, make sure your leveling is 100% 
 - If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. Check that the surface is flat. Use a straight edge against a light or make an imprint on a piece of paper placed on plate glass or polished marble /granite. 
 
 ### The bottom layers stick but my prints didn't form at the supports?
-This is generally due to incorrect exposure setting for your normal layers. As a first step, try increasing exposure. 
+This is generally due to incorrect exposure setting for your normal layers. See "Model Setup & Settings" below. As a first step, try increasing exposure. 
 - It can also be due to the orientation of your model. Try to angle your model and minimise large surface sections. 
 - Is your model a large solid? Hollowing the model is recommended. 
 - See "Model setup & settings" below. 
@@ -55,7 +55,7 @@ This is generally due to incorrect exposure setting for your normal layers. As a
 Not advisable, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film may in fact cause bad quality prints.
 
 ### Should I sand my build plate?
-Not necessary at all, the anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Adhesion to the stock build plate is so good that some owners have difficulty removing prints. Sanding is the very last resort only if the build plate surface is defective and not flat.
+Not necessary at all, the blue anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Adhesion to the stock build plate is so good that some owners have difficulty removing prints. Sanding is the very last resort only if the build plate surface is defective and not flat.
 
 
 ## MODEL SETUP & SETTINGS
