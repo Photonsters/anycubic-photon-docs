@@ -33,16 +33,17 @@ If you are using the paper method, the paper should be tight enough to pull but 
 Using your fingers, push the opposite side of the plate when tightening the grub screw. Alternatively, if you're using the paper method, you can slip another strip of paper to the side which is too tight and then tighten the screw. You may need to try this a few times to get perfect level. 
 
 ### My prints just won't stick? 
-- This is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting the other solutions. 
-- Clean the build plate with IPA.
-- Shake your resin well
-- Warm the resin, you can use hot hair dryer on most bottles to gently heat the resin while swiling between 20c - 30c
-- Did you relevel?
+This is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting these other solutions. 
+- Clean the build plate carefully with IPA or other solvents. Dry before use. 
+- Shake your resin in bottle well before using. Resin already in the vat may have settled and need to be stirred. 
+- Warm the resin, you can use hot hair dryer on most bottles to gently heat the resin while swilling between 20c - 30c. 
+- The build plate may have shifted. Try and level it again, make sure to tighten well. 
 - Did you remember to set Z=0?
-- Bed is too high / low. this is caused by incorrectly seated ball joint screws. [fix here](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md#loose-print-bed-head--print-head-too-short)
-- Loose and floppy FEP sheet, replace or tighten fep - [instructions here](https://youtu.be/Sdxf9mf7-ns) and [here](https://youtu.be/DLi3chV43LQ)
-- Try using a known resin like the sample green. Some resins like maroon or yellow are difficult to work with. 
-- If all else fails, check your plate level again. 
+- Build plate is too high / low, this is caused by incorrectly seated ball joint screws. [fix here](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md#loose-print-bed-head--print-head-too-short)
+- The FEP film may be loose. New vats sometimes comes with loosened screws. Tighten or replace. [instructions here](https://youtu.be/Sdxf9mf7-ns) and [here](https://youtu.be/DLi3chV43LQ)
+- Try using a known resin like the sample green. Some resins like maroon or yellow are very difficult to work with. 
+- If all else fails, check your plate level again! 
+- If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. Check that the surface is flat. Use a straight edge against a light or make an imprint on a piece of paper placed on plate glass or polished marble /granite. 
 
 ### The bottom layers stick but my prints didn't form at the supports?
 - This is generally due to incorrect exposure setting for your normal layers. Try increasing exposure. 
