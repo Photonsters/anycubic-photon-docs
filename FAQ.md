@@ -37,6 +37,7 @@ If you are using the paper method, the paper should be tight enough to pull but 
 - Did you remember to set Z=0?
 - Bed is too high / low. this is caused by incorrectly seated ball joint screws. [fix here](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md#loose-print-bed-head--print-head-too-short)
 - Loose and floppy FEP sheet, replace or tighten fep - [instructions here](https://youtu.be/Sdxf9mf7-ns) and [here](https://youtu.be/DLi3chV43LQ)
+- Try using a known resin like the sample green. Some resins like maroon or yellow are difficult to work with. 
 - If all else fails, check your plate level again. 
 
 ### The bottom layers stick but my prints didn't form at the supports?
