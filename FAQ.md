@@ -55,7 +55,7 @@ This is generally due to incorrect exposure setting for your normal layers. As a
 Not advisable, and not really a proven solution, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film may in fact cause bad quality prints.
 
 ### Should I sand my build plate?
-Not advisable, the anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Sanding is the very last resort if the build plate surface is defective and not flat.
+Not necessary at all, the anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Adhesion to the stock build plate is so good that some owners have difficulty removing prints. Sanding is the very last resort only if the build plate surface is defective and not flat.
 
 
 ## MODEL SETUP & SETTINGS
