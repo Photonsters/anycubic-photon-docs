@@ -6,6 +6,7 @@ These are the only two versions sold. Machines with Red windows are basically us
 
 ### I've just bought a Photon, what accessories should I get? 
 - What you need before printing by Kevin Rank. http://makerfun3d.com/toolbox-resin-printers 
+- You will also need a known good branded USB stick, formatted FAT32. The included one is known to be problematic and prone to failure. Transfer all the files from it to your known good USB stick. 
 
 
 ## BUILD PLATE TRAMMING (LEVELING) 
