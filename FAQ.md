@@ -45,7 +45,7 @@ This is generally a build plate tramming issue, make sure your leveling is 100% 
 - If all else fails, check your plate level again! 
 - If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. Check that the surface is flat. Use a straight edge against a light or make an imprint on a piece of paper placed on plate glass or polished marble /granite. 
 
-### The bottom layers stick but my prints didn't form at the supports?
+### The bottom layers stick but my prints didn't form/fell off at the supports?
 This is generally due to incorrect exposure setting for your normal layers. See "Model Setup & Settings" below. As a first step, try increasing exposure. 
 - A mix of medium and heavy supports will help, and/or increase support density. 
 - It can also be due to the orientation of your model. Try to angle your model and minimise large surface sections. 
