@@ -47,6 +47,7 @@ This is generally a build plate tramming issue, make sure your leveling is 100% 
 
 ### The bottom layers stick but my prints didn't form at the supports?
 This is generally due to incorrect exposure setting for your normal layers. See "Model Setup & Settings" below. As a first step, try increasing exposure. 
+- A mix of medium and heavy supports will help, and/or increase support density. 
 - It can also be due to the orientation of your model. Try to angle your model and minimise large surface sections. 
 - Is your model a large solid? Hollowing the model is recommended. 
 - See "Model setup & settings" below. 
