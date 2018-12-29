@@ -1,32 +1,33 @@
-**CONTACT ANYCUBIC SUPPORT FIRST!** This should be your first point of contact for faulty machines, some of the fixes here may void you warranty, proceed at your own risk!
+**CONTACT ANYCUBIC SUPPORT FIRST!** 
+This should be your first point of contact for faulty machines, some of the fixes here may void you warranty, proceed at your own risk!
 
-These issues / solutions have been compiled from cases reported by photonsters in photon owners group on facebook.
+These issues / solutions have been compiled from cases reported by Photonsters in the Photon Owners Group on Facebook.
 
 ---
 
 ## KNOWN ISSUES
 
-- USB names must be kept short and avoid special chars since photon cannot read them. found by Michael Lippert [(see facebook post here)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1370647173079921/)
-- Faulty internal USB cable ( bad connection, causing random resets )
-- Random reset possibily caused by internal memory buffer issue
-- z-wobble
-- bad usb stick (stock stick)
-- bad psu brick (models before yellow windows)
-- machine reset / reboot
-- machine freezes mid print (usually usb related)
-- half screen
-- flickering screen during print or corrupted and shifted layers or artifacts [-FB post1](https://www.facebook.com/groups/AnycubicPhoton/permalink/1322462231231749/) [-FB post2](https://www.facebook.com/groups/AnycubicPhoton/permalink/1379338082210830/) [-FB post3](https://www.facebook.com/groups/AnycubicPhoton/permalink/1539849456159691/) 
-- screen cable sheering on transport
-- mainboard failure ([see how to test video](https://youtu.be/F69UMKYKvbY)) 
-- memory errors
-- dead z axis
-- failure to set homing offset values ( config.gcode issue reflash config.gcode )
-- layers shifting on LCD during print ( possible cause is defective chip on mainboard )
-- loose print bed head / print head too short ( plate assembly issue )
-- slicer does not display STL ( PC Gfx board driver issue )
-- slicer up to 1.3.6 has a floating point bug in layer sizes other than 50u making layer heigh float ([see the facebook post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1398780826933222/))
-- z motors stops moving mid print, LCD keeps exposing resin, no error message, stopping print and moving z via menu works.
-- lcd light bleed. UV test rectangle shows dimly, low contrast, entire screen letting uv thru slightly. Possibly fpga/contrast issue reported fixable by firmware update. ([see the facebook post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1531910403620263/))
+- USB names must be kept short, avoid special chars since the Photon cannot read them. -Michael Lippert [(see facebook post here)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1370647173079921/)
+- Faulty internal USB cable (loose or bad connection, causing random resets)
+- Random resets possibly caused by internal memory buffer issue. 
+- Z-wobble. 
+- Bad USB stick (included with Photon)
+- Bad PSU brick (included with Photos before yellow windows)
+- Random resets / reboots. 
+- Random freezes mid-print (usually usb related)
+- LCD half screen issues. 
+- LCD screen flickering during print or corrupted and shifted layers or artifacts [FB post1](https://www.facebook.com/groups/AnycubicPhoton/permalink/1322462231231749/) [FB post2](https://www.facebook.com/groups/AnycubicPhoton/permalink/1379338082210830/) [FB post3](https://www.facebook.com/groups/AnycubicPhoton/permalink/1539849456159691/) 
+- Screen cable sheered on transport. 
+- Mainboard failure ([see how to test video](https://youtu.be/F69UMKYKvbY)) 
+- Memory errors. 
+- Dead Z axis. 
+- Failure to set homing offset values (config.gcode issue reflash config.gcode)
+- Layers shifting on LCD during print (possibly defective chip on mainboard)
+- Loose print bed head / print head too short (build plate assembly issue)
+- Slicer does not display STL (PC gfx board driver issue)
+- Slicer up to 1.3.6 has a floating point bug in layer sizes other than 50u making layer height float ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1398780826933222/))
+- Z motor stops moving mid-print, LCD keeps exposing resin, no error message, stopping print and moving Z via menu works.
+- LCD screen light bleed. UV test rectangle shows dimly, low contrast, entire screen letting UV through slightly. Possibly fpga/contrast issue reported fixable by firmware update. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1531910403620263/))
 
 ---
 ### Random resets / Memory errors / USB Read problems
