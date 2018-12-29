@@ -21,7 +21,7 @@ These issues / solutions have been compiled from cases reported by Photonsters i
 - Screen cable sheered on transport. 
 - Mainboard failure ([see how to test video](https://youtu.be/F69UMKYKvbY)) 
 - Memory errors. 
-- Dead Z axis. [(FB post)] (https://www.facebook.com/groups/AnycubicPhoton/permalink/1540155946129042/)
+- Dead motor / Z axis. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1540155946129042/)) 
 - Failure to set homing offset values (config.gcode issue reflash config.gcode)
 - Layers shifting on LCD during print (possibly defective chip on mainboard)
 - Loose print bed head / print head too short (build plate assembly issue)
