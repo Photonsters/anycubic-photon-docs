@@ -1,4 +1,5 @@
 **CONTACT ANYCUBIC SUPPORT FIRST!** 
+
 This should be your first point of contact for faulty machines, some of the fixes here may void you warranty, proceed at your own risk!
 
 These issues / solutions have been compiled from cases reported by Photonsters in the Photon Owners Group on Facebook.
@@ -7,7 +8,7 @@ These issues / solutions have been compiled from cases reported by Photonsters i
 
 ## KNOWN ISSUES
 
-- USB names must be kept short, avoid special chars since the Photon cannot read them. -Michael Lippert [(see facebook post here)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1370647173079921/)
+- USB names must be kept short, avoid special chars since the Photon cannot read them. (Michael Lippert) [(FB post)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1370647173079921/)
 - Faulty internal USB cable (loose or bad connection, causing random resets)
 - Random resets possibly caused by internal memory buffer issue. 
 - Z-wobble. 
