@@ -17,7 +17,7 @@ These issues / solutions have been compiled from cases reported by Photonsters i
 - Random resets / reboots. 
 - Random freezes mid-print (usually usb related)
 - LCD half screen issues. 
-- LCD screen flickering during print or corrupted and shifted layers or artifacts [FB post1](https://www.facebook.com/groups/AnycubicPhoton/permalink/1322462231231749/) [FB post2](https://www.facebook.com/groups/AnycubicPhoton/permalink/1379338082210830/) [FB post3](https://www.facebook.com/groups/AnycubicPhoton/permalink/1539849456159691/) 
+- LCD screen flickering during print or corrupted and shifted layers or artifacts [(FB post1)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1322462231231749/) [(FB post2)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1379338082210830/) [(FB post3)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1539849456159691/)) 
 - Screen cable sheered on transport. 
 - Mainboard failure ([see how to test video](https://youtu.be/F69UMKYKvbY)) 
 - Memory errors. 
