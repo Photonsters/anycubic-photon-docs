@@ -21,14 +21,14 @@ These issues / solutions have been compiled from cases reported by Photonsters i
 - Screen cable sheered on transport. 
 - Mainboard failure ([see how to test video](https://youtu.be/F69UMKYKvbY)) 
 - Memory errors. 
-- Dead Z axis. 
+- Dead Z axis. [(FB post)] (https://www.facebook.com/groups/AnycubicPhoton/permalink/1540155946129042/)
 - Failure to set homing offset values (config.gcode issue reflash config.gcode)
 - Layers shifting on LCD during print (possibly defective chip on mainboard)
 - Loose print bed head / print head too short (build plate assembly issue)
 - Slicer does not display STL (PC gfx board driver issue)
 - Slicer up to 1.3.6 has a floating point bug in layer sizes other than 50u making layer height float ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1398780826933222/))
 - Z motor stops moving mid-print, LCD keeps exposing resin, no error message, stopping print and moving Z via menu works.
-- LCD screen light bleed. UV test rectangle shows dimly, low contrast, entire screen letting UV through slightly. Possibly fpga/contrast issue reported fixable by firmware update. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1531910403620263/))
+- LCD screen light bleed. UV test rectangle shows dimly, low contrast, entire screen letting UV through slightly. Possibly fpga/contrast issue reported fixable by firmware update. [(FB post)]  (https://www.facebook.com/groups/AnycubicPhoton/permalink/1531910403620263/)
 
 ---
 ### Random resets / Memory errors / USB Read problems
