@@ -134,7 +134,7 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - Use soft tissues and a small spray of IPA to remove any dried resin, buff with microfiber cloth.
 
 ### How do I clean the FEP Film?
-- Once you have drained the vat of resin, spray down with IPA and wipe with paper towel. Spray again and use soft tissue on the clear FEP, finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratch the FEP. Santize wipes can also be used then buff with lens cloth.
+- Once you have drained the vat of resin, spray down with IPA and gently wipe off with paper towel or soft tissue. Spray again and use soft tissue to soak off the remaining residue from the FEP. You may need to repeat this several times. Finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratch or puncture the FEP. Santize wipes can also be used then buff with lens cloth.
 
 ### What else can I use to clean my prints and tools from uncured resin?
 - If you have bought a water washable resin, you can simply use water and some mild soap. A small brush is very helpful to get into and clean the fine grooves or holes.
