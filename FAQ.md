@@ -52,11 +52,18 @@ This is generally due to incorrect exposure setting for your normal layers. See 
 - Is your model a large solid? Hollowing the model is recommended. 
 - See "Model setup & settings" below. 
 
-### Should I coat my FEP sheet?
-Not advisable, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film may in fact cause bad quality prints.
-
 ### Should I sand my build plate?
-Not necessary at all, the blue anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Adhesion to the stock build plate is so good that some owners have difficulty removing prints. Sanding is the very last resort only if the build plate surface is defective and not flat.
+This is NOT necessary at all, the blue anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Adhesion to the stock build plate is so good that some owners have difficulty removing prints. Sanding is the very last resort only if the build plate surface is defective and not flat.
+
+
+## VAT & FEP SETUP
+When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tight enough it should sound just like a snare drum. Sometimes the screws are loosened at the factory to prevent shipping damage to the FEP. If it is loose, simply tighten the screws till it sounds like a snare drum. 
+
+### Should I coat my FEP sheet?
+Not advisable, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
+
+### When should I replace my FEP film? 
+If you take care of it, it will not need to be replaced for months. FEP film needs to be replaced only when it becomes to scratched up or cloudy from use. If it is not replaced your print quality will deteriorate. Replace immediately if it is punctured or torn. If you notice cured resin on your LCD glass, it means the film may have a micro tear.
 
 
 ## MODEL SETUP & SETTINGS
