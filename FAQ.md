@@ -59,11 +59,17 @@ This is NOT necessary at all, the blue anodized aluminium surface of the build p
 ## VAT & FEP SETUP
 When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tight enough it should sound just like a snare drum. Sometimes the screws are loosened at the factory to prevent shipping damage to the FEP. If it is loose, simply tighten the screws till it sounds like a snare drum. 
 
-### Should I coat my FEP sheet?
+### Should I coat my FEP film?
 Not advisable, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
 
 ### When should I replace my FEP film? 
-If you take care of it, it will not need to be replaced for months. FEP film needs to be replaced only when it becomes to scratched up or cloudy from use. If it is not replaced your print quality will deteriorate. Replace immediately if it is punctured or torn. If you notice cured resin on your LCD glass, it means the film may have a micro tear.
+If you take care of it, it will not need to be replaced for months. FEP film needs to be replaced only when it becomes too scratched up or cloudy from use. If it is not replaced your print quality will deteriorate. Replace immediately if it is punctured or torn. If you notice cured resin on your LCD glass, it means the film may have a micro tear.
+
+### Why is my FEP film so cloudy or hazy? 
+When new, the film is clear. But it is easily scratched by handling or cleaning. Use soft tissue to soak resin when cleaning up the vat, do not aggressively wipe the film as even tissue will scratch it. These micro scratches cause the film to go cloudy. Buffing the film with microfibre cloth will restore some clarity. It is important that the film is kept clear to ensure sharp and detailed prints. 
+
+### How do I replace the FEP film? 
+Watch the video by Anycubic for a detailed step by step. It is important to note that some replacement FEP film may come sandwiched between two layers of protective plastic. These have to be peeled off before the FEP film can be used. 
 
 
 ## MODEL SETUP & SETTINGS
