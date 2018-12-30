@@ -112,6 +112,9 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 ### How do I clean my prints? 
 - One popular method is the two tub system. Fill both containers with Isopropyl Alcohol (IPA) or other solvents such as Ethanol (90 ‰or higher). Drop the print into the first tub and swirl. Use a soft brush for hard to reach parts, holes etc. Then dunk the part in the second tub of solvent and swirl clean. Remove then dry thoroughly before uv curing. 
 
+### How long do I clean my parts in solvents? 
+- For as little time as possible to get your prints cleaned of uncured resin. Do not leave your prints to soak. Some manufacturers advise no longer than 30 seconds. In a post, Formlabs mentioned that prolonged exposure to solvents may make some resins swell. 
+
 ### How do I clean the LCD?
 - Use soft tissues and a small spray of IPA to remove any dried resin, buff with microfiber cloth.
 
