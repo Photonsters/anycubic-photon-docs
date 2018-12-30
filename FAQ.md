@@ -70,7 +70,8 @@ If you take care of it, it will not need to be replaced for months. FEP film nee
 When new, the film is clear. But it is easily scratched by handling or cleaning. Use soft tissue to soak resin when cleaning up the vat, do not aggressively wipe the film as even tissue will scratch it. These micro scratches cause the film to go cloudy. Buffing the film with microfibre cloth will restore some clarity. It is important that the film is kept clear to ensure sharp and detailed prints. 
 
 ### How do I replace the FEP film? 
-Watch the video by Anycubic for a detailed step by step. It is important to note that some replacement FEP film may come sandwiched between two layers of protective plastic. These have to be peeled off before the FEP film can be used. 
+Watch the video by Anycubic for a detailed step by step. It is important to note one very important omission in that video: some replacement FEP film may come sandwiched between two layers of protective plastic. These have to be peeled off before the FEP film can be used. 
+- [Official Anycubic instructions - Youtube](https://youtu.be/DLi3chV43LQ) 
 
 
 ## MODEL SETUP & SETTINGS
