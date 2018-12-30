@@ -58,6 +58,7 @@ This is NOT necessary at all, the blue anodized aluminium surface of the build p
 
 ## VAT & FEP SETUP
 When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tight enough it should sound just like a snare drum. Sometimes the screws are loosened at the factory to prevent shipping damage to the FEP. If it is loose, simply tighten the screws till it sounds like a snare drum. 
+- [Official Anycubic instructions - Youtube](https://youtu.be/Sdxf9mf7-ns) 
 
 ### Should I coat my FEP film?
 Not advisable, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
@@ -152,7 +153,7 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 ### How long can I keep the resin in the vat?
 It depends on environmental factors and type/brand of resin, typically if the resin is kept out of light and moisture/dirt it may sit in the vat for 1 - 2 weeks. Clear resins tend to sit better, opaque resins will need more stirring before use to mix the pigments back. 
 - Check for loose cured resin or stuck resin, you will need to clean that out. 
-- Cover the vat, you can cut a piece of cardboard that fits over the vat, or print one out on an FDM printer. Here is a good vat cover.https://www.thingiverse.com/thing:2837171
+- Cover the vat, you can cut a piece of cardboard that fits over the vat, or print one out on an FDM printer. Here is a good vat cover. https://www.thingiverse.com/thing:2837171
 - Before printing, carefully stir the resin for 1 - 2 minutes with the plastic spatula, be careful not to scratch the FEP screen.
 - Do not leave the build plate hanging with uncured resin, take it out and clean with IPA, leave it out until you are ready to print, this will lessen the weight on the single Z rod thus prevent z wobble. 
 
