@@ -80,6 +80,10 @@ Chitu devs have been helping Photonster devs with some support questions, and Ch
 - [Known good resin settings - Curated by Artur Fuste](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0)
 - Also checkout the resin exposure finder test under community projects.
 
+## Community resin precision gauge test
+This is just for resin-tested with no software profile/compensation. Dimensions can be corrected by activating the horizontal-size compensation feature in your slicing software. If you don't have this feature, please contact your slicer developer.
+(https://docs.google.com/spreadsheets/d/1yDwszgncTyOxvyJho6y1kxLJquH2GsfL83KaFXT6068)
+
 ## Community projects
 - [Resin Exposure Range Finder](https://github.com/altLab/photon-resin-calibration) - Quick method to test multiple resin exposure settings in one go *(X3msnake)*
 - [Photon File Validator](https://github.com/Photonsters/PhotonFileViewer) - Check if your sliced file has errors before printing *(Bonosoft)*
