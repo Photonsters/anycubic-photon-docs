@@ -48,7 +48,7 @@ There are several known issues with the ANYCUBIC Photon hardware and software.
 - Nema 17 Motor 1.8º 200steps/rev
 - Driver embeded Polulu Alegro 4998 set at 1/16 microstepping
 - Hardware resolution 10µ (0.01mm)
-- Digital microstepped resolution 0.625µ (0.000625mm)
+- Digital microstepped resolution 0.625µ (0.000625mm) - [Advised reading: Microstepping Myths and Realities](https://tinyurl.com/y92kexf5)
 
 #### Electronics
 - LED POWER 25W 405nm
