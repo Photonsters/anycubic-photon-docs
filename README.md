@@ -97,6 +97,8 @@ This is for resin-tested with no software profile/compensation. Dimensions can b
 - [Photon Open Slicer - Meshmixer Plugin](https://github.com/Photonsters/Slicer) - *(NardJ)*
 - [Voxel Ops](https://github.com/Photonsters/VoxelsOps) - Voxel tools to dilate, erode, hollow, project and mesure *(Antharon)*
 
+## User mods
+- [Using photon with a external Driver module - FB](https://www.facebook.com/media/set/?set=oa.1350659371745368&type=3)
 
 ## Social media groups
 - [FB Anycubic Owners Group](https://www.facebook.com/groups/AnycubicPhoton/?ref=group_header)
