@@ -21,7 +21,7 @@ Incorrect build plate tramming (levelling) is the number one reason for new user
 ### So how do I tram (level) my build plate? 
 - [Paper method by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 - [Paper method by Nick W. - Youtube](https://youtu.be/qEaNVfT8y9w)
-- [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try the this method as you may scratch the FEP.)  
+- [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try this method as you may accidently scratch the FEP.)  
 
 ### How tight should I tram/level the build plate?
 If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER that as you tighten the setting (grub) screw it will move the plate down a tiny bit more, so you should raise / backoff the level about 0.01mm.
@@ -36,7 +36,7 @@ Using your fingers, push the opposite side of the plate when tightening the grub
 This is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting these other solutions. 
 - Clean the build plate carefully with IPA or other solvents. Dry before use. 
 - Shake your resin in bottle well before using. Resin already in the vat may have settled and need to be stirred. 
-- Warm the resin, you can use hot hair dryer on most bottles to gently heat the resin while swilling between 20c - 30c. 
+- Warm the resin, you can use a hair dryer on most bottles to gently heat the resin to 20~30°C while swilling. 
 - The build plate may have shifted. Try and level it again, make sure to tighten well. 
 - Did you remember to set Z=0?
 - Build plate is too high / low, this is caused by incorrectly seated ball joint screws. [fix here](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md#loose-print-bed-head--print-head-too-short)
