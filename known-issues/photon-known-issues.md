@@ -1,6 +1,6 @@
 **CONTACT ANYCUBIC SUPPORT FIRST!** 
 
-This should be your first point of contact for faulty machines, some of the fixes here may void you warranty, proceed at your own risk! ([Anycubic Support Contact Page](http://support.anycubic3d.com/submit.html)) 
+This should be your first point of contact for faulty machines, some of the fixes here may void your warranty, proceed at your own risk! ([Anycubic Support Contact Page](http://support.anycubic3d.com/submit.html)) 
 
 The following issues and solutions have been compiled from cases reported by Photonsters in the [Anycubic Photon DLP Printer Owners Group](https://www.facebook.com/groups/1194619320682708) on Facebook. 
 
@@ -31,7 +31,7 @@ The following issues and solutions have been compiled from cases reported by Pho
 - LCD screen light bleed. UV test rectangle shows dimly, low contrast, entire screen letting UV through slightly. Possibly fpga/contrast issue reported fixable by firmware update. [(FB post)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1531910403620263/)
 
 ---
-### Random resets / Memory errors / USB Read problems
+### Random Resets / Memory Errors / USB Read Problems
 #### Symptoms
 - Printing freezes at random points, resets to homescreen.
 - Random freezes with error code. (see error codes below) 
@@ -39,7 +39,7 @@ The following issues and solutions have been compiled from cases reported by Pho
 - USB key light indicator is off, but plugged in (it should always be on.)
 - If you wiggle the USB key, you can read files again. 
 
-#### How to fix
+#### Suggested Fixes
 - Replace stock USB key with a known good branded one, formatted to FAT32. 
 - Only have one file on USB, using short name and no non english characters or spaces.
 - If problem still occurs you might have defective USB extension cable or faulty mainboard.
@@ -52,82 +52,82 @@ The following issues and solutions have been compiled from cases reported by Pho
 - Check printer driver reference voltage is between 1.07V to 1.16V. If not, tune it to around those figures. [FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1404990436312261/) (confirmed by Laszlo Cook.)
 - Check power supply unit (PSU) version. Early versions are known to be faulty. Replace with another 12V 6A unit. [Comparison photo](https://raw.githubusercontent.com/Photonsters/anycubic-photon-docs/master/known-issues/photon_psu_comparison.png)
 
-### Slicer wont display model / doesnt work
+### Slicer Won't Display Model / Does Not Work
 The Anycubic Photon Slicer currently does not support intergrated graphics driver, or resolutions above 2K.
 
-### Loose print bed head / print head too short
+### Loose Build Plate / Plate Too High
 #### Symptoms
-- The printhead easily tilts side to side even when mount screw is tightened,
-- The print head sits too high from the FEP and can not lower any more.
-Photo of the print bed assembly here - https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon_bed_mount_assembly.jpg
+- The build plate easily tilts side to side even when grub/mount screw is tightened,
+- The build plate sits too high from the FEP and cannot lower any further.
+[Photo of the print bed assembly here](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon_bed_mount_assembly.jpg) 
 
-#### How to fix
-- Dissamble build plate assembly and resit ball joint - https://www.youtube.com/watch?v=VdiNI_Xu6bI
-- Check your build plate mount screws Tutorial > https://www.youtube.com/watch?v=Uc8senzACFM
-- remove the mount screw
-- remove the four screwes holding the print bed
-- three more screws inside that will help tighten the ball joint have a look in there.
-- CLEAR OUT ANY RESIN WITH IPA.
-- they should be tight. Some users report that grinding, cutting the screws all it to sit tighter, be careful.
-- re align and adjust the length of the printhead. 
-- If you can't tighten down the build plate with the grub screw, Remove the four screws holding the ball joint in place and have a look inside there are 3 more screws and it may be that they are loose tighten them up again and off you go.
+#### Suggested Fixes
+- Disassemble build plate assembly, clean and reseat ball joint. [Youtube video](https://www.youtube.com/watch?v=VdiNI_Xu6bI) 
+- Check your build plate mount screws. [Youtube video](https://www.youtube.com/watch?v=Uc8senzACFM) 
+- Remove the grub screw. 
+- Remove the four screws holding the build plate. 
+- Tighten three more screws inside that help secure the ball joint.
+- Make sure to clean out any resin with IPA or other solvents. 
+- All screws should be tight.
+- Realign and adjust the build plate. 
+- If you can't tighten down the build plate with the grub screw, make sure there isn't two screws in there. 
 
-### Z Wobble / non random layer artifacts 
+### Z Wobble / Non Random Layer Artifacts 
 #### Symptoms
-- non random layer artifacts visible on print no matter oreintation of print
-- Consistent warped prints
+- Non random layer artifacts visible on surfaces no matter what orientation of print. 
+- Consistent banding lines approximately 2mm apart. 
+- Consistent warped prints. 
 
-#### Causes and fixes
- - Loose FEP - Tighten Fep https://youtu.be/Sdxf9mf7-ns
- - Replace FEP https://youtu.be/DLi3chV43LQ
- - Z Axis video fix (adjusting the wheels on the carriage)https://www.youtube.com/watch?v=4cfCWmHtsy8
- - Loosened the Z Axis stepper motor mounting screws twice (different degrees each time)
- - Taken the brass seating fixture out of the carriage and reseated it for a smooth fit
- - Taken the Z Axis screw out completely and reinstalled it
- - Grease Z rod
+#### Causes and Suggested Fixes
+ - Loose FEP film. Tighten the FEP. [Youtube video](https://youtu.be/Sdxf9mf7-ns) 
+ - Replace the FEP film. [Youtube video](https://youtu.be/DLi3chV43LQ) 
+ - Tighten the eccentric roller of the slide block. [Anycubic official video](https://www.youtube.com/watch?v=4cfCWmHtsy8) 
+ - Brass nut of the lead screw loose or not seated properly. Remove, clean, reseated tighten the four screws. 
+ - Bent or warped motor dampener /cushion. Open back vent hatch, check and replace if necessary. 
+ - Replace entire integrated motor lead screw assembly. 
+ - Clean lead screw (Z rod) and reapply with good quality viscous grease. 
  
- ### layers shifting on LCD during print 
+ ### Layer Shifting On LCD During Print 
  #### Symptoms
- - prints look like they have been sliced / cut and moved onto another part of the build plate
- - Checking the photon file reveals no problems ( use photonFileValidator ) 
+ - Prints look like they have been sliced / cut and moved onto another part of the build plate. 
+ - Checking the Photon file reveals no problems. (in slicer or Validator) 
  
- #### Causes and fixes
- - LCD or mainboard defact - perform 'dry run' and use timelapse camera to check if the LCD shifts during print.
- - UNCONFIRMED FIX - Suggest contact Anycubic with evidence of issue first. check all cables are tight, Update Firmware.
- - Check cables are secure and not loose during shipping.
+ #### Causes And Suggested Fixes
+ - Defective LCD or mainboard. Do a 'dry run' and use timelapse camera to check if the LCD shifts during print.
+ - UNCONFIRMED FIX - Suggest contact Anycubic with evidence of issue first. Check that all cable connectors are tight, Update or reflash firmware.
+ - Check cables are secure and have not come loose during shipping.
  
-  ### Photon slicer does not display STL
+  ### Anycubic Photon Slicer Does Not Display STL
   - Update display driver.
   
-  ### Photon slicer does not run
-  - ReInstall C++ distribution library
-  - ReInstall slicer
+  ### Anycubic Photon Slicer Does Not Run
+  - Reinstall slicer program.
+  - Reinstall C++ distribution library. 
   https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads
  
- ### LCD displays only half of the model
+ ### LCD Displays Only Half Screen
  #### Symptoms
- - LCD displays half model, viewing display shows correctly.
- - this is not related to flickering LCD
+ - LCD displays half the screen only, touchscreen display shows correctly. (This not related to flickering LCD issue) 
  
-  #### Causes and fixes
-  - check cables
-  - contact anycubic
-  - update firmware from anycubic support site 
+  #### Causes and Suggested Fixes
+  - Check that all cable connections are seated correctly. 
+  - Contact Anycubic Support. 
+  - Update or reflash firmware obtained from Anycubic website.  
  
- ### Other random problems with a combination of the above
+ ### Other Random Issues
  #### Symptoms
- - After you have tried all the fixes above, machine is still behaving abnormally, this could be a faulty Mainboard.
+ - After you have tried all the fixes above, machine is still behaving abnormally. Possibly faulty Mainboard.
  
-  #### Causes and fixes
- - Check for mainboard faults using mulitmeter following this video https://youtu.be/F69UMKYKvbY
+  #### Causes and Suggested Fixes
+ - Check for mainboard faults using mulitmeter following this video. [Anycubic Official Video](https://youtu.be/F69UMKYKvbY) 
  - Replace Mainboard.
  
-## Error codes
+## Error Codes
 #### M_11820
 Machine will randomly freeze during print and display error, Z does not retract, fan stays on.
 
 #### M_11800
-From Anycubic engineer 'this means USB is not plugged in'
+From Anycubic engineer, 'this means USB is not plugged in'
 
 #### M_11000
-USB Read problem, Buy new USB, 8GB or less FAT 32. ( sandisk reported fixed issue )
+USB read problem, Replace with new good branded USB stick, formatted FAT32.
