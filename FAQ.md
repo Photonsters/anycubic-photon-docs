@@ -32,6 +32,9 @@ If you are using the paper method, the paper should be tight enough to pull but 
 ### I tried to tram the build plate but one side is tighter than the other? 
 Using your fingers, push the opposite side of the plate when tightening the grub screw. Alternatively, if you're using the paper method, you can slip another strip of paper to the side which is too tight and then tighten the screw. You may need to try this a few times to get perfect level. 
 
+### I set Z=0 but when I press Home the position is different?
+Home is fixed, it is the hardware Z endstop, unless you change it physically, it will always be the same position. Z=0 is the offset distance between Home and your screen, you define it when you level the build plate, that's why you have to Home first then move the platfrom, then set Z=0. When a new Z=0 is specified, pressing Home will NOT move the platform to the position you specified, it will be the start position when a real print actually starts. You can check it by removing the vat and starting a print. (Thanks to Philippe Maegerman for the original explanation.) 
+
 ### My prints just won't stick? 
 This is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting these other solutions. 
 - Clean the build plate carefully with IPA or other solvents. Dry before use. 
