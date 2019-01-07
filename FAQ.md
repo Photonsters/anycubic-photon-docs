@@ -81,6 +81,9 @@ Watch the video by Anycubic for a detailed step by step. It is important to note
 
 ## MODEL SETUP & SETTINGS
 
+### I bought x resin, what are the best settings for it? 
+Every resin behaves differently, there are no best settings that will work for everyone and every machine. For a quick start, you can refer to the [community resin exposure settings.](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0) You will need to test and adjust from there to find the best settings applicable to you. 
+
 ### What do the print settings mean?
 This is assuming you're using the Anycubic slicer program (rebadged Chitu slicer v.1.3.6) that is included on the USB stick. Other slicers may use different terminology but they're functionally the same. 
 
