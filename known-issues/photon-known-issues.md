@@ -79,13 +79,14 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
 - Consistent warped prints. 
 
 #### Causes and Suggested Fixes
- - Loose FEP film. Tighten the FEP. [Youtube video](https://youtu.be/Sdxf9mf7-ns) 
+ - First, try cleaning the lead screw (Z rod) and reapply with good quality viscous grease. 
+ - FEP film may be loose. Tighten the FEP. [Youtube video](https://youtu.be/Sdxf9mf7-ns) 
  - Replace the FEP film. [Youtube video](https://youtu.be/DLi3chV43LQ) 
  - Tighten the eccentric roller of the slide block. [Anycubic official video](https://www.youtube.com/watch?v=4cfCWmHtsy8) 
- - Brass nut of the lead screw loose or not seated properly. Remove, clean, reseated tighten the four screws. 
+ - Brass nut of the lead screw loose or not seated properly. Remove, clean, reseat and tighten the four screws. 
  - Bent or warped motor dampener /cushion. Open back vent hatch, check and replace if necessary. 
- - Replace entire integrated motor lead screw assembly. 
- - Clean lead screw (Z rod) and reapply with good quality viscous grease. 
+ - Motor mounting causing lead screw to be off centre or not perpendicular to lcd glass. Tighten the two screws that hold the motor. Sometimes, loosening the two screws slightly may provide a [temporary fix.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1547616112049692/) 
+ - Replace entire integrated motor lead screw assembly.  
  
  ### Layer Shifting On LCD During Print 
  #### Symptoms
