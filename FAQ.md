@@ -77,7 +77,7 @@ When new, the film is clear. But it is easily scratched by handling or cleaning.
 ### How do I replace the FEP film? 
 Watch the video by Anycubic for a detailed step by step. It is important to note one very important omission in that video: some replacement FEP film may come sandwiched between two layers of protective plastic. These have to be peeled off before the FEP film can be used. 
 - [Official Anycubic instructions - Youtube](https://youtu.be/DLi3chV43LQ) 
-- [Check FEP for protective layers,](https://www.facebook.com/groups/AnycubicPhoton/permalink/1518671824944121/) (Thanks Jannick) 
+- [Check FEP for protective layers - FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1518671824944121/) (Thanks Jannick) 
 
 
 ## MODEL SETUP & SETTINGS
