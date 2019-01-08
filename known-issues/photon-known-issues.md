@@ -121,7 +121,7 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
  - A cube when printed turns out to be not perfectly squared. Cylinders when printed have a lean. 
  
  #### Causes and Suggested Fixes
- - Check that the rail column is perpendicularly to the red base plate. If it is leaning it will cause prints to skew. Tighten the 4 mounting bolts for the column. If not, shim the column base. [Facebook post](https://www.facebook.com/groups/1194619320682708?view=permalink&id=1479801292164508) 
+ - Check that the rail column is perpendicular to the red base plate. Use a small engineer's square for accuracy. If the column is leaning it will cause prints to skew. Tighten the 4 mounting bolts for the column. If not, shim the column base. [FB post](https://www.facebook.com/groups/1194619320682708?view=permalink&id=1479801292164508) 
  
  ### Other Random Issues
  #### Symptoms
