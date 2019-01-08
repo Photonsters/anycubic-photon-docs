@@ -29,6 +29,7 @@ The following issues and solutions have been compiled from cases reported by Pho
 - Slicer up to 1.3.6 has a floating point bug in layer sizes other than 50u making layer height float. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1398780826933222/))
 - Z motor stops moving mid-print, LCD keeps exposing resin, no error message, stopping print and moving Z via menu works.
 - LCD screen light bleed. UV test rectangle shows dimly, low contrast, entire screen letting UV through slightly. Possibly fpga/contrast issue reported fixable by firmware update. [(FB post)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1531910403620263/)
+- Squares print rhomboid, circles are skewed. 
 
 ---
 ### Random Resets / Memory Errors / USB Read Problems
@@ -113,7 +114,14 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
   #### Causes and Suggested Fixes
   - Check that all cable connections are seated correctly. 
   - Contact Anycubic Support. 
-  - Update or reflash firmware obtained from Anycubic website.  
+  - Update or reflash firmware obtained from Anycubic website. 
+  
+ ### Squares Print Rhomboid, Circles Are Skewed
+ #### Symptoms
+ - A cube when printed turns out to be not perfectly squared. Cylinders when printed have a lean. 
+ 
+ #### Causes and Suggested Fixes
+ - Check that the rail column is perpendicularly to the red base plate. If it is leaning it will cause prints to skew. Tighten the 4 mounting bolts for the column. If not, shim the column base. [Facebook post](https://www.facebook.com/groups/1194619320682708?view=permalink&id=1479801292164508) 
  
  ### Other Random Issues
  #### Symptoms
