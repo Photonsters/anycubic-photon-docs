@@ -82,6 +82,9 @@ Watch the video by Anycubic for a detailed step by step. It is important to note
 
 ## MODEL SETUP & SETTINGS
 
+### I just downloaded some cool .stl models from somewhere, how come it won't print? 
+You first need to convert those 3D models by generating sliced layers into a format that your Photon understands and can print. This is done in what's known as a slicer program. A free slicer program comes included in the usb stick provided with your printer. 
+
 ### I bought x resin, what are the best settings for it? 
 Every resin behaves differently, there are no best settings that will work for everyone and every machine. For a quick start, you can refer to the [community resin exposure settings.](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0) You will need to test and adjust from there to find the best settings applicable to you. 
 
