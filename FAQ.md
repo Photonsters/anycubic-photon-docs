@@ -131,13 +131,15 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - Make sure to mix the fresh resin well before adding. Try to ensure the resin temperature is the same, if the difference is more than 5~10 degrees Celsius, it may cause a layer line. 
 
 ### Can I pause halfway through a print? 
-- Yes, you can pause at anytime during your print. Resume as quickly as you can to ensure that your print will continue safely. However it is generally not recommended as it will most likely leave a line at the layer where you paused. Do note that if you switch the printer off during a pause, you will not be able to resume. 
+- Yes, you can pause at anytime during your print. Resume as quickly as you can to ensure that your print will continue safely. However it is generally not recommended as it will most likely leave a line at the layer where you paused. 
+- Do note that if you switch the printer off during a pause, you will not be able to resume. 
 
-### How long can I leave resin in the vat between prints?
-- You can leave resin in the vat for extended periods of time, some owners have left it for weeks. Make sure it's left in the dark, a vat cover comes in handy. 
+### How do I know that my print is sticking to the build plate? 
+- One easy way to tell is by listening for the sound that's made as the layer peels off the FEP. You can hear it clearly especially for the first few bottom layers. Don't worry if you can't hear it anymore later, it varies depending on the size of the layer being printed. 
+- You can also use pause to check on your print, but note that you may get a line at the layer where you paused. 
 
 
-## CLEANING
+## CLEANING 
 
 ### How do I clean my prints? 
 - One popular method is the two tub system. Fill both containers with Isopropyl Alcohol (IPA) or other solvents such as Ethanol (90 ‰or higher). Drop the print into the first tub and swirl. Use a soft brush for hard to reach parts, holes etc. Then dunk the part in the second tub of solvent and swirl clean. Remove then dry thoroughly before uv curing. 
@@ -167,7 +169,7 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - Yes, if you regulary cure the washing solvents along with your printed parts and filter out the solids your solvents will last longer. 
 
 ### How long can I keep the resin in the vat?
-It depends on environmental factors and type/brand of resin, typically if the resin is kept out of light and moisture/dirt it may sit in the vat for 1 - 2 weeks. Clear resins tend to sit better, opaque resins will need more stirring before use to mix the pigments back. 
+It depends on environmental factors and type/brand of resin, typically if the resin is kept out of light and moisture/dirt it may sit in the vat for a few weeks. Clear resins tend to sit better, opaque resins will need more stirring before use to mix the pigments back. 
 - Check for loose cured resin or stuck resin, you will need to clean that out. 
 - Cover the vat, you can cut a piece of cardboard that fits over the vat, or print one out on an FDM printer. Here is a good vat cover. https://www.thingiverse.com/thing:2837171
 - Before printing, carefully stir the resin for 1 - 2 minutes with the plastic spatula, be careful not to scratch the FEP screen.
