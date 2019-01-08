@@ -130,6 +130,9 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - Yes , no problem. You do not have to pause the print, just slowly and gently pour resin into the vat. Make sure to not bump or touch the build plate while pouring. Do not over add resin, do not go over the line in the vat. 
 - Make sure to mix the fresh resin well before adding. Try to ensure the resin temperature is the same, if the difference is more than 5~10 degrees Celsius, it may cause a layer line. 
 
+### Can I pause halfway through a print? 
+- Yes, you can pause at anytime during your print. Resume as quickly as you can to ensure that your print will continue safely. However it is generally not recommended as it will most likely leave a line at the layer where you paused. Do note that if you switch the printer off during a pause, you will not be able to resume. 
+
 ### How long can I leave resin in the vat between prints?
 - You can leave resin in the vat for extended periods of time, some owners have left it for weeks. Make sure it's left in the dark, a vat cover comes in handy. 
 
