@@ -23,7 +23,8 @@ Incorrect build plate tramming (levelling) is the number one reason for new user
 - [Paper method by Nick W. - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try this method as you may accidently scratch the FEP.)  
 
-Important note: Press Home to bring the build plate down before starting to set Z=0. If you do not Home first, it will not set Z=0 correctly. 
+Important note:
+Press Home to bring the build plate down before starting to set Z=0. If you do not Home first, it will not set Z=0 correctly. 
 
 ### How tight to the paper should I tram/level the build plate?
 If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER that as you tighten the setting (grub) screw it will move the plate down a tiny bit more, so you should raise / backoff the level about 0.01mm.
