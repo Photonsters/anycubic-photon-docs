@@ -24,7 +24,9 @@ Incorrect build plate tramming (levelling) is the number one reason for new user
 - [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try this method as you may accidently scratch the FEP.)  
 
 Important note: 
-Press Home to bring the build plate down before starting to set Z=0. If you do not Home first, it will not set Z=0 correctly. 
+- Press Home to bring the build plate down before starting to set Z=0. If you do not Home first, it will not set Z=0 correctly. 
+- After setting Z=0 verify that it is set correctly by removing the vat and starting a print (aka dry run), put a piece of paper on the screen and check that the build plate starts the first layer at the correct Z=0 position that you have set. 
+- Remember that Z=0 is not the same as Home.
 
 ### How tight to the paper should I tram/level the build plate?
 If you are using the paper method, the paper should be tight enough to pull but not be able to push, REMEMBER that as you tighten the setting (grub) screw it will move the plate down a tiny bit more, so you should raise / backoff the level about 0.01mm.
