@@ -23,7 +23,7 @@ Incorrect build plate tramming (levelling) is the number one reason for new user
 - [Paper method by Nick W. - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try this method as you may accidently scratch the FEP.)  
 
-Important note: 
+Important notes: 
 - Press Home to bring the build plate down before starting to set Z=0. If you do not Home first, it will not set Z=0 correctly. 
 - After setting Z=0 verify that it is set correctly by removing the vat and starting a print (aka dry run), put a piece of paper on the screen and check that the build plate starts the first layer at the correct Z=0 position that you have set. 
 - Remember that Z=0 is not the same as Home.
@@ -217,7 +217,7 @@ First remove the 4 bolts you can see just either side of the arm holder (the bit
 Now you have it all apart clean all the parts with some IPA and remove any cured or uncured resin you find, Then just put it all back together nice and tight and you can relevel and start printing nice straight prints again!
 
 ### My printer resets during prints!
-- This is a known problem and there are a few solutions to test. see the [KNOWN ISSUES SECTION](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md)
+- This is a known problem and there are a few solutions to test. See the [KNOWN ISSUES SECTION](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md)
 
 
 ## MAINTENANCE
