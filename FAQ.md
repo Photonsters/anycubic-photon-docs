@@ -157,8 +157,9 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - Once you have drained the vat of resin, spray down with IPA and gently wipe off with paper towel or soft tissue. Spray again and use soft tissue to soak off the remaining residue from the FEP. You may need to repeat this several times. Finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratch or puncture the FEP. Santize wipes can also be used then buff with lens cloth.
 
 ### What else can I use to clean my prints and tools from uncured resin?
-- If you have bought a water washable resin, you can simply use water and some mild soap. A small brush is very helpful to get into and clean the fine grooves or holes.
-- For all other resins most companies recomend the use of a solvent like IPA (Isopropyl Alcohol) or Ethanol, a higher purity above 90% is recommended.  Other solvents can also be used such as Mineral oil, Yellow Magic 7, Propylene Glycol or other specialized products like ResinAway or TEK.
+- Almost all manufacturers advice the use of a solvent like IPA (Isopropyl Alcohol) or Ethanol, a higher purity above 90% is recommended.  Other solvents may also be used such as Mineral spirits (aka White spirits, Turpentine), Yellow Magic 7, Propylene Glycol or other specialized products like Resinaway or TEK.
+- If you have bought a water washable resin, you can simply use water and some mild soap. 
+- A small brush is very helpful to get into and clean the fine grooves or holes in your prints.
 - Alcohol and other flamable solvents should not be used directly with ultrasonic cleaners because of the fire hazard.
 
 ### How do I dispose of saturated cleaning solvents, cleaning tools, uncured and cured resin?
