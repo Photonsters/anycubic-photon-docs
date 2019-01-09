@@ -8,7 +8,7 @@ The following issues and solutions have been compiled from cases reported by Pho
 
 ## KNOWN ISSUES
 
-- Filenames on USB stick must be kept short, avoid special chars as the Photon cannot read them. (Michael Lippert) [(FB post)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1370647173079921/)
+- Filenames on USB stick must not contain special characters as the Photon will not read them. Try also to avoid long filenames although they have been confirmed to be fine. [(FB post)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1370647173079921/)
 - Faulty internal USB cable. (loose or bad connection, causing random resets)
 - Random resets possibly caused by internal memory buffer issue. 
 - Z-wobble. 
