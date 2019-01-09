@@ -73,8 +73,9 @@ Go to [this page](http://www.anycubic3d.com/support/show/594032.html) and click 
 Chitu devs have been helping Photonster devs with some support questions, and Chitu's new software release will allow for better integration of Photonsters tools with the slicer software, and will support many new formats including zip/gcode import/export.
 
 #### [**Chitubox**](https://www.chitubox.com/) (New Slicer for the photon from the same makers of ChituDLP)
+New software that integrates code and ideas first seen in the community projects VoxelOps, Validator, Rob's 3D photon Viewer and Photon File Editor Project
 
-#### [**Photon Open Slicer**](https://github.com/Photonsters/Slicer)
+#### [**Photon Open Slicer**](https://github.com/Photonsters/Slicer) (Community developed OpenSource Slicer)
 A independent command line Slicer from Photonsters, that can be integrated with MeshMixer or any other software capable of outputting a STL file. 
 
 
