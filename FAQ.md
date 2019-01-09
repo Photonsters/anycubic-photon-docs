@@ -127,7 +127,7 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 ## PRINTING
 
 ### How much resin should I pour into the vat? 
-- Pour resin up to the line about a third up from the FEP. This is about 125ml. Do not exceed the line, if there is too much resin, it will rise from displacement and get into the screws and ball joint of your build plate! 
+- Pour resin up to the line where the chamfer starts in the vat, about a third up from the FEP. This is about 125ml. Do not exceed the line, if there is too much resin, it will rise from displacement and get into the screws and ball joint of your build plate! 
 
 ### Can I add resin halfway through a print?
 - Yes , no problem. You do not have to pause the print, just slowly and gently pour resin into the vat. Make sure to not bump or touch the build plate while pouring. Do not over add resin, do not go over the line in the vat. 
