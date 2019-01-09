@@ -65,8 +65,11 @@ This is NOT necessary at all, the blue anodized aluminium surface of the build p
 
 
 ## VAT & FEP SETUP
-When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tight enough it should sound just like a snare drum. Sometimes the screws are loosened at the factory to prevent shipping damage to the FEP. If it is loose, simply tighten the screws till it sounds like a snare drum. 
+When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tensioned enough it should sound just like a snare drum. Sometimes the screws are loosened at the factory to prevent shipping damage to the FEP. If it is loose, simply tighten the screws till it sounds like a snare drum. 
 - [Official Anycubic instructions - Youtube](https://youtu.be/Sdxf9mf7-ns) 
+
+### How tight exactly should the FEP be tensioned? 
+If it sounds like a snare drum when you lightly tap with a finger, it should be good enough. To be precise, you can use any audio analyser to check, factory tensioned FEP film (about 127 to 150 microns thick) is around 350Hz, but anything between 250Hz to 375Hz is fine. Do not over tension as it might tear. 
 
 ### Should I coat my FEP film?
 Not advisable, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
