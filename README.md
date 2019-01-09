@@ -97,8 +97,12 @@ This is for resin-tested with no software profile/compensation. Dimensions can b
 - [Photon Open Slicer - POS - Meshmixer Plugin](https://github.com/Photonsters/Slicer) - *(NardJ)*
 - [Voxel Ops](https://github.com/Photonsters/VoxelsOps) - Voxel tools to dilate, erode, hollow, project and mesure *(Antharon)*
 
-## User mods
-- [Using photon with a external Driver module - FB](https://www.facebook.com/media/set/?set=oa.1350659371745368&type=3)
+## User mods (on facebook)
+- [Cheap and easy Heater, PTC Fan and temperature controller](https://www.facebook.com/groups/AnycubicPhoton/permalink/1550627681748535/)
+- [Printed Universal resin drainer](https://www.facebook.com/groups/AnycubicPhoton/permalink/1508547859289851/)
+- Gangsta resin drainers [1](https://www.facebook.com/groups/AnycubicPhoton/permalink/1376704139140891/), [2](https://www.facebook.com/groups/AnycubicPhoton/search/?query=gangsta%20drainer&epa=SEARCH_BOX)
+- [Red & Black Acrilic windows with cad files](https://www.facebook.com/groups/AnycubicPhoton/permalink/1367548836723088/)
+- [Using photon with a external Driver module](https://www.facebook.com/media/set/?set=oa.1350659371745368&type=3)
 
 ## Social media groups
 - [FB Anycubic Owners Group](https://www.facebook.com/groups/AnycubicPhoton/?ref=group_header)
