@@ -29,6 +29,7 @@ The following issues and solutions have been compiled from cases reported by Pho
 - Slicer up to 1.3.6 has a floating point bug in layer sizes other than 50u making layer height float. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1398780826933222/))
 - Z motor stops moving mid-print, LCD keeps exposing resin, no error message, stopping print and moving Z via menu works.
 - LCD screen light bleed. UV test rectangle shows dimly, low contrast, entire screen letting UV through slightly. Possibly fpga/contrast issue reported fixable by firmware update. [(FB post)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1531910403620263/)
+- LCD stops displaying layer slices halfway through a print, all other functions still continues. [Youtube video](https://youtu.be/S-G0X7rQl8w) 
 - Squares print rhomboid, circles are skewed. 
 
 ---
