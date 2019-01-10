@@ -94,6 +94,7 @@ This is for resin-tested with no software profile/compensation. Dimensions can b
 
 
 ## Community projects
+- [Photon LCD mask Boundary Checker](https://www.thingiverse.com/thing:3345921) - A printable test for your mask boundaries, which may vary from printer to printer.
 - [Resin Exposure Range Finder](https://github.com/altLab/photon-resin-calibration) - Quick method to test multiple resin exposure settings in one go *(X3msnake)*
 - [Photon File Validator](https://github.com/Photonsters/PhotonFileViewer) - Check if your sliced file has errors before printing *(Bonosoft)*
 - [Photon Sliced File 3D Viewer](https://github.com/Rob2048/PhotonTool) - Javascript 3D model rebuilder and visualization from sliced Photon files *(Rob2048)*
