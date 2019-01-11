@@ -77,7 +77,7 @@ When you receive your new Photon, it will come with an aluminium vat frame with 
 If it sounds like a snare drum when you lightly tap with a finger, it should be good enough. To be precise, you can use any audio analyser to check, factory tensioned FEP film (about 127 to 150 microns thick) is around 350Hz, but anything between 250Hz to 375Hz is fine. Do not over tension as it might tear. 
 
 ### Should I coat my FEP film?
-Not advisable, FEP aka Teflon is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
+Not advisable, FEP (fluorinated ethylene propylene, invented by DuPont, sold under the brandname Teflon FEP), is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
 
 ### When should I replace my FEP film? 
 If you take care of it, it will not need to be replaced for months. FEP film needs to be replaced only when it becomes too scratched up or cloudy from use. If it is not replaced your print quality will deteriorate. Replace immediately if it is punctured or torn. If you notice cured resin on your LCD glass, it means the film may have a micro tear.
