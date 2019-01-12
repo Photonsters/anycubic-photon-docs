@@ -92,6 +92,10 @@ A independent command line Slicer from Photonsters, that can be integrated with 
 
 This is for resin-tested with no software profile/compensation. Dimensions can be corrected by activating the horizontal-size compensation feature in your slicing software. If you don't have this feature, please contact your slicer developer.
 
+## Printed Material Torsion Test Results
+[Torsion Test Results](https://docs.google.com/spreadsheets/d/1JlqLSi4sxZLdA-hHCp6Ow4isoGMNI7nlE9Nmbj1ajWk)
+
+3D-printed material comparison by torsion testing.
 
 ## Community projects
 - [Photon LCD mask Boundary Checker](https://www.thingiverse.com/thing:3345921) - A printable test for your mask boundaries, which may vary from printer to printer.
