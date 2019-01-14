@@ -92,6 +92,9 @@ Watch the video by Anycubic for a detailed step by step. It is important to note
 - [Official Anycubic instructions - Youtube](https://youtu.be/DLi3chV43LQ) 
 - [Check FEP for protective layers - FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1518671824944121/) (Thanks Jannick) 
 
+### How do I test if my FEP film has protective plastic on it? 
+It's difficult to see if there's protective plastic film on your FEP. An easy way to test is by dripping a few drops of resin on your FEP film, then hold the film vertical. If the resin slides downward easily without sticking and leaves the FEP clear, it's good. If the resin sticks where you dripped it and moves slowly or smears, then you have protective plastic which needs to be removed. 
+
 
 ## MODEL SETUP & SETTINGS
 
