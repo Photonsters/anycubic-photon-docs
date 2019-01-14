@@ -229,3 +229,9 @@ Viscous grease. The thick, creamy, toothpaste consistency type.
 Aka machine grease, cosmoline, gel grease, gear grease, etc. 
 White Lithium grease is well received. You could also try "non flick" motorcycle chain grease. 
 Just make sure the lubricant is not thin and runny. Do NOT use WD-40!
+
+
+## ACKNOWLEDGMENTS
+
+### Where did all this information come from? 
+Most of the information, insights, tips and tricks were gleaned from posts by the helpful members of the [Anycubic Photon Printer Owners Group.](https://www.facebook.com/groups/1194619320682708) Too many to mention but they know who they are. Special thanks goes out to Flint Read for his invaluable "Photon Guide & Tips" from which formed the core of this FAQ. 
