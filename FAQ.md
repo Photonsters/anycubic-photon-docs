@@ -76,7 +76,7 @@ When you receive your new Photon, it will come with an aluminium vat frame with 
 ### How tight exactly should the FEP be tensioned? 
 If it sounds like a snare drum when you lightly tap with a finger, it should be good enough. To be precise, you can use any audio analyser to check, factory tensioned FEP film (about 127 to 150 microns thick) is around 350Hz, but anything between 250Hz to 375Hz is fine.
 
-There have been reports of users with good print with tensions as low as 150hz but also leaking vats at hoese low tensions, for that reason we advise 250hz ~ 375hz, tensioning over 375hz might tear your FEP. 
+Some owners have obtained good prints with tensions as low as 150Hz, but there are also reports of leaking vats at those low tensions, For that reason, we advise 250Hz to 350Hz. Be careful when adjusting, over tensioning above 375Hz may tear your FEP film. 
 
 ### Should I coat my FEP film?
 Not advisable, FEP (fluorinated ethylene propylene, invented by DuPont, sold under the brandname Teflon FEP), is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
