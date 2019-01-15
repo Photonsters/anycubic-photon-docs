@@ -70,7 +70,7 @@ This is NOT necessary at all, the blue anodized aluminium surface of the build p
 
 
 ## VAT & FEP SETUP
-When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tensioned enough it should sound just like a snare drum. Sometimes the screws are loosened at the factory to prevent shipping damage to the FEP. If it is loose, simply tighten the screws till it sounds like a snare drum. 
+When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tensioned correctly it should sound just like a snare drum. Sometimes the screws may seem loose, but it may be tensioned correctly from the factory. Do not simply tighten the screws or you may then over tension the FEP. If tapping the FEP film does not sound correct,  it is likely loose, then simply tighten the screws till it sounds like a snare drum. 
 - [Official Anycubic instructions - Youtube](https://youtu.be/Sdxf9mf7-ns) 
 
 ### How tight exactly should the FEP be tensioned? 
