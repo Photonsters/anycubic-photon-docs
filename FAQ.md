@@ -81,15 +81,16 @@ Some owners have obtained good prints with tensions as low as 150Hz, but there a
 ### Should I coat my FEP film?
 Not advisable, FEP (fluorinated ethylene propylene, invented by DuPont, sold under the brandname Teflon FEP), is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
 
-### When should I replace my FEP film? 
-If you take care of it, it will not need to be replaced for months. FEP film needs to be replaced only when it becomes too scratched up or cloudy from use. If it is not replaced your print quality will deteriorate. Replace immediately if it is punctured or torn. If you notice cured resin on your LCD glass, it means the film may have a micro tear.
-
 ### Why is my FEP film so cloudy or hazy? 
 When new, the film is clear. But it is easily scratched by handling or cleaning. Use soft tissue to soak resin when cleaning up the vat, do not aggressively wipe the film as even tissue will scratch it. These micro scratches cause the film to go cloudy. Buffing the film with microfibre cloth will restore some clarity. It is important that the film is kept clear to ensure sharp and detailed prints. 
+
+### When should I replace my FEP film? 
+If you take care of it, it will not need to be replaced for months. FEP film needs to be replaced only when it becomes too scratched up or cloudy from use. If it is not replaced your print quality will deteriorate. Replace immediately if it is punctured or torn. If you notice cured resin on your LCD glass, it means the film may have a micro tear.
 
 ### How do I replace the FEP film? 
 Watch the video by Anycubic for a detailed step by step. It is important to note one very important omission in that video: some replacement FEP film may come sandwiched between two layers of protective plastic. These have to be peeled off before the FEP film can be used. 
 - [Official Anycubic instructions - Youtube](https://youtu.be/DLi3chV43LQ) 
+— [Step by step picture tutorial - Google album](https://photos.google.com/share/AF1QipN3RLrpWpYn73-JfMIi3K09Fe8I2Nkf3PzbdlZNXSB5ElNKtLPk8Ap745EQ3rQylw?key=RFF1a1diNmQ1dUdFNXhzOWs2VU9YM083R0cxTVBn) 
 - [Check FEP for protective layers - FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1518671824944121/) (Thanks Jannick) 
 
 ### How do I test if my FEP film has protective plastic on it? 
