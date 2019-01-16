@@ -245,6 +245,9 @@ Now you have it all apart clean all the parts with some IPA and remove any cured
 
 ## MAINTENANCE
 
+### What maintenence do I need to do to keep my Photon running well? 
+Nothing much really. Keep everything clean by wiping down with a microfibre cloth slightly dampened with IPA. Wipe resin drops and spills off immediately with IPA and tissue. Keep your vat and FEP clean. Keep the LCD screen perfectly clean. Dust off and keep the printing compartment clean. And every three months or earlier, depending on usage frequency, clean and replace the grease for the lead screw. If it squeaks, do this immediately. 
+
 ### What grease should I use for the lead screw (Z rod)?
 Viscous grease. The thick, creamy, toothpaste consistency type.
 Aka machine grease, cosmoline, gel grease, gear grease, etc. 
