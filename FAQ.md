@@ -162,7 +162,9 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 Many of the basic resins swell when printed. There could also be slight shrinkage. It all depends on the brand of resin and formulations that manufacturers use. It usually isn't noticeable on organic prints. 
 
 ### I make functional parts that must fit together in a precise way, how can I achieve that? 
-There are several options. A quick and easy way is to adjust the LCD settings in most slicer programs. Another option is to use the "horizontal size compensation" feature that some slicing software provides (if it doesn't, you can make a request to the developer to add it). Or simply use resins that generally print true to size. Here is a [list of resins and how they fit.](https://docs.google.com/spreadsheets/d/1yDwszgncTyOxvyJho6y1kxLJquH2GsfL83KaFXT6068/edit#gid=0)
+- A quick and easy way is to adjust the LCD settings in most slicer programs. 
+- Another option is to use the "horizontal size compensation" feature that some slicing software provides (if it doesn't, you can make a request to the developer to add it). 
+- Or simply use resins that generally print true to size. Here is a [list of resins and how they fit.](https://docs.google.com/spreadsheets/d/1yDwszgncTyOxvyJho6y1kxLJquH2GsfL83KaFXT6068/edit#gid=0)
 
 ### I need to print strong parts, is there a list that shows resin strengths?
 Here is a list of some [resin strength tests.](https://docs.google.com/spreadsheets/d/1JlqLSi4sxZLdA-hHCp6Ow4isoGMNI7nlE9Nmbj1ajWk/edit#gid=0)
