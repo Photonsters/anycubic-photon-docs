@@ -64,6 +64,8 @@ There are several known issues with the ANYCUBIC Photon hardware and software.
 
 ## Photon slicing software
 
+### [Master List of Slicing Software] (https://docs.google.com/spreadsheets/d/1wZFdewMztEp_1RPubQw_8UdIZK7Z2oIWxByVpAPAfXI/edit#gid=0)
+
 #### [ANYCUBIC Photon Slicer](http://www.anycubic3d.com/support/show/594032.html)
 Go to [this page](http://www.anycubic3d.com/support/show/594032.html) and click on the icon as shown below to display the latest official ANYCUBIC Photon Slicer software downloads.
  
