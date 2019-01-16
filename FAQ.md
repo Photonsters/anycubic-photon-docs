@@ -81,7 +81,7 @@ If it sounds like a snare drum when you lightly tap with a finger, it should be 
 Some owners have obtained good prints with tensions as low as 150Hz, but there are also reports of leaking vats at those low tensions, For that reason, we advise 250Hz to 350Hz. Be careful when adjusting, over tensioning above 375Hz may tear your FEP film, or may cause bad prints. [(FB post)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)
 
 ### Why do I have to go through all this trouble to get correct FEP tension? 
-When your print peels from the FEP film, there are a lot of suction forces involved. Unlike more expensive machines, the Photon does not have a tilt peel mechanism, it therfore relies on the flexibility of the FEP film to provide a clean peel. A correctly tensioned FEP therefore will give the best print results and avoid failures or delamination problems. 
+When your print peels from the FEP film, there are a lot of suction forces involved. Unlike more expensive machines, the Photon does not have a tilt peel mechanism, it therfore relies on the flexibility of the FEP film to provide a clean and successful peel. A correctly tensioned FEP therefore will give the best print results and avoid print failures or delamination problems. 
 
 ### Should I coat my FEP film?
 Not advisable, FEP (fluorinated ethylene propylene, invented by DuPont, sold under the brandname Teflon FEP), is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
