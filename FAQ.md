@@ -5,7 +5,7 @@ All new Photons come with Yellow windows. Older machines had Blue windows. Blue 
 These are the only two versions sold. Machines with Red windows are basically user mods.
 
 ### I've just bought a Photon, what accessories should I get? 
-- What you need before printing by Kevin Rank (but note that his UV curing suggestion is not the correct 405nm wavelength) http://makerfun3d.com/toolbox-resin-printers 
+- [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion is not the correct 405nm wavelength).   
 - You will also need a known good branded USB stick, formatted FAT32. The included one is known to be problematic and prone to failure. Transfer all the files from it to your known good USB stick and use that one instead. 
 
 
@@ -159,9 +159,10 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 
 ### My prints are not dimensionally accurate, sometimes slightly oversized by as much as 0.3mm?
 
-Many of the basic resins swell when printed. There could also be slight shrinkage. It all depends on the brand of resin and formulations that manufacturers use. It usually isn't noticeable on organic prints. 
+First, ensure that your exposure settings are optimal for the resin used. Underexposure causes thinner parts, while overexposure will swell. Many of the basic resins swell when printed. There could also be slight shrinkage. It all depends on your settings and the brand of resin and formulations that manufacturers use. It usually isn't noticeable on organic prints. 
 
 ### I make functional parts that must fit together in a precise way, how can I achieve that? 
+- After testing your resin performance, you can make the adjustments for the model itself in software. This method is not advisable as it will differ if you share the model, or use a different resin as the compensation will then be off. 
 - A quick and easy way is to adjust the LCD settings in most slicer programs. 
 - Another option is to use the "horizontal size compensation" feature that some slicing software provides (if it doesn't, you can make a request to the developer to add it). 
 - Or simply use resins that generally print true to size. Here is a [list of resins and how they fit.](https://docs.google.com/spreadsheets/d/1yDwszgncTyOxvyJho6y1kxLJquH2GsfL83KaFXT6068/edit#gid=0)
