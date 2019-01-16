@@ -134,7 +134,7 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 
 ### Model repositories
 - [CAD files on this repo](https://github.com/altLab/anycubic-photon-docs/tree/master/photon-blueprints)
-- [Photon on Thinguiverse](https://www.thingiverse.com/search?q=Anycubic+Photon)
+- [Photon on Thingiverse](https://www.thingiverse.com/search?q=Anycubic+Photon)
 - [DLP/SLA models on MyMiniFactory](https://www.myminifactory.com/search/?tech=DLP_SLA)
 
 ### Tutorials, videos, tips & tricks
