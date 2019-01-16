@@ -68,6 +68,14 @@ This is generally due to incorrect exposure setting for your normal layers. See 
 ### Should I sand my build plate?
 This is NOT necessary at all, the blue anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Adhesion to the stock build plate is so good that some owners have difficulty removing prints. Sanding is the very last resort only if the build plate surface is defective and not flat.
 
+### I make functional parts that must fit together in a precise way, but the prints are slightly oversized by as much as 0.3mm. Why is that?
+
+Many of the resins swell when printed. If this is a problem for you, you have two options. One is to use the "horizontal size compensation" feature that some slicing software has (if it doesn't, you can make a request to the developer to add it). The other way is to simply use resins that print true to size. Here is a [list of resins and how they fit](https://docs.google.com/spreadsheets/d/1yDwszgncTyOxvyJho6y1kxLJquH2GsfL83KaFXT6068/edit#gid=0)
+
+### I need to make stronge parts - is there a list of resin strengths?
+
+There is a list of some [resin strength tests] here (https://docs.google.com/spreadsheets/d/1JlqLSi4sxZLdA-hHCp6Ow4isoGMNI7nlE9Nmbj1ajWk/edit#gid=0)
+
 
 ## VAT & FEP SETUP
 When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tensioned correctly it should sound just like a snare drum. 
