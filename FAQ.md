@@ -167,7 +167,9 @@ First, ensure that your exposure settings are optimal for the resin used. Undere
 - Another option is to use the "horizontal size compensation" feature that some slicing software provides (if it doesn't, you can make a request to the developer to add it). 
 - Or simply use resins that generally print true to size. Here is a [list of resins and how they fit.](https://docs.google.com/spreadsheets/d/1yDwszgncTyOxvyJho6y1kxLJquH2GsfL83KaFXT6068/edit#gid=0)
 
-### I need to print strong parts, is there a list that shows resin strengths?
+### I need to print strong parts, how do I know which resins are suitable?
+There are many resins available and are formulated for various usage. Most are general printing resins suitable for models, figures, decorative and non functional prints. When deciding on resins that need to be strong, the resin must be formulated with a high degree of hardness, which also makes it brittle. Therefore, to be both strong and functional, a certain degree of flexibility needs to be blended in. For a start, check the Shore D (Shore Durometer) rating of the resin, then check the flexibility or tensile rating. A high Shore D rating over 80 combined with a high flexibility rating indicates a strong resin. 
+
 Here is a list of some [resin strength tests.](https://docs.google.com/spreadsheets/d/1JlqLSi4sxZLdA-hHCp6Ow4isoGMNI7nlE9Nmbj1ajWk/edit#gid=0)
 
 
