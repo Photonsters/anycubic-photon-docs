@@ -101,7 +101,6 @@ This is for resin-tested with no software profile/compensation. Dimensions can b
 3D-printed material comparison by torsion testing.
 
 ## Community projects
-- [Photon LCD mask Boundary Checker](https://www.thingiverse.com/thing:3345921) - A printable test for your mask boundaries, which may vary from printer to printer.
 - [Resin Exposure Range Finder](https://github.com/altLab/photon-resin-calibration) - Quick method to test multiple resin exposure settings in one go *(X3msnake)*
 - [Photon File Validator](https://github.com/Photonsters/PhotonFileViewer) - Check if your sliced file has errors before printing *(Bonosoft)*
 - [Photon Sliced File 3D Viewer](https://github.com/Rob2048/PhotonTool) - Javascript 3D model rebuilder and visualization from sliced Photon files *(Rob2048)*
@@ -130,6 +129,7 @@ This is for resin-tested with no software profile/compensation. Dimensions can b
 Use these resources to test how your Photon is printing, and to remove guesswork from calculating resin exposure times.
 - [X3msnake's Resin Exposure Range Finder](https://github.com/altLab/photon-resin-calibration)
 - [ANYCUBIC Photon calibration file By Ilja](https://www.myminifactory.com/object/3d-print-anycubic-photon-calibration-file-70127)
+- [Photon LCD mask Boundary Checker](https://www.thingiverse.com/thing:3345921) - A printable test for your mask boundaries, which may vary from printer to printer.
 
 ### Model repositories
 - [CAD files on this repo](https://github.com/altLab/anycubic-photon-docs/tree/master/photon-blueprints)
