@@ -59,7 +59,7 @@ There are several known issues with the ANYCUBIC Photon hardware and software.
 - 2560x1440px 
 - Black and White 
 - RLE 7bit encoding
-- 538 dpi
+- 538 dpi (537.566 dpi)
 
 
 ## Photon slicing software
