@@ -159,7 +159,7 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - Yes, you can pause at anytime during your print. Resume as quickly as you can to ensure that your print will continue safely. However it is generally not recommended as it will most likely leave a line at the layer where you paused. 
 - Do note that if you switch the printer off during a pause, you will not be able to resume. 
 
-### I hear a strange faint knock or a suction/sticking sound everytime the plate lifts. It's this normal? 
+### I hear a strange faint knock or a suction/sticking sound everytime the plate lifts. Is this normal? 
 It's completely normal. It's a good sign that your print is sticking to the build plate and that the layers are releasing from the FEP film. 
 
 ### How do I know that my print is sticking to the build plate? 
