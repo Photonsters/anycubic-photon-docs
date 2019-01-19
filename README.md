@@ -130,6 +130,7 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 - [X3msnake's Resin Exposure Range Finder](https://github.com/altLab/photon-resin-calibration)
 - [ANYCUBIC Photon calibration file By Ilja](https://www.myminifactory.com/object/3d-print-anycubic-photon-calibration-file-70127)
 - [Photon LCD mask Boundary Checker](https://www.thingiverse.com/thing:3345921) - A printable test for your mask boundaries, which may vary from printer to printer.
+- [Bed of nails UV coverage test](https://www.thingiverse.com/thing:2852334) - A quick test print to check for even UV coverage of your build plate. Useful for full plate prints or models placed close to edges. 
 
 ### Model repositories
 - [CAD files on this repo](https://github.com/altLab/anycubic-photon-docs/tree/master/photon-blueprints)
