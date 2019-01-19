@@ -235,6 +235,9 @@ It depends. While it is easier to remove before uv curing (it's softer and you c
 ### How durable are the prints? Will they break if I drop them? 
 It depends on the resin used. Unlike PLA or ABS, regular hobby grade resin prints are quite brittle and can easily break when dropped. There are specially formulated resins for prototyping or even functional usage which have different properties such as flexibility, hardness and uv resistance. Once you have familiarised yourself with your printer using the sample green resin, you might want to experiment further with different resins. 
 
+### Why do I get white chalky residue on my prints after curing? 
+The white residue appears if there's moisture or water on your prints when you UV cure. One way to avoid this is not to wash your prints in water after cleaning in solvents. Always make sure your prints are completely dry before final UV curing. 
+
 
 ## TROUBLESHOOTING
 
