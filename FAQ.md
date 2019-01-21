@@ -55,7 +55,7 @@ This is generally a build plate tramming issue, make sure your leveling is 100% 
 - Warm the resin, you can use a hair dryer on most bottles to gently heat the resin to 20~30°C while swilling. 
 - The build plate may have shifted. Try and level it again, make sure to tighten well. 
 - Did you remember to set Z=0?
-- Build plate is too high / low, this is caused by incorrectly seated ball joint screws. [fix here](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md#loose-print-bed-head--print-head-too-short)
+- Build plate is too high / low, this is caused by incorrectly seated ball joint screws. Disassemble, clean and retighten the build assembly. [See disassembly guide below.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
 - The FEP film may be too tight or too loose. New vats sometimes comes with loosened screws, but they could be correctly tensioned. Tighten or loosen to the correct tension, or replace. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)) ([how to tighten](https://youtu.be/Sdxf9mf7-ns)) and ([how to replace](https://youtu.be/DLi3chV43LQ)) 
 - Try using a known resin like the sample green. Some resins like maroon or yellow are very difficult to work with. 
 - If all else fails, check your plate level again! 
