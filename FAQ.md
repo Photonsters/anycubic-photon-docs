@@ -40,8 +40,9 @@ If you are using the paper method, the paper should be tight enough to pull but 
 ### I tried to tram the build plate but one side is tighter than the other? 
 Using your fingers, push the opposite side of the plate when tightening the grub screw. Alternatively, if you're using the paper method, you can slip another strip of paper to the side which is too tight and then tighten the screw. You may need to try this a few times to get perfect level. 
 
-### I tried to tightened the build plate but it's still loose? 
-If no matter how much you tightened the grub screw to lock the build plate down and the plate still moves, remove the grub screw and check if there's another one already in the hole. 
+### I tightened the build plate as much as possible but it's still loose? 
+- If no matter how much you tightened the grub screw to lock the build plate down and the plate still moves, remove the grub screw and check if there's another one already in the hole. Remove the extra screw and retighten. 
+- The screws holding the build plate assembly together may be loose. [Disassemble, check and retighten.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
 
 ### I set Z=0 but when I press Home the position is different?
 Home is fixed, it is the hardware Z endstop, unless you change it physically, it will always be the same position. Z=0 is the offset distance between Home and your screen, you define it when you level the build plate, that's why you have to Home first then move the platfrom, then set Z=0. 
