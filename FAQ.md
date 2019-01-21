@@ -69,6 +69,9 @@ This is generally due to incorrect exposure setting for your normal layers. See 
 - Is your model a large solid? Hollowing the model is recommended. 
 - See "Model setup & settings" below. 
 
+### Do I have to relevel my build plate after every print? 
+No, it is absolutely not necessary. If you have tightened and securely screwed and locked down the build plate tight it will remain in place and correctly leveled. Make sure you have really tightened the setting (grub) screw to lock the build plate. You only need to relevel your build plate if it has slipped or been knocked or you made changes that affect the Z=0 position. 
+
 ### Should I sand my build plate?
 This is NOT necessary at all, the blue anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Adhesion to the stock build plate is so good that some owners have difficulty removing prints. Sanding is the very last resort only if the build plate surface is defective and not flat.
 
