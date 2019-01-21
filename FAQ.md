@@ -242,17 +242,20 @@ The white residue appears if there's moisture or water on your prints when you U
 ## TROUBLESHOOTING
 
 ### Why does my build plate move / slip during a print? 
-This can happen if the screws that live inside the arm of your build plate (there are three of them in there), Work loose or if because you filled the vat quite high some resin has go inside and is making the grip of the ball joint in there slip about.
+This can happen if the screws that live inside the carriage arm of your build plate (there are three of them in there) are loose or you had overfilled the vat and resin has gotten inside making the grip of the ball joint slip.
 
 - [Official Anycubic instructions - Youtube](https://www.youtube.com/watch?v=VdiNI_Xu6bI)
 - [Photonsters Video Instructions - Youtube](https://www.youtube.com/watch?v=Uc8senzACFM)
 
-First remove the 4 bolts you can see just either side of the arm holder (the bit with the red platen knob on it) put them some place safe then the housing will be able to open once you have gotten the build plate off, you will see three more screws undo and place them in a safe spot too then you can take the mechanism of the ball joint apart, be sure to note where it all goes so you can easily put it back together again (this may be a great time to take some pictures for your reference when rebuilding it.) 
+First remove the 4 bolts you can see just either side of the carriage arm (with the red platen knob on it) put them some place safe then take the build plate off, you will see three more screws, unscrew these and then you can take the mechanism of the ball joint apart, be sure to note where it all goes so you can easily put it back together again. 
 
-Now you have it all apart clean all the parts with some IPA and remove any cured or uncured resin you find, Then just put it all back together nice and tight and you can relevel and start printing nice straight prints again!
+Now you have it all apart, clean everything with IPA and remove any cured or uncured resin you find, Then just put it all back together nice and tight and relevel the build plate. 
 
-### My printer resets during prints!
-- This is a known problem and there are a few solutions to test. See the [KNOWN ISSUES SECTION](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md)
+### My Photon doesn't work anymore, the touchscreen is fine but the Z motor stopped working, the fans are off, and the LCD doesn't show anything. Is my printer dead? 
+If you had accidently switched the printer off in the middle of an operation, or if there was a power disruption, it may cause a corruption to the EEPROM. The printer can be easily revived by resetting the EEPROM by reflashing the.gcode file. [Download the factory defaults](https://github.com/Photonsters/anycubic-photon-docs/blob/master/firmware/factory-defaults.zip), extract the .gcode file, put it on your usb stick and 'print' the file. 
+
+### My printer randomly resets during printing / I have another problem not listed in this FAQ? 
+- Most of the known problems are listed and there are a few solutions to test. See the [KNOWN ISSUES SECTION.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/photon-known-issues.md)
 
 
 ## MAINTENANCE
