@@ -1,14 +1,14 @@
-# ANYCUBIC Photon Owner's Documentation
+# Anycubic Photon Owner's Documentation
 
-Use this repo to collect information on ANYCUBIC Photon hardware, software and usage.
+Use this repository to collect information on the Anycubic Photon LCD resin printer's hardware, software and usage.
 
-Want to help? check at the bottom of this page the [TO DO](#todo) list and open a [issue with #IWantToHelp](https://github.com/Photonsters/anycubic-photon-docs/issues/new?title=IWantToHelp)
+Want to help? Check at the bottom of this page for the [TO DO](#todo) list and open a [issue with #IWantToHelp.](https://github.com/Photonsters/anycubic-photon-docs/issues/new?title=IWantToHelp)
 
 ## Table of Contents
 
 * [Frequently asked questions (FAQ)](FAQ.md)
 * [Known issues](known-issues/photon-known-issues.md)
-* [ANYCUBIC Photon technical specifications](#anycubic-photon-technical-specifications)
+* [Photon technical specifications](#anycubic-photon-technical-specifications)
 * [Photon file image format](#photon-file-image-format)
 * [Photon slicing software](#photon-slicing-software)
 * [Community resin exposure settings](#community-resin-exposure-settings)
@@ -21,22 +21,20 @@ Want to help? check at the bottom of this page the [TO DO](#todo) list and open 
 
 
 ## Frequently asked questions (FAQ)
-[Check the FAQ page](FAQ.md) before asking questions - you may find the answers you seek!
+[Check the FAQ page](FAQ.md) before asking questions! You may find the answers to all your questions regarding setting up your Photon, to post processing your prints, already in the FAQ. 
 
 
 ## Known issues
-There are several known issues with the ANYCUBIC Photon hardware and software.
-
-[Check the known issues page](known-issues/photon-known-issues.md) for details, solutions and workarounds.
+There are several known issues with the Photon hardware and software.[Check the known issues page](known-issues/photon-known-issues.md) for details, solutions and workarounds.
 
 
-## ANYCUBIC Photon technical specifications
+## Photon technical specifications
 #### Dimensions
 - Machine Volume: 220(L)x200(W)x400(H)
 - Print Volume: 115(L)x65(W)x155(H)
 
 #### Photon masking
-- RGB 5.5 MIPI_DSI 2K LCD screen
+- RGB 5.5 MIPI_DSI 2K LCD screen (Sharp LS055R1SX03) 
 - 68.04(W)mm x 120.96(H)mm (5.46")
 - XY resolution: 47.25µ (0.04725mm)
 - 538ppi
@@ -51,21 +49,20 @@ There are several known issues with the ANYCUBIC Photon hardware and software.
 - Digital microstepped resolution 0.625µ (0.000625mm) - [Advised reading: Microstepping Myths and Realities](https://tinyurl.com/y92kexf5)
 
 #### Electronics
-- LED POWER 25W 405nm
-- PSU 12v 6A (72w) - 5.5x2.5 Jack - [check image](https://user-images.githubusercontent.com/11083514/42894729-92fd1f22-8aaf-11e8-9f58-2fdb9be91fb1.png)
+- LED power 25W 405nm
+- PSU 12v 6A (72w) - 5.5 x 2.5mm Jack - [check image](https://user-images.githubusercontent.com/11083514/42894729-92fd1f22-8aaf-11e8-9f58-2fdb9be91fb1.png)
 
-
-## Photon file image format
+#### Photon file image format
 - 2560x1440px 
 - Black and White 
 - RLE 7bit encoding
 - 538 dpi (537.566 dpi)
 
 
-## Photon slicing software
+## Firmware & Configuration files
+- [Photon official firmware & default gcode](https://github.com/Photonsters/anycubic-photon-docs/tree/master/firmware) (including unofficial releases and gcode mods). Use at own risk. 
 
-#### [Master List of Slicing Software](https://docs.google.com/spreadsheets/d/1wZFdewMztEp_1RPubQw_8UdIZK7Z2oIWxByVpAPAfXI/edit#gid=0)
-Some of the slicers that are out there.
+## Photon slicing software
 
 #### [ANYCUBIC Photon Slicer](http://www.anycubic3d.com/support/show/594032.html)
 Go to [this page](http://www.anycubic3d.com/support/show/594032.html) and click on the icon as shown below to display the latest official ANYCUBIC Photon Slicer software downloads.
@@ -81,10 +78,9 @@ New software that integrates code and ideas first seen in the community projects
 #### [**Photon Open Slicer**](https://github.com/Photonsters/Slicer) (Community developed OpenSource Slicer)
 A independent command line Slicer from Photonsters, that can be integrated with MeshMixer or any other software capable of outputting a STL file. 
 
+#### [List of Slicing Software](https://docs.google.com/spreadsheets/d/1wZFdewMztEp_1RPubQw_8UdIZK7Z2oIWxByVpAPAfXI/edit#gid=0)
+Some of the slicers that are available to date.
 
-## Firmware & Configs
-
-- [**Photon Firmware & Gcode Mods**](https://github.com/Photonsters/anycubic-photon-docs/tree/master/firmware)
 
 ## Community resin exposure settings
 - [Known good resin settings - Curated by Artur Fuste](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0)
@@ -92,12 +88,10 @@ A independent command line Slicer from Photonsters, that can be integrated with 
 
 ## Community resin precision gauge test
 [Resin Precision-Fit Test-Gauge](https://docs.google.com/spreadsheets/d/1yDwszgncTyOxvyJho6y1kxLJquH2GsfL83KaFXT6068)
+This is for resin as tested with no software profile/compensation. Dimensions can be corrected by activating the horizontal-size compensation feature in your slicing software. If you don't have this feature, please contact your slicer developer.
 
-This is for resin-tested with no software profile/compensation. Dimensions can be corrected by activating the horizontal-size compensation feature in your slicing software. If you don't have this feature, please contact your slicer developer.
-
-## Printed Material Torsion Test Results
+## Printed material torsion test results
 [Torsion Test Results](https://docs.google.com/spreadsheets/d/1JlqLSi4sxZLdA-hHCp6Ow4isoGMNI7nlE9Nmbj1ajWk)
-
 3D-printed material comparison by torsion testing.
 
 ## Community projects
@@ -144,7 +138,6 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 - [How supports work](./Resources/AddingSupportsForSLA3DPrinters-v1.pdf)
 - [2018 - Resin Casting: A Collection of Hypotheses](http://www.santafesymposium.org/2018-santa-fe-symposium-papers/2018-resin-casting-a-collection-of-hypotheses)
 - [How to use Netfabb supports with LCD printers](https://docs.google.com/document/d/1aC4MIkIyjG61bllVglCZ308qukxOhE7jJ9tKQQh0aPY)
-
 
 
 ## TODO
