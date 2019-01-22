@@ -25,7 +25,7 @@ Want to help? Check at the bottom of this page for the [TO DO](#todo) list and o
 
 
 ## Known issues
-There are several known issues with the Photon hardware and software.[Check the known issues page](known-issues/photon-known-issues.md) for details, solutions and workarounds.
+There are several known issues with the Photon hardware and software. [Check the known issues page](known-issues/photon-known-issues.md) for details, solutions and workarounds.
 
 
 ## Photon technical specifications
