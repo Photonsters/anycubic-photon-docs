@@ -163,6 +163,9 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - Yes, you can pause at anytime during your print. Resume as quickly as you can to ensure that your print will continue safely. However it is generally not recommended as it will most likely leave a line at the layer where you paused. 
 - Do note that if you switch the printer off during a pause, you will not be able to resume. 
 
+### Can I leave my finished prints hanging on the build plate in the printer overnight? 
+- Yes, you can leave finished prints for hours before removing and post processing. Just like leaving resin in the vat, as long as it's kept away from light, it's safe to leave it for long periods of time. 
+
 ### I hear a strange faint knock or a suction/sticking sound everytime the plate lifts. Is this normal? 
 It's completely normal. It's a good sign that your print is sticking to the build plate and that the layers are releasing from the FEP film. 
 
