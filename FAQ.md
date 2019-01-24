@@ -46,7 +46,7 @@ Using your fingers, push the opposite side of the plate when tightening the grub
 - The screws holding the build plate assembly together may be loose. [Disassemble, check and retighten.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
 
 ### I set Z=0 but when I press Home the position is different?
-Home is fixed, it is the hardware Z endstop, unless you change it physically, it will always be the same position. Z=0 is the offset distance between Home and your screen, you define it when you level the build plate, that's why you have to Home first then move the platfrom, then set Z=0. 
+Home is not Z=0! Home is fixed, it is the hardware Z endstop, unless you change it physically, it will always be the same position. Z=0 is the offset distance between Home and your screen, you define it when you level the build plate, that's why you have to Home first then move the platfrom, then set Z=0. 
 
 When a new Z=0 is specified, pressing Home will NOT move the platform to the position you specified, it will be the start position when a real print actually starts. You can check it by removing the vat and starting a print. (Thanks to Philippe Maegerman for the original explanation.) 
 
