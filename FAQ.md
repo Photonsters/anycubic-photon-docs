@@ -6,7 +6,7 @@ These are the only two versions sold. Machines with Red windows are basically us
 
 ### I've just bought a Photon, what accessories should I get? 
 - [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion is not the correct 405nm wavelength).   
-- You will also need a known good branded USB stick, formatted FAT32. *The included usb stick is known to be problematic and prone to failure.* Transfer all the files from it to your known good USB stick and use that one instead. 
+- You will also need a known good branded USB stick, formatted FAT32. **The included usb stick is known to be problematic and prone to failure.** Transfer all the files from it to your known good USB stick and use that one instead. 
 
 ### I've just received my new Photon, should I update the firmware first? 
 No, it's not necessary. In fact, your new printer may have newer firmware than what's available on Anycubic's website. Do not update firmware if your Photon is working well, besides a chance of bricking your new printer there are no extra features or benefits in doing so. 
@@ -261,6 +261,9 @@ Make absolutely sure that you have tightened the grub screw that secures the bui
 First remove the 4 bolts you can see just either side of the carriage arm (with the red platen knob on it) put them some place safe then take the build plate off, you will see three more screws, unscrew these and then you can take the mechanism of the ball joint apart, be sure to note where it all goes so you can easily put it back together again. 
 
 Now you have it all apart, clean everything with IPA and remove any cured or uncured resin you find, Then just put it all back together nice and tight and relevel the build plate. 
+
+### My printer stopped and the message on the touchscreen says my print is finished but it's not? 
+Did you replace the USB stick with a known good branded one yet? The included USB stick is known to be problematic and causes issues like this. 
 
 ### My Photon doesn't work anymore, the touchscreen is fine but the Z motor stopped working, the fans are off, and the LCD doesn't show anything. Is my printer dead? 
 If you had accidently switched the printer off in the middle of an operation, or if there was a power disruption, it may cause a corruption to the EEPROM. The printer can be easily revived by resetting the EEPROM by reflashing the.gcode file. [Download the factory defaults](https://github.com/Photonsters/anycubic-photon-docs/blob/master/firmware/factory-defaults.zip), extract the .gcode file, put it on your usb stick and 'print' the file. 
