@@ -154,7 +154,7 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 - [Meshmixer top tips - Youtube](https://youtu.be/C9VDKb3W4qA)
 
 ### The slicer program says my print will take X hours, but it actually took Y hours? 
-This is due to your [offtime (or light off) settings](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#exposure-off-off-time) in the slicer. The program will calculate the print time based on the offtime value that you set, it does not reflect the actual print time. To get an accurate estimate that matches your actual print time, time your actual offtime and use that value in your slicer program. 
+This is due to your [offtime (or light off) settings](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#exposure-off-off-time) in the slicer. The program will calculate the print time based on the offtime value that you set, it is an estimate, it does not reflect the actual print time. To get an accurate estimate that matches your actual print time, [time your actual offtime and use that value](https://youtu.be/TWdlphFfyLY) in your slicer program. 
 
 
 ## PRINTING
