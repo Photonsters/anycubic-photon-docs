@@ -18,7 +18,8 @@ No, it's not necessary. In fact, your new printer may have newer firmware than w
 Incorrect build plate tramming (levelling) is the number one reason for new user print failures. 
 
 - Make sure you take the time to level your build plate correctly. Do not rush this step in your hurry to start printing.
-- Once your build plate is leveled correctly and locked down tight, you do not have to relevel until you change your FEP or make other adjustments that affect the build plate.
+- Once your build plate is leveled correctly and locked down tight, you do not have to relevel it anymore unless you make other adjustments that affect the build plate. 
+- Ensure that you lock down the build plate after leveling. Lock that setting screw tight. 
 - Do not confuse build plate tramming (leveling) with adjusting the 4 legs of the machine.
 
 ### So how do I tram (level) my build plate? 
