@@ -89,7 +89,7 @@ Sometimes the screws may seem loose, but it may be tensioned correctly from the 
 - [Official Anycubic instructions - Youtube](https://youtu.be/Sdxf9mf7-ns) 
 
 ### How tight exactly should the FEP be tensioned? 
-If it sounds like a snare drum when you lightly tap with a finger, it should be good enough. To be precise, you can use any audio analyser to check, factory tensioned FEP film (about 127 to 150 microns thick) is around 350Hz, but anything between 250Hz to 375Hz is fine. 
+If it sounds like a snare drum when you lightly tap with a finger, it should be good enough. But since hearing is subjective, to be precise, you should use an audio analyser to check, factory tensioned FEP film (about 127 to 150 microns thick) is around 350Hz, but anything between 250Hz to 375Hz is fine. 
 
 Some owners have obtained good prints with tensions as low as 150Hz, but there are also reports of leaking vats at those low tensions, For that reason, we advise 250Hz to 350Hz. Be careful when adjusting, over tensioning above 375Hz may tear your FEP film, or may cause bad prints. [(FB post)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)
 
