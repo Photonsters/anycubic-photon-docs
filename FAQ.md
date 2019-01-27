@@ -15,7 +15,7 @@ No, it's not necessary. In fact, your new printer may have newer firmware than w
 ## BUILD PLATE TRAMMING (LEVELING) 
 
 ### What's this leveling that I keep hearing about?
-Incorrect build plate tramming (levelling) is the number one reason for new user print failures. 
+Incorrect build plate tramming (levelling) is the number one reason for print failures. It is a statistical fact, most of the issues posted on the [Anycubic Photon DLP Printer Owners Group](https://www.facebook.com/groups/1194619320682708) invariably traces back to imperfect build plate leveling as the root cause. 
 
 - Make sure you take the time to level your build plate correctly. Do not rush this step in your hurry to start printing.
 - Once your build plate is leveled correctly and locked down tight, you do not have to relevel it anymore unless you make other adjustments that affect the build plate. 
