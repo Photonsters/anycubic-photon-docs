@@ -5,7 +5,7 @@ All new Photons come with Yellow windows. Older machines had Blue windows. Blue 
 These are the only two versions sold. Machines with Red windows are basically user mods.
 
 ### I've just bought a Photon, what accessories should I get? 
-- [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion is not the correct 405nm wavelength).   
+- [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion, while usable, is not the optimal 405nm wavelength required).   
 - You will also need a known good branded USB stick, formatted FAT32. **The included usb stick is known to be problematic and prone to failure.** Transfer all the files from it to your known good USB stick and use that one instead. 
 
 ### I've just received my new Photon, should I update the firmware first? 
@@ -51,16 +51,17 @@ Home is not Z=0! Home is fixed, it is the hardware Z endstop, unless you change 
 When a new Z=0 is specified, pressing Home will NOT move the platform to the position you specified, it will be the start position when a real print actually starts. You can check it by removing the vat and starting a print. (Thanks to Philippe Maegerman for the original explanation.) 
 
 ### My prints just won't stick? 
-This is generally a build plate tramming issue, make sure your leveling is 100% correct before attempting these other solutions. 
+This is almost always a build plate tramming issue, make sure your leveling is 100% correct before attempting these other solutions. 
 - Clean the build plate carefully with IPA or other solvents. Dry before use. 
 - Shake your resin in bottle well before using. Resin already in the vat may have settled and need to be stirred. 
 - Warm the resin, you can use a hair dryer on most bottles to gently heat the resin to 20~30°C while swilling. 
 - The build plate may have shifted. Try and level it again, make sure to tighten well. 
+- There may be cured resin in your vat. Drain and clean. 
 - Did you remember to set Z=0?
-- Build plate is too high / low, this is caused by incorrectly seated ball joint screws. Disassemble, clean and retighten the build assembly. [See disassembly guide below.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
-- The FEP film may be too tight or too loose. New vats sometimes comes with loosened screws, but they could be correctly tensioned. Tighten or loosen to the [correct tension](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#how-tight-exactly-should-the-fep-be-tensioned), or replace. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)) ([how to tighten](https://youtu.be/Sdxf9mf7-ns)) and ([how to replace](https://youtu.be/DLi3chV43LQ)) 
-- Try using a known resin like the sample green. Some resins like maroon or yellow are very difficult to work with. 
-- If all else fails, check your plate level again! 
+- Build plate is too high or low, this is caused by incorrectly seated ball joint screws. Disassemble, clean and retighten the build assembly. [See disassembly guide below.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
+- The FEP film may be too tight or too loose. New vats sometimes comes with loosened screws, but they could be correctly tensioned. Adjust to the [correct tension](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#how-tight-exactly-should-the-fep-be-tensioned), or replace. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)) ([how to tighten](https://youtu.be/Sdxf9mf7-ns)) and ([how to replace](https://youtu.be/DLi3chV43LQ)) 
+- You may be using resin formulated for SLA laser printers. Try using a known resin like the sample green. Note that some opaque resins like maroon or yellow are very difficult to work with. 
+- If all else fails, check your plate level once again! 
 - If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. Check that the surface is flat. Use a straight edge against a light or make an imprint on a piece of paper placed on plate glass or polished marble /granite. 
 
 ### The bottom layers stick but my prints didn't form/fell off at the supports?
@@ -76,10 +77,10 @@ If your prints have good bottom adhesion but fail at the supports, this is gener
 No, it is absolutely not necessary. If you have tightened and securely screwed and locked down the build plate tight it will remain in place and correctly leveled. Make sure you have really tightened the setting (grub) screw to lock the build plate. You only need to relevel your build plate if it has slipped or been knocked or you made changes that affect the Z=0 position. 
 
 ### Should I sand my build plate?
-This is NOT necessary at all, the blue anodized aluminium surface of the build plate provides plenty of texture to ensure good adhesion. Adhesion to the stock build plate is so good that some owners have difficulty removing prints. Sanding is the very last resort only if the build plate surface is defective and not flat.
+This is NOT necessary at all, the blue anodized aluminium surface of the stock build plate provides plenty of texture to ensure good adhesion. Adhesion is so good that some owners have difficulty removing prints. That being said, if you have checked your build plate and the print surface is not flat, then it is defective. Sanding is the very last resort that you should attempt.
 
 ### I'm sure my build plate is level but I still can't get a print! 
-If you're positively sure you've got your build plate leveled perfectly and you still can't get a print or some parts didn't stick to the plate, [try following these steps very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#whats-this-leveling-that-i-keep-hearing-about)
+If you're positively sure you've got your build plate leveled perfectly, and it's not defective, and you still can't get a print or some parts didn't stick to the plate, [try following these steps very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#whats-this-leveling-that-i-keep-hearing-about)
 
 
 ## VAT & FEP SETUP
