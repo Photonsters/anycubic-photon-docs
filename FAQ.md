@@ -193,6 +193,7 @@ First, ensure that your exposure settings are optimal for the resin used. Undere
 ### I make functional parts that must fit together in a precise way, how can I achieve that? 
 - After testing your resin performance, you can make the adjustments for the model itself in software. This method is not advisable as it will differ if you share the model, or use a different resin as the compensation will then be off. 
 - A quick and easy way is to adjust the LCD settings in most slicer programs. 
+- If the adjustments needed are slight, you can try to compensate by reducing or adding exposure times for your prints. 
 - Another option is to use the "horizontal size compensation" feature that some slicing software provides (if it doesn't, you can make a request to the developer to add it). 
 - Or simply use resins that generally print true to size. Here is a [list of resins and how they fit.](https://docs.google.com/spreadsheets/d/1yDwszgncTyOxvyJho6y1kxLJquH2GsfL83KaFXT6068/edit#gid=0)
 
