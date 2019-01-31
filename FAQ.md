@@ -215,13 +215,16 @@ Here is a list of some [resin strength tests.](https://docs.google.com/spreadshe
 You're not actually cleaning the LCD, that's a very thin layer of protective glass on top of the LCD. 
 - Use soft tissues and a small spray of IPA to remove any dried resin, buff with microfiber cloth.
 
+### The FEP tore and there's cured resin on the LCD, how do I clean that? 
+Damp a piece of cloth or tissue with IPA then lay it on the cured resin. Wait a few minutes, then with a fingernail gently try to prise the layer of cured resin off the LCD glass. Some owners use a razor or glass scraper, but be careful with that. 
+
 ### How do I clean the FEP Film?
 - Once you have drained the vat of resin, spray down with IPA and gently wipe off with paper towel or soft tissue. Spray again and use soft tissue to soak off the remaining residue from the FEP. You may need to repeat this several times. Finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratch or puncture the FEP. Santize wipes can also be used then buff with lens cloth.
 
 ### What else can I use to clean my prints and tools from uncured resin?
-- Almost all manufacturers advice the use of a solvent like IPA (Isopropyl Alcohol) or Ethanol, a higher purity above 90% is recommended.  Other solvents may also be used such as Mineral spirits (aka White spirits, Turpentine), Yellow Magic 7, Propylene Glycol or other specialized products like Resinaway or TEK.
+- Manufacturers universally advice the use of a solvent like IPA (Isopropyl Alcohol) or Ethanol, a higher purity above 90% is recommended. Proprietary cleaning solutions or other solvents may also be used such as Mineral spirits (aka White spirits, Turpentine), etc. 
 - If you have bought a water washable resin, you can simply use water and some mild soap. 
-- A small brush is very helpful to get into and clean the fine grooves or holes in your prints.
+- A small brush is very helpful to get into and clean the fine grooves or details in your prints.
 - Alcohol and other flamable solvents should not be used directly with ultrasonic cleaners because of the fire hazard.
 
 ### How do I dispose of saturated cleaning solvents, cleaning tools, uncured and cured resin?
