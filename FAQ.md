@@ -212,6 +212,7 @@ Here is a list of some [resin strength tests.](https://docs.google.com/spreadshe
 - For as little time as possible to get your prints cleaned of uncured resin. Do not leave your prints to soak. Some manufacturers advise no longer than 30 seconds. In a post, Formlabs mentioned that prolonged exposure to solvents may make some resins swell. 
 
 ### How do I clean the LCD?
+You're not actually cleaning the LCD, that's a very thin layer of protective glass on top of the LCD. 
 - Use soft tissues and a small spray of IPA to remove any dried resin, buff with microfiber cloth.
 
 ### How do I clean the FEP Film?
