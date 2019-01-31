@@ -38,6 +38,9 @@ If you are using the recommended paper method, the paper should be tight enough 
 - [Tight but not too tight example - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Detailed Anycubic leveling instructions - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 
+### What type of paper should I use to level the build plate? 
+Just regular photocopy paper, generally 80gsm.
+
 ### I tried to tram the build plate but one side is tighter than the other? 
 Using your fingers, push the opposite side of the plate when tightening the grub screw. Alternatively, if you're using the paper method, you can slip another strip of paper to the side which is too tight and then tighten the screw. You may need to try this a few times to get perfect level. 
 
