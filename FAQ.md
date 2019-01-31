@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ### I'm considering buying a Photon, I see there are Blue, Yellow and Red windows versions, what's the difference? 
-All new Photons come with Yellow windows. Older machines had Blue windows. Blue doesn't block UV well and they were changed to yellow later, with slight revisions to uncap the Z lead screw and include a better PSU.  
+All new Photons come with Yellow windows. Older machines had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with slight revisions to uncap the Z lead screw and include a better PSU.  
 These are the only two versions sold. Machines with Red windows are basically user mods.
 
 ### I've just bought a Photon, what accessories should I get? 
