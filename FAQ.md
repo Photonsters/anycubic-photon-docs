@@ -177,7 +177,7 @@ This is due to your [offtime (or light off) settings](https://github.com/Photons
 Yes, as long as it's kept away from light, it's safe to leave it for long periods of time. 
 
 ### Can I leave my finished prints hanging on the build plate in the printer overnight? 
-Yes, you can leave finished prints for as long as you need before removing and post processing. Just like leaving resin in the vat
+Yes, you can leave finished prints for as long as you need before removing and post processing. Just like leaving resin in the vat. 
 
 ### I hear a strange faint knock or a suction/sticking sound everytime the plate lifts. Is this normal? 
 It's completely normal. It's a good sign that your print is sticking to the build plate and that the layers are releasing from the FEP film. 
