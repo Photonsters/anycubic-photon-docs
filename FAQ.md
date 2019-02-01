@@ -139,7 +139,7 @@ Simple, this one it's about how many of those super hard base layers to lay down
 #### Normal exposures (Normal exposure time) : 
 After your base layers have finished this is the time the UV will be on to cure all the rest of the layers of your print and will always be lower than your base/bottom layers setting, For the sample green resin at 0.05mm layers, the exposure for normal layers is 10 seconds. 
 
-#### Exposure off (Off time):
+#### Exposure off (Off time/Light off delay):
 This is the amount of time that the UV light is turned off during the end of one exposure cycle. After an exposure, the UV light turns off, the build plate lifts and peels, then descends ready for the next cycle and will wait at the bottom (resting at the set layer height over the FEP sheet, at the bottom of your vat) before the UV light comes on again for the next exposure cycle. Longer times leave more time for the resin to settle out and form a new layer with fresh resin. If unsure, leave the value at 1, your printer will then default to the firmware settings, usually 6.5 secs for older printers or firmware, 4.5 secs for newer printers or firmware. 
 
 ### What is suction warping and how do I combat it, should I add a vent hole?
