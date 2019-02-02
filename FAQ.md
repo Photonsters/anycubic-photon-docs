@@ -33,7 +33,7 @@ Important notes:
 - Remember that Z=0 is not the same as Home.
 
 ### How tight to the paper should I tram/level the build plate?
-If you are using the recommended paper method, the paper should be tight enough to pull but not be able to push, the build plate must grip the paper evenly. REMEMBER that as you tighten the setting (grub) screw it will move the plate down a tiny fraction more. You will find that you cannot pull the paper anymore, so you should raise / backoff the build plate level by 0.01mm increments until the plate is gripping the paper with even resistance, and that you can pull but not push it back. Then only set Z=0.
+If you are using the recommended paper method, the paper should be tight enough to pull but not be able to push, the build plate must grip the paper evenly. **Remember** that as you tighten the setting (grub) screw it will move the plate down a tiny fraction more. You will find that you cannot pull the paper anymore, so you should raise / backoff the build plate level by 0.01mm increments until the plate is gripping the paper with even resistance, and that you can pull but not push it back. Then only set Z=0.
 - [Example leveling video - Youtube](https://youtu.be/Y0bz5nYwll0)
 - [Tight but not too tight example - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Detailed Anycubic leveling instructions - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
