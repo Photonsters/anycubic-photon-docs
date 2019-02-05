@@ -120,10 +120,10 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
   
  ### Squares Print Rhomboid, Circles Are Skewed
  #### Symptoms
- - A cube when printed turns out to be not perfectly squared. Cylinders when printed have a lean. 
+ - A cube when printed turns out to be not perfectly squared. Cylinders when printed have a lean. [FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1571701802974456/) 
  
  #### Causes and Suggested Fixes
- - Check that the rail column is perpendicular to the red base plate. Use a small engineer's square for accuracy. If the column is leaning it will cause prints to skew. Tighten the 4 mounting bolts for the column. If not, shim the column base. [FB post](https://www.facebook.com/groups/1194619320682708?view=permalink&id=1479801292164508) 
+ - Check that the rail column is perpendicular to the red base plate. It may be a small degree off, and could be leaning forward or to the sides, or a combination. Use a small engineer's square to check accurately. If the column is leaning it will cause prints to skew. Adjust the 4 mounting bolts for the column, you may have to loosen and tighten so that the column is perfectly vertical. It takes some trial and error to get it right. If not, you will have to shim the column base. [FB post](https://www.facebook.com/groups/1194619320682708?view=permalink&id=1479801292164508) 
  
  ### Other Random Issues
  #### Symptoms
@@ -134,6 +134,8 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
  - Replace Mainboard.
  
 ## Error Codes
+These are some of the known error codes that the Photon will display. 
+
 #### M_11820
 Machine will randomly freeze during print and display error, Z does not retract, fan stays on.
 
