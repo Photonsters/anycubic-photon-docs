@@ -1,8 +1,9 @@
 # Frequently Asked Questions
 
-### I'm considering buying a Photon, I see there are Blue, Yellow and Red windows versions, what's the difference? 
-All new Photons come with Yellow windows. Older machines had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with slight revisions to uncap the Z lead screw and include a better PSU.  
-These are the only two versions sold. Machines with Red windows are basically user mods.
+### I'm considering buying a Photon, I see there are Blue, Yellow, Orange and Red windows versions, what's the difference? 
+All new Photons come with Yellow windows. As of January 1st, 2019 all Photons ship with Yellow windows. Older machines had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with slight revisions to uncap the top end of the Z lead screw and include a better PSU. 
+
+These are the only two versions sold. Machines with Orange or Red windows are basically user mods.
 
 ### I've just bought a Photon, what accessories should I get? 
 - [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion, while usable, is not the optimal 405nm wavelength required).   
