@@ -85,6 +85,7 @@ No, it is absolutely not necessary. If you have tightened and securely screwed a
 ### Should I sand my build plate?
 This is NOT necessary at all, the blue anodized aluminium surface of the stock build plate provides plenty of texture to ensure good adhesion. Adhesion is so good that some owners have difficulty removing prints. That being said, if you have checked your build plate and the print surface is not flat, then it is defective. Sanding is the very last resort that you should attempt.
 
+[[[https://github.com/Photonsters/anycubic-photon-docs/blob/master/temp/rsz_plate_texture.png|alt=texture]]
 ![texture](https://github.com/Photonsters/anycubic-photon-docs/blob/master/temp/rsz_plate_texture.png) 
 
 ### I'm sure my build plate is level but I still can't get a print! 
