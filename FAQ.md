@@ -197,6 +197,9 @@ It's completely normal. It's a good sign that your print is sticking to the buil
 - One easy way to tell is by listening for the sound that's made as the layer peels off the FEP. You can hear it clearly especially for the first few bottom layers. Don't worry if you can't hear it anymore later, it varies depending on the size of the layer being printed. 
 - You can also use pause to check on your print, but note that you may get a line at the layer where you paused. 
 
+### I'm printing the test lattice cube and it's wobbling? 
+This is normal for the test print. The test cube is supported only by three prongs on the base, as the plate rises the print is releasing from the FEP side to side, hence the wobble. If your build plate is leveled correctly, the test cube will finish printing successfully. 
+
 ### My prints are not dimensionally accurate, sometimes slightly oversized by as much as 0.3mm?
 
 First, ensure that your exposure settings are optimal for the resin used. Underexposure causes thinner parts, while overexposure will swell. Many of the basic resins swell when printed. There could also be slight shrinkage. It all depends on your settings and the brand of resin and formulations that manufacturers use. It usually isn't noticeable on organic prints. 
