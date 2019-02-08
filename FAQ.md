@@ -126,6 +126,9 @@ It's difficult to see if there's protective plastic film on your FEP. An easy wa
 
 ## MODEL SETUP & SETTINGS
 
+### My first print, do I have to print the test lattice cube? 
+It is highly recommended that you print it. The test file has been presliced for the sample green resin, all you have to do is select the file and print. A successful test print will confirm that your Photon works as it should, and that you have properly leveled your build plate and your FEP tension is correct. If it did not print successfully, then troubleshooting will be easier as you can rule out problems with resin, settings or slicing. 
+
 ### I just downloaded some cool .stl models from somewhere, how come it won't print? 
 You first need to convert those 3D models by generating sliced layers into a format that your Photon understands and can print. This is done in what's known as a slicer program. A free slicer program comes included in the usb stick provided with your printer. 
 
