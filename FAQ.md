@@ -94,7 +94,12 @@ If you're positively sure you've got your build plate leveled perfectly, and it'
 ### I'm giving up, my prints just won't stick! 
 You may have a defective build plate, the surface may not be true and flat. Check for flatness by placing a steel rule across the build plate, against a light source, check if there are any uneven gaps showing. 
 
-It would be more accurate to check by making an imprint. Lightly coat the build plate surface with engineer's blue dye or evenly roll a thin layer of printmaking ink. Place a sheet of paper on a known flat surface such as plate glass or polished granite /marble, then press the build plate on the paper
+It would be more accurate to check by making an imprint. Lightly coat the build plate surface with engineer's blue dye or evenly roll a thin layer of printmaking ink. Place a sheet of paper on a known flat surface such as plate glass or polished granite /marble, then press the build plate on the paper and check the imprint for blank spots. 
+
+### My build plate is defective and not flat, how do I fix this? 
+If you've verified that the build plate surface is not flat, you can try to achieve a true flat surface by a process termed [lapping](https://www.lapmaster-wolters.com/what-is-lapping.html). Unfortunately, most people will not have the tools to achieve this. Try bringing your build plate to a machine shop nearby, they'll know what to do. 
+
+If you want to try it at home, do not simply go rubbing the build plate with sandpaper, you'll probably make things worse. 
 
 ## VAT & FEP SETUP
 When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tensioned correctly it should sound just like a snare drum. 
