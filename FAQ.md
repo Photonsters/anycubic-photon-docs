@@ -124,6 +124,9 @@ Watch the video by Anycubic for a detailed step by step. It is important to note
 ### How do I test if my FEP film has protective plastic on it? 
 It's difficult to see if there's protective plastic film on your FEP. An easy way to test is by dripping a few drops of resin on your FEP film, then hold the film vertical. If the resin slides downward easily without sticking and leaves the FEP clear, it's good. If the resin sticks where you dripped it and moves slowly or smears, then you have protective plastic which needs to be removed. 
 
+### Instead of FEP film, can I use PET/PE/other film? 
+Not advisable. There's a reason why FEP (Fluorinated Ethylene Propylene) is used. Besides low friction, non-reactivity, flexibility, high heat resistance, high transparency, uv resistance, etc., it is also one of the most slippery substance known to science. 
+
 
 ## MODEL SETUP & SETTINGS
 
