@@ -89,8 +89,12 @@ This is absolutely **NOT** necessary at all. Contrary to all the claims and misi
 ![texture](https://github.com/Photonsters/anycubic-photon-docs/blob/master/temp/rsz_plate_texture.png) 
 
 ### I'm sure my build plate is level but I still can't get a print! 
-If you're positively sure you've got your build plate leveled perfectly, and it's not defective, and you still can't get a print or some parts didn't stick to the plate, [try following these steps very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#whats-this-leveling-that-i-keep-hearing-about)
+If you're positively sure you've got your build plate leveled perfectly, and it's not defective, and you still can't get a print or some parts didn't stick to the plate, [try following these steps again very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#whats-this-leveling-that-i-keep-hearing-about)
 
+### I'm giving up, my prints just won't stick! 
+You may have a defective build plate, the surface may not be true and flat. Check for flatness by placing a steel rule across the build plate, against a light source, check if there are any uneven gaps showing. 
+
+It would be more accurate to check by making an imprint. Lightly coat the build plate surface with engineer's blue dye or evenly roll a thin layer of printmaking ink. Place a sheet of paper on a known flat surface such as plate glass or polished granite /marble, then press the build plate on the paper
 
 ## VAT & FEP SETUP
 When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tensioned correctly it should sound just like a snare drum. 
