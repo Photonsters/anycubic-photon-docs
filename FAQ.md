@@ -26,7 +26,7 @@ Incorrect build plate tramming (levelling) is the number one reason for print fa
 
 ### So how do I tram (level) my build plate? 
 It is recommended that you use the official method aka paper method. If you're having trouble getting your build plate level then try the Flint Read method. 
-- [Paper method (official by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
+- [Paper method (official) by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 - [Paper method by Nick Williams - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try this method as you may accidently scratch the FEP.)  
 
