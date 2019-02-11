@@ -6,7 +6,8 @@ All new Photons come with Yellow windows. As of January 1st, 2019 all Photons sh
 These are the only two versions sold. Machines with Orange or Red windows are basically user mods.
 
 ### I've just bought a Photon, what accessories should I get? 
-- [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion, while usable, is not the optimal 405nm wavelength required).   
+- [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion, while usable, is not the optimal 405nm wavelength required).  
+- [Here's a video](https://youtu.be/OqJIF1E7MIg) showing some of the basic accessories needed, plus how to filter resin and vat cleaning by Garret Bertrand. 
 - You will also need a known good branded USB stick, formatted FAT32. **The included usb stick is known to be problematic and prone to failure.** Transfer all the files from it to your known good USB stick and use that one instead. 
 
 ### I've just received my new Photon, should I update the firmware first? 
