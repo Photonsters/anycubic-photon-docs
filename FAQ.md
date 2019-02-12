@@ -30,9 +30,9 @@ No, it's not necessary. In fact, your new printer may have newer firmware than w
 
 * [TROUBLESHOOTING](#troubleshooting) 
 
-* [MAINTENANCE](#maintenence) 
+* [MAINTENANCE](#maintenance) 
 
-* [ACKNOWLEDGMENTS](#acknowledgements) 
+* [ACKNOWLEDGMENTS](#acknowledgments) 
 
 <!-- toc -->
 
