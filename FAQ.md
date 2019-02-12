@@ -14,6 +14,29 @@ These are the only two versions sold. Machines with Orange or Red windows are ba
 No, it's not necessary. In fact, your new printer may have newer firmware than what's available on Anycubic's website. Do not update firmware if your Photon is working well, besides a chance of bricking your new printer there are no extra features or benefits in doing so. 
 
 
+## Table of Contents
+
+* [BUILD PLATE TRAMMING (LEVELING)](#build-plate-tramming-leveling) 
+
+* [VAT & FEP SETUP](#vat--fep-setup) 
+
+* [MODEL SETUP & SETTINGS](#model-setup--settings) 
+
+* [PRINTING](#printing) 
+
+* [CLEANING](#cleaning) 
+
+* [POST PROCESSING](#post-processing) 
+
+* [TROUBLESHOOTING](#troubleshooting) 
+
+* [MAINTENANCE](#maintenence) 
+
+* [ACKNOWLEDGMENTS] (#acknowledgements) 
+
+<!-- toc -->
+
+
 ## BUILD PLATE TRAMMING (LEVELING) 
 
 ### What's this leveling that I keep hearing about?
