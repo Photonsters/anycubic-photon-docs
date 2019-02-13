@@ -8,3 +8,8 @@
 - Double check your sources
 - Give proper Kudos
 - No advertising
+
+# How to contribute
+- Make a pull request 
+- Open a issue stating how you can help
+- Contact one of the org members trough facebook
