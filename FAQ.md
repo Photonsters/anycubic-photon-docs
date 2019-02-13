@@ -259,7 +259,7 @@ If your prints have good bottom adhesion but fail at the supports, this is gener
 - A mix of medium and heavy supports will help, and/or increase support density. 
 - It can also be due to the orientation of your model. Try to angle your model and minimise large surface sections. 
 - Is your model a large solid? Hollowing the model is recommended. 
-- See [Model setup & settings](#model-setup---settings) above.
+- See [Model setup & settings](#model-setup--settings) above.
 
 
 ## CLEANING 
