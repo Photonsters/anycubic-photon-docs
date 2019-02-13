@@ -126,6 +126,7 @@ If you've verified that the build plate surface is not flat, you can try to achi
 If you want to try it at home, do not simply go rubbing the build plate with sandpaper, you'll probably make things worse. 
 
 ## VAT & FEP SETUP
+
 When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tensioned correctly it should sound just like a snare drum. 
 
 Sometimes the screws may seem loose, but it may be tensioned correctly from the factory. Do not simply tighten the screws or you may then over tension the FEP. If tapping the FEP film does not sound correct,  it is likely loose, then simply tighten the screws till it sounds like a snare drum. 
@@ -162,9 +163,6 @@ Not advisable. There's a reason why FEP (Fluorinated Ethylene Propylene) is used
 
 
 ## MODEL SETUP & SETTINGS
-
-### My first print, do I have to print the test lattice cube? 
-It is highly recommended that you print it. The test file has been presliced for the included sample green resin, all you have to do is select the file and print. A successful test print will confirm that your Photon works as it should, and that you have properly leveled your build plate and your FEP tension is correct. If it did not print successfully, then troubleshooting will be easier as you can rule out various other problems such as with resin, settings or slicing. 
 
 ### I just downloaded some cool .stl models from somewhere, how come it won't print? 
 You first need to convert those 3D models by generating sliced layers into a format that your Photon understands and can print. This is done in what's known as a slicer program. A free slicer program comes included in the usb stick provided with your printer. 
@@ -212,6 +210,13 @@ This is due to your [offtime (or light off) settings](https://github.com/Photons
 
 
 ## PRINTING
+
+### My first print, do I have to print the test lattice cube? 
+It is highly recommended that you print it. The test file has been presliced for the included sample green resin, all you have to do is select the file and print. 
+
+- A successful test print will confirm that your Photon works as it should, and that you have properly leveled your build plate and your FEP tension is correct. It will also confirm that your machine will reliably work as the test takes over five hours. 
+
+- If it did not print successfully, then troubleshooting will be easier as you can rule out various other problems such as with resin, settings or slicing. 
 
 ### How much resin should I pour into the vat? 
 - Pour resin up to the line where the chamfer starts in the vat, about a quarter up from the FEP. This is about 125ml. Do not exceed the line, if there is too much resin, it will rise from displacement and get into the screws and ball joint of your build plate! 
