@@ -81,29 +81,6 @@ Home is not Z=0! Home is fixed, it is the hardware Z endstop, unless you change 
 
 When a new Z=0 is specified, pressing Home will NOT move the platform to the position you specified, it will be the start position when a real print actually starts. You can check it by removing the vat and starting a print. (Thanks to Philippe Maegerman for the original explanation.) 
 
-### My prints just won't stick? 
-This is almost always a build plate tramming issue, make sure your leveling is 100% correct before attempting these other solutions. 
-- Clean the build plate carefully with IPA or other solvents. Dry before use. 
-- Shake your resin in bottle well before using. Resin already in the vat may have settled and need to be stirred. 
-- Warm the resin, you can use a hair dryer on most bottles to gently heat the resin to 20~30°C while swilling. 
-- The build plate may have shifted. Try and level it again, make sure to tighten well. 
-- There may be cured resin in your vat. Drain and clean. 
-- Did you remember to set Z=0?
-- Build plate is too high or low, this is caused by incorrectly seated ball joint screws. Disassemble, clean and retighten the build assembly. [See disassembly guide below.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
-- The FEP film may be too tight or too loose. New vats sometimes comes with loosened screws, but they could be correctly tensioned. Adjust to the [correct tension](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#how-tight-exactly-should-the-fep-be-tensioned), or replace. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)) ([how to tighten](https://youtu.be/Sdxf9mf7-ns)) and ([how to replace](https://youtu.be/DLi3chV43LQ)) 
-- You may be using resin formulated for SLA laser printers. Try using a known resin like the sample green. Note that some opaque resins like maroon or yellow are very difficult to work with. 
-- If all else fails, check your plate level once again! 
-- If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. Check that the surface is flat. Use a straight edge against a light or make an imprint on a piece of paper placed on plate glass or polished marble /granite. 
-
-### The bottom layers stick but my prints didn't form/fell off at the supports?
-If your prints have good bottom adhesion but fail at the supports, this is generally due to incorrect exposure setting for your normal layers. See "Model Setup & Settings" below. As a first step, try increasing exposure. 
-- Try increasing normal exposures by a second or two. 
-- You may need to increase support tip depth in your slicer settings. 
-- A mix of medium and heavy supports will help, and/or increase support density. 
-- It can also be due to the orientation of your model. Try to angle your model and minimise large surface sections. 
-- Is your model a large solid? Hollowing the model is recommended. 
-- See "Model setup & settings" below. 
-
 ### Do I have to relevel my build plate after every print? 
 No, it is absolutely not necessary. If you have tightened and securely screwed and locked down the build plate tight it will remain in place and correctly leveled. Make sure you have really tightened the setting (grub) screw to lock the build plate. You only need to relevel your build plate if it has slipped or been knocked or you made changes that affect the Z=0 position. 
 
@@ -260,6 +237,29 @@ First, ensure that your exposure settings are optimal for the resin used. Undere
 There are many resins available and are formulated for various usage. Most are general printing resins suitable for models, figures, decorative and non functional prints. When deciding on resins that need to be strong, the resin must be formulated with a high degree of hardness, which also makes it brittle. Therefore, to be both strong and functional, a certain degree of flexibility needs to be blended in. For a start, check the Shore D (Shore Durometer) rating of the resin, then check the flexibility or tensile rating. A high Shore D rating over 80 combined with a high flexibility rating indicates a strong resin. 
 
 Here is a list of some [resin strength tests.](https://docs.google.com/spreadsheets/d/1JlqLSi4sxZLdA-hHCp6Ow4isoGMNI7nlE9Nmbj1ajWk/edit#gid=0)
+
+### My prints just won't stick? 
+This is almost always a build plate tramming issue, make sure your leveling is 100% correct before attempting these other solutions. 
+- Clean the build plate carefully with IPA or other solvents. Dry before use. 
+- Shake your resin in bottle well before using. Resin already in the vat may have settled and need to be stirred. 
+- Warm the resin, you can use a hair dryer on most bottles to gently heat the resin to 20~30°C while swilling. 
+- The build plate may have shifted. Try and level it again, make sure to tighten well. 
+- There may be cured resin in your vat. Drain and clean. 
+- Did you remember to set Z=0?
+- Build plate is too high or low, this is caused by incorrectly seated ball joint screws. Disassemble, clean and retighten the build assembly. [See disassembly guide below.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
+- The FEP film may be too tight or too loose. New vats sometimes comes with loosened screws, but they could be correctly tensioned. Adjust to the [correct tension](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#how-tight-exactly-should-the-fep-be-tensioned), or replace. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)) ([how to tighten](https://youtu.be/Sdxf9mf7-ns)) and ([how to replace](https://youtu.be/DLi3chV43LQ)) 
+- You may be using resin formulated for SLA laser printers. Try using a known resin like the sample green. Note that some opaque resins like maroon or yellow are very difficult to work with. 
+- If all else fails, check your plate level once again! 
+- If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. Check that the surface is flat. Use a straight edge against a light or make an imprint on a piece of paper placed on plate glass or polished marble /granite. 
+
+### The bottom layers stick but my prints didn't form/fell off at the supports?
+If your prints have good bottom adhesion but fail at the supports, this is generally due to incorrect exposure setting for your normal layers. See "Model Setup & Settings" below. As a first step, try increasing exposure. 
+- Try increasing normal exposures by a second or two. 
+- You may need to increase support tip depth in your slicer settings. 
+- A mix of medium and heavy supports will help, and/or increase support density. 
+- It can also be due to the orientation of your model. Try to angle your model and minimise large surface sections. 
+- Is your model a large solid? Hollowing the model is recommended. 
+- See "Model setup & settings" below.
 
 
 ## CLEANING 
