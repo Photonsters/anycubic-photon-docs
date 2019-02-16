@@ -215,7 +215,7 @@ Yes, as long as it's kept away from light, it's safe to leave it for long period
 Yes, you can leave finished prints for as long as you need before removing and post processing. Just like leaving resin in the vat. 
 
 ### I hear a strange faint knock or a suction/sticking sound everytime the plate lifts. Is this normal? 
-It's completely normal. It's a good sign that your print is sticking to the build plate and that the layers are releasing from the FEP film. 
+It's completely normal. It's a good sign that your print is sticking to the build plate and that the layers are releasing from the FEP film. It will be more audible during the first few bottomlayers of the print, don't worry if you can't hear it later on as it depends on the layer section being printed. 
 
 ### How do I know that my print is sticking to the build plate? 
 - One easy way to tell is by listening for the sound that's made as the layer peels off the FEP. You can hear it clearly especially for the first few bottom layers. Don't worry if you can't hear it anymore later, it varies depending on the size of the layer being printed. 
