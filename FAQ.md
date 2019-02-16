@@ -263,8 +263,8 @@ If your prints have good bottom adhesion but fail at the supports, this is gener
 - Is your model a large solid? Hollowing the model is recommended. 
 - See [Model setup & settings](#model-setup--settings) above.
 
-### Can Photon print at 100u Layers?
-The best layer size for the photon is 50u, but Masters like Serkan Salah have sucessfully [printed at this layer size]( https://www.facebook.com/groups/AnycubicPhoton/permalink/1582504051894231/) Use resin Exposure finder from the community projects to test if your resin can print at that size.
+### I want faster prints, what is the thickest layer setting that I can slice to print with? 
+The best layer slices for a good balance of speed and quality is 50um (0.05mm) thickness, but (depending on resin) some owners have sucessfully [printed at 100um (0.1mm}](https://www.facebook.com/groups/AnycubicPhoton/permalink/1582504051894231/) layer thickness. Use the [Resin Exposure Finder](https://github.com/altLab/photon-resin-calibration) from the community projects to test if your resin can print at that layer height.
 
 
 ## CLEANING 
