@@ -89,6 +89,9 @@ This is absolutely **NOT** necessary at all. Contrary to all the claims and misi
 
 ![texture](https://github.com/Photonsters/anycubic-photon-docs/blob/master/temp/rsz_plate_texture.png) 
 
+### But I've been told sanding to make the build plate surface rougher solves adhesion problems? 
+That's not true at all. Once again, it is not about the texture (there's already plenty on the stock blue build plate), it's about build plate flatness. If your build plate is leveled correctly and its surface is flat, you will have good print adhesion. Resin will adhere even to glass as you can see in [this video](https://youtu.be/vRxkcX8kPAc) by Photocentric. 
+
 ### I'm sure my build plate is level but I still can't get a print! 
 If you're positively sure you've got your build plate leveled perfectly, and it's not defective, and you still can't get a print or some parts didn't stick to the plate, [try following these steps again very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#whats-this-leveling-that-i-keep-hearing-about)
 
