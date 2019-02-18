@@ -85,7 +85,7 @@ When a new Z=0 is specified, pressing Home will NOT move the platform to the pos
 No, it is absolutely not necessary. If you have tightened and securely screwed and locked down the build plate tight it will remain in place and correctly leveled. Make sure you have really tightened the setting (grub) screw to lock the build plate. You only need to relevel your build plate if it has slipped or been knocked or you made changes that affect the Z=0 position. 
 
 ### Should I sand my build plate?
-This is absolutely **NOT** necessary at all. Contrary to all the claims and misinformation being repeated, the blue anodized aluminium surface of the stock build plate provides plenty of texture to ensure good adhesion. Adhesion is so good that some owners have difficulty removing prints. That being said, if you have checked your build plate and the print surface is not flat, then it is defective. Sanding is the very last resort that you should attempt.
+This is absolutely **NOT** necessary at all. Contrary to all the claims and misinformation being repeated that sanding away the blue anodized colour solves adhesion problems, it does not. When you have correctly leveled, the blue anodized aluminium surface of the stock build plate provides plenty of texture to ensure good adhesion. Adhesion is so good that some owners have difficulty removing prints. Sanding is the very last resort that you should attempt, and only when you have verified that the build plate surface is not flat. 
 
 ![texture](https://github.com/Photonsters/anycubic-photon-docs/blob/master/temp/rsz_plate_texture.png) 
 
