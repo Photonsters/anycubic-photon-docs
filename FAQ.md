@@ -273,13 +273,13 @@ The best layer slices for a good balance of speed and quality is 50um (0.05mm) t
 ## CLEANING 
 
 ### How do I clean my prints? 
-- One popular method is the two tub system. Fill both containers with Isopropyl Alcohol (IPA) or other solvents such as Ethanol (90‰ or higher). Drop the print into the first tub and swirl. Use a soft brush for hard to reach parts, holes etc. Then dunk the part in the second tub of solvent and swirl clean. Remove then dry thoroughly before uv curing. 
+- One popular method is the two tub system. Fill both containers with 91% Isopropyl Alcohol (IPA) or other solvents such as 95% Ethanol. Drop the print into the first tub and swirl. Use a soft brush for hard to reach parts, holes etc. Then dunk the part in the second tub of solvent and swirl clean. Remove then dry thoroughly before uv curing. 
 
 ### How long do I clean my parts in solvents? 
 - For as little time as possible to get your prints cleaned of uncured resin. Do not leave your prints to soak. Some manufacturers advise no longer than 30 seconds. In a post, Formlabs mentioned that prolonged exposure to solvents may make some resins swell. 
 
 ### How do I clean the LCD?
-You're not actually cleaning the LCD, that's a very thin layer of protective glass on top of the LCD. 
+You're not actually cleaning the LCD, there's a very thin layer of protective teeth tempered glass on top of the LCD. 
 - Use soft tissues and a small spray of IPA to remove any dried resin, buff with microfiber cloth.
 
 ### The FEP tore and there's cured resin on the LCD, how do I clean that? 
@@ -289,7 +289,7 @@ Damp a piece of cloth or tissue with IPA then lay it on the cured resin. Wait a 
 - Once you have drained the vat of resin, spray down with IPA and gently wipe off with paper towel or soft tissue. Spray again and use soft tissue to soak off the remaining residue from the FEP. You may need to repeat this several times. Finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratch or puncture the FEP. Santize wipes can also be used then buff with lens cloth.
 
 ### What else can I use to clean my prints and tools from uncured resin?
-- Manufacturers universally advice the use of a solvent like IPA (Isopropyl Alcohol) or Ethanol, a higher purity above 90% is recommended. Proprietary cleaning solutions or other solvents may also be used such as Mineral spirits (aka White spirits, Turpentine), etc. 
+- Manufacturers universally advice the use of a solvent like 91% IPA (Isopropyl Alcohol) or 95% Ethanol, Proprietary cleaning solutions or other solvents may also be used such as Mineral spirits (aka White spirits, Turpentine), etc. 
 - If you have bought a water washable resin, you can simply use water and some mild soap. 
 - A small brush is very helpful to get into and clean the fine grooves or details in your prints.
 - Alcohol and other flamable solvents should not be used directly with ultrasonic cleaners because of the fire hazard.
@@ -309,7 +309,7 @@ It depends on environmental factors and type/brand of resin, typically if the re
 - Check for loose cured resin or stuck resin, you will need to clean that out. 
 - Cover the vat, you can cut a piece of cardboard that fits over the vat, or print one out on an FDM printer. Here is a good vat cover. https://www.thingiverse.com/thing:2837171
 - Before printing, carefully stir the resin for 1 - 2 minutes with the plastic spatula, be careful not to scratch the FEP screen.
-- Do not leave the build plate hanging with uncured resin, take it out and clean with IPA, leave it out until you are ready to print, this will lessen the weight on the single Z rod thus prevent z wobble. 
+- Do not leave the build plate hanging with uncured resin, take it out and clean with IPA, leave it out until you are ready to print, this will lessen the weight on the single lead screw thus prevent deformation and potential Z wobble. 
 
 ### Can I put excess resin that doesn't get used in a print back into the original bottle?
 - Yes, but you should strain out any debris first using a filter.
