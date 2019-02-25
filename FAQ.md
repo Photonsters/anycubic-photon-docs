@@ -93,7 +93,9 @@ This is absolutely **NOT** necessary at all. Contrary to all the claims and misi
 That's not true at all. Once again, it is not about the texture (there's already plenty on the stock blue build plate), it's about build plate flatness. If your build plate is leveled correctly and its surface is flat, you will have good print adhesion. Resin will adhere even to glass as you can see in [this video](https://youtu.be/vRxkcX8kPAc) by Photocentric. 
 
 ### I'm sure my build plate is level but I still can't get a print! 
-If you're positively sure you've got your build plate leveled perfectly, and it's not defective, and you still can't get a print or some parts didn't stick to the plate, [try following these steps again very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#whats-this-leveling-that-i-keep-hearing-about)
+Did you just switch resins? Some resins such as Bluecast or Anycubic Maroon are notoriously difficult to obtain adhesion. Increase bottom exposures and test. 
+
+If you're positively sure it's not the resin, and you've got your build plate leveled perfectly, and it's not defective, and you still can't get a print or some parts didn't stick to the plate, [try following these steps again very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#whats-this-leveling-that-i-keep-hearing-about)
 
 ### I'm giving up, my prints just won't stick! 
 You may have a defective build plate, the surface may not be true and flat. Check for flatness by placing a steel rule across the build plate, against a light source, check if there are any uneven gaps showing. 
