@@ -73,7 +73,7 @@ Go to [this page](http://www.anycubic3d.com/support/show/594032.html) and click 
 Chitu devs have been helping Photonster devs with some support questions, and Chitu's new software release will allow for better integration of Photonsters tools with the slicer software, and will support many new formats including zip/gcode import/export.
 
 #### [**Chitubox**](https://www.chitubox.com/) (New Slicer for the photon from the same makers of ChituDLP)
-New software that integrates code and ideas first seen in the community projects VoxelOps, Validator, Rob's 3D photon Viewer and Photon File Editor Project
+New software that integrates code and ideas first seen in the community projects VoxelOps, Validator, Rob's 3D photon Viewer and Photon File Editor Project. 
 
 #### [**Photon Open Slicer**](https://github.com/Photonsters/Slicer) (Community developed OpenSource Slicer)
 A independent command line Slicer from Photonsters, that can be integrated with MeshMixer or any other software capable of outputting a STL file. 
@@ -101,9 +101,9 @@ Some of the slicers that are available to date.
 - [Photon Go](https://github.com/Andoryuuta/photon) - Library to read and write Photon and .cbddlp files *(Andoryuuta)*
 - [UV light distribution tester](https://www.facebook.com/kzhkshj/posts/1782894801789685)
 - [Photon Open Slicer - POS - Meshmixer Plugin](https://github.com/Photonsters/Slicer) - *(NardJ)*
-- [Voxel Ops](https://github.com/Photonsters/VoxelsOps) - Voxel tools to dilate, erode, hollow, project and mesure *(Antharon)*
+- [Voxel Ops](https://github.com/Photonsters/VoxelsOps) - Voxel tools to dilate, erode, hollow, project and measure *(Antharon)*
 
-- [AnyCubic-Photon-Decrease-Pixel](https://github.com/Hans2004/AnyCubic-Photon-Decrease-Pixel/blob/master/README.md) - A simple command line utility that can adjust the pictures in a .photon file to fit design dimensions more closely. *(Hans De Jong
+- [AnyCubic-Photon-Decrease-Pixel](https://github.com/Hans2004/AnyCubic-Photon-Decrease-Pixel/blob/master/README.md) - A simple command line utility that can adjust the pictures in a .photon file to fit design dimensions more closely *(Hans De Jong
 
 ## User mods (on facebook)
 - [Cheap and easy Heater, PTC Fan and temperature controller](https://www.facebook.com/groups/AnycubicPhoton/permalink/1550627681748535/)
