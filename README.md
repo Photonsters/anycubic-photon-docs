@@ -127,9 +127,12 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 - [Bed of nails UV coverage test](https://www.thingiverse.com/thing:2852334) - A quick test print to check for even UV coverage of your build plate. Useful for full plate prints or models placed close to edges. 
 - [Z Wobble quick test](https://www.facebook.com/groups/AnycubicPhoton/permalink/1507962279348409/) - A quick test for Z wobble, or other planar surface anomalies. 
 
-### Model repositories
-- [CAD files on this repo](https://github.com/altLab/anycubic-photon-docs/tree/master/photon-blueprints)
+### Photon Cad files and Blueprints
+- [Photon Blueprints CAD files on this repo](https://github.com/altLab/anycubic-photon-docs/tree/master/photon-blueprints)
 - [Photon on Thingiverse](https://www.thingiverse.com/search?q=Anycubic+Photon)
+
+
+### Models for Resin Printing
 - [DLP/SLA models on MyMiniFactory](https://www.myminifactory.com/search/?tech=DLP_SLA)
 
 ### Tutorials, videos, tips & tricks
