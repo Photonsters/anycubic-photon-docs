@@ -103,6 +103,8 @@ Some of the slicers that are available to date.
 - [Photon Open Slicer - POS - Meshmixer Plugin](https://github.com/Photonsters/Slicer) - *(NardJ)*
 - [Voxel Ops](https://github.com/Photonsters/VoxelsOps) - Voxel tools to dilate, erode, hollow, project and mesure *(Antharon)*
 
+- [AnyCubic-Photon-Decrease-Pixel](https://github.com/Hans2004/AnyCubic-Photon-Decrease-Pixel/blob/master/README.md) - A simple command line utility that can adjust the pictures in a .photon file to fit design dimensions more closely. *(Hans De Jong
+
 ## User mods (on facebook)
 - [Cheap and easy Heater, PTC Fan and temperature controller](https://www.facebook.com/groups/AnycubicPhoton/permalink/1550627681748535/)
 - [PTC Heater and temperature controll V2](https://www.facebook.com/permalink.php?story_fbid=10157191752823680&id=651553679)
