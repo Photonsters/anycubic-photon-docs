@@ -32,6 +32,7 @@ The following issues and solutions have been compiled from cases reported by Pho
 - LCD stops displaying layer slices halfway through a print, all other functions still continues. [(FB post)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1548763945268242/) 
 [(Youtube video)](https://youtu.be/S-G0X7rQl8w) 
 - Squares print rhomboid, circles are skewed. 
+- Build Plate Does Not Reach Z0 Bottom. 
 
 ---
 ### Random Resets / Memory Errors / USB Read Problems
@@ -130,7 +131,7 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
 - After leveling and setting Z=0 correctly, prints still fail. [FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1502900896521214/) 
 
 #### Causes and Suggested Fix
-- Check if the carriage arm I hitting the top of the vat wall and is thus prevented from reaching Z0 to the bottom of the vat. 
+- Check if the carriage arm is hitting the top of the vat wall and is thus prevented from reaching Z0 to the bottom of the vat. 
 - A simple fix is to add 4 washers as spacers to the 4 screws that secure the build plate to the ball joint assembly. 
  
  ### Other Random Issues
