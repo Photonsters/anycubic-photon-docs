@@ -125,6 +125,14 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
  #### Causes and Suggested Fixes
  - Check that the rail column is perpendicular to the red base plate. It may be a small degree off, and could be leaning forward or to the sides, or a combination. Use a small engineer's square to check accurately. If the column is leaning it will cause prints to skew. Adjust the 4 mounting bolts for the column, you may have to loosen and tighten so that the column is perfectly vertical. It takes some trial and error to get it right. If not, you will have to shim the column base. [FB post](https://www.facebook.com/groups/1194619320682708?view=permalink&id=1479801292164508) 
  
+### Build Plate Does Not Reach Z0 Bottom
+#### Symptoms
+- After leveling and setting Z=0 correctly, prints still fail. [FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1502900896521214/) 
+
+#### Causes and Suggested Fix
+- Check if the carriage arm I hitting the top of the vat wall and is thus prevented from reaching Z0 to the bottom of the vat. 
+- A simple fix is to add 4 washers as spacers to the 4 screws that secure the build plate to the ball joint assembly. 
+ 
  ### Other Random Issues
  #### Symptoms
  - After you have tried all the fixes above, machine is still behaving abnormally. Possibly faulty Mainboard.
