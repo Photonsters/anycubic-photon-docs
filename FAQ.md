@@ -145,6 +145,9 @@ It's difficult to see if there's protective plastic film on your FEP. An easy wa
 ### Instead of FEP film, can I use PET/PE/other film? 
 Not advisable. There's a reason why FEP (Fluorinated Ethylene Propylene) is used. Besides low friction, non-reactivity, flexibility, high heat resistance, high transparency, uv resistance, etc., it is also one of the most slippery substance known to science. 
 
+### Why do I need to use a bottle cap when replacing the FEP film? 
+The bottle cap, 30mm diameter x 13mm height, will allow some slack to the film, so that when you tighten the frame down you will get approximate tension. If you don't do that, you will over tension the film and it may tear. If it didn't tear, later on you'll be wondering why all your prints fail. 
+
 
 ## MODEL SETUP & SETTINGS
 
