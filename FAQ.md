@@ -107,7 +107,7 @@ It would be more accurate to check by making an imprint. Lightly coat the build 
 ### My build plate is defective and not flat, how do I fix this? 
 If you've verified that the build plate surface is not flat, you can try to achieve a true flat surface by a process termed [lapping](https://www.wikipedia.org/wiki/Lapping). Unfortunately, most people will not have the tools to achieve this. Try bringing your build plate to a machine shop nearby, they'll know what to do. 
 
-If you want to try it at home, do not simply go rubbing the build plate with sandpaper, you'll probably make things worse. 
+If you want to try this at home, do not simply go rubbing the build plate with sandpaper, you'll probably make things worse. Proceed only if you have the necessary tools and know-how to achieve a true flat surface. 
 
 ## VAT & FEP SETUP
 
