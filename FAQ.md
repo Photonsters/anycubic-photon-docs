@@ -300,14 +300,14 @@ This is a limitation of the technology but can be largely mitigated and overcome
 - For as little time as possible to get your prints cleaned of uncured resin. Do not leave your prints to soak. Some manufacturers advise no longer than 30 seconds. In a post, Formlabs mentioned that prolonged exposure to solvents may make some resins swell. 
 
 ### How do I clean the LCD?
-You're not actually cleaning the LCD, there's a very thin layer of protective teeth tempered glass on top of the LCD. 
-- Use soft tissues and a small spray of IPA to remove any dried resin, buff with microfiber cloth.
+You're not actually cleaning the LCD, there's a thin piece of protective tempered glass on top of the actual LCD screen. 
+- Use soft tissues and a small spray of IPA to remove any dust and stains. If there is dried resin on the glass, you can carefully scrape it off with a razor. Finally, buff the glass with microfibre cloth.
 
 ### The FEP tore and there's cured resin on the LCD, how do I clean that? 
-Damp a piece of cloth or tissue with IPA then lay it on the cured resin. Wait a few minutes, then with a fingernail gently try to prise the layer of cured resin off the LCD glass. Some owners use a razor or glass scraper, but be careful with that. 
+Damp a piece of cloth or tissue with IPA then lay it on the cured resin. Wait a few minutes, then with a fingernail gently try to prise the layer of cured resin off the LCD glass. If you can't easily prise it off, use a razor or glass scraper, but be careful with that. 
 
 ### How do I clean the FEP Film?
-- Once you have drained the vat of resin, spray down with IPA and gently wipe off with paper towel or soft tissue. Spray again and use soft tissue to soak off the remaining residue from the FEP. You may need to repeat this several times. Finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratch or puncture the FEP. Santize wipes can also be used then buff with lens cloth.
+- Once you have drained the vat of resin, spray down with IPA and gently wipe off with paper towel or soft tissue. Spray again and use soft tissue to soak off the remaining residue from the FEP. You may need to repeat this several times. Finally buff the FEP with microfiber lens cloth. Be careful of dried resin on the cloth that could scratch or puncture the FEP. 
 
 ### What else can I use to clean my prints and tools from uncured resin?
 - Manufacturers universally advice the use of a solvent like 91% IPA (Isopropyl Alcohol) or 95% Ethanol, Proprietary cleaning solutions or other solvents may also be used such as Mineral spirits (aka White spirits, Turpentine), etc. 
