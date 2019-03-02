@@ -60,6 +60,7 @@ There are several known issues with the Photon hardware and software. [Check the
 
 
 ## Firmware & Configuration files
+If you've just received your Photon, or it's working properly, **do not** update your firmware unnecessarily. 
 - [Photon official firmware & default gcode](https://github.com/Photonsters/anycubic-photon-docs/tree/master/firmware) (including unofficial releases and gcode mods). Use at own risk. 
 
 ## Photon slicing software
