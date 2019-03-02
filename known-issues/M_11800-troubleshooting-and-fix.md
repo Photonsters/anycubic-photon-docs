@@ -1,6 +1,6 @@
 ## M_11800 Memory Error
 ### Troubleshooting and Fixes
-According to Anycubic, the M_11800 error means that "the USB stick is not plugged in". Removing and replugging the USB stick will often fix the problem if it wasn't plugged in fully or seated purposely.
+According to Anycubic, the M_11800 error means that "the USB stick is not plugged in". Removing and replugging the USB stick will often fix the problem if it wasn't plugged in fully or seated properly.
 
 But more often than not, it is a devilishly difficult problem to diagnose if it is something else that is making your printer *think* that the USB stick is not plugged in. 
 
