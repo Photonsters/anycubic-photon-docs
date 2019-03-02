@@ -11,7 +11,9 @@ These are the only two versions sold. Machines with Orange or Red windows are ba
 - You will also need a known good branded USB stick, formatted FAT32. **The included usb stick is known to be problematic and prone to failure.** Transfer all the files from it to your known good USB stick and use that one instead. 
 
 ### I've just received my new Photon, should I update the firmware first? 
-No, it's not necessary. In fact, your new printer may have newer firmware than what's available on Anycubic's website. Do not update firmware if your Photon is working well, besides a chance of bricking your new printer there are no extra features or benefits in doing so. 
+No, it's not necessary. In fact, your new printer may have newer firmware than what's available on Anycubic's website. 
+
+**Do not update** if your Photon is working well, besides a chance of bricking your new printer there are no significant extra features or benefits in doing so. 
 
 
 ## Table of Contents
