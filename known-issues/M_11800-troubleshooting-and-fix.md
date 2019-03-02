@@ -6,15 +6,15 @@ But more often than not, it is a devilishly difficult problem to diagnose if it 
 
 Try these steps one by one ;
 
-- First, remove usb stick and try a power cycle. Switch off, unplug from mains, wait 10 mins, restart. Wait 1 min, plug in usb stick, wait a while, browse files on usb
+- First, remove usb stick and try a power cycle. Switch off, unplug from mains, wait 10 mins, restart. Wait 1 min, plug in usb stick, wait a while before browsing files on the usb. 
 
-- If not, try a few other usb sticks. No cheap shit, try good known brands formated fat32. 
+- If not, try a few other usb sticks. Beware of fakes, try good known brands, formated FAT32. 
 
-- If not, open back panel, unplug usb extension cabl from mainboard, plug good mini usb stick directly. 
+- If not, open back panel, unplug usb extension cable from mainboard, plug good mini usb stick directly. 
 
-- If not, download and update firmware. Be sure to print all the update files in the sequence given. 
+- If not, try a firmware update. Be sure to print all the update files in the sequence given. [Here is a link](http://file-cloud.anycubic3d.com/anycubic3d.com/upload/201807/20/201807201727454881.zip) for the latest firmware published on Anycubic's website. 
 
-- If not, try another psu. 12V 6A or higher amps. Possibly power issues causing udisk unmount. 
+- If not, try another PSU. 12V 6A or higher amps. Possibly power issues causing udisk unmount. 
 
 - If not, nothing else you can do unless you're willing to open it up and dive into troubleshooting cold solder joints or driver voltage, etc. 
 
