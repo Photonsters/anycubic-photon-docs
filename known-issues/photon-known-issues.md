@@ -149,7 +149,7 @@ These are some of the known error codes that the Photon will display.
 Machine will randomly freeze during print and display error, Z does not retract, fan stays on.
 
 #### M_11800
-From Anycubic engineer, 'this means USB is not plugged in'
+From Anycubic engineer, 'this means USB is not plugged in'. [Troubleshooting and fixes](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/M_11800-troubleshooting-and-fix.md
 
 #### M_11000
 USB read problem, Replace with new good branded USB stick, formatted FAT32.
