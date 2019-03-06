@@ -108,11 +108,12 @@ Some of the slicers that are available to date.
 
 ## User mods (on facebook)
 - [Cheap and easy Heater, PTC Fan and temperature controller](https://www.facebook.com/groups/AnycubicPhoton/permalink/1550627681748535/)
-- [PTC Heater and temperature controll V2](https://www.facebook.com/permalink.php?story_fbid=10157191752823680&id=651553679)
+- [PTC Heater and temperature controller V2](https://www.facebook.com/permalink.php?story_fbid=10157191752823680&id=651553679)
 - [Printed Universal resin drainer](https://www.facebook.com/groups/AnycubicPhoton/permalink/1508547859289851/)
 - Gangsta resin drainers [1](https://www.facebook.com/groups/AnycubicPhoton/permalink/1376704139140891/), [2](https://www.facebook.com/groups/AnycubicPhoton/search/?query=gangsta%20drainer&epa=SEARCH_BOX)
-- [Red & Black Acrilic windows with cad files](https://www.facebook.com/groups/AnycubicPhoton/permalink/1367548836723088/)
-- [Using photon with a external Driver module](https://www.facebook.com/media/set/?set=oa.1350659371745368&type=3)
+- [Red & Black Acrylic windows with cad files](https://www.facebook.com/groups/AnycubicPhoton/permalink/1367548836723088/)
+- [Using photon with an external Driver module](https://www.facebook.com/media/set/?set=oa.1350659371745368&type=3)
+- [Anycubic Photon Z Axis Modification](https://www.facebook.com/groups/AnycubicPhoton/permalink/1599717403506229/) 
 
 ## Social media groups
 - [FB Anycubic Owners Group](https://www.facebook.com/groups/AnycubicPhoton/?ref=group_header)
