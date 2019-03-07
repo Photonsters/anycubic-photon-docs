@@ -200,6 +200,9 @@ The normals of your model are reversed. Flip them or they wont print. or your mo
 ### The slicer program says my print will take X hours, but it actually took Y hours? 
 This is due to your [offtime (or light off) settings](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#exposure-off-off-time) in the slicer. The program will calculate the print time based on the offtime value that you set, it is an estimate, it does not reflect the actual print time. To get an accurate estimate that matches your actual print time, [time your actual offtime and use that value](https://youtu.be/TWdlphFfyLY) in your slicer program. 
 
+### Can I just use auto supports for all my models? 
+No. For simple models, auto supports should generally work but as with anything automatic it will never be perfect. For a start, you can use auto supports and supplement with manual supports on parts that the software missed. But it will be best to [learn to place your supports manually](https://github.com/Photonsters/anycubic-photon-docs/blob/master/Resources/AddingSupportsForSLA3DPrinters-v1.pdf) and precisely, you will find that you will need less supports and produce better prints in the long run. 
+
 
 ## PRINTING
 
