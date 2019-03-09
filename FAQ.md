@@ -343,7 +343,11 @@ It depends on environmental factors and type/brand of resin, typically if the re
 ## POST PROCESSING
 
 ### My print stuck so well to the build plate that I can't remove it? 
-Congratulations on having a well leveled plate. Sometimes prints adhere so well that removal is difficult. You can heat up the print and build plate to around 40~50°C by using a hair dryer or running them under hot water. You'll find that your prints can then be easily removed. 
+Congratulations on having a well leveled plate. Sometimes prints adhere so well that removal is difficult. Try the following methods to remove recalcitrant prints, in order of recommendation:
+
+- Heat up the print and build plate to around 40~50°C by using a hair dryer or running them under hot water. Your print can then be easily removed. 
+- Freeze the print and build plate for a couple of minutes, a light tap and it'll pop off. 
+- Use a razor to lift a corner, push a spatula under the lifted edge and remove. 
 
 ### How long should I cure my print?
 The best way to find out if your print has cured enough with sunlight or a UV light set up is to find an area where you don't mind a mark and try to dent it with your fingernail, If you can then it's not ready yet, and as soon as you can't dent it it's ready. Do not overcure as resin may become overly brittle, and white or clear resin will turn yellow. 
