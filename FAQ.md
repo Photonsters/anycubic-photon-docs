@@ -249,7 +249,7 @@ First, ensure that your exposure settings are optimal for the resin used. Undere
 - A quick and easy way is to adjust the LCD settings in most slicer programs. 
 - If the adjustments needed are slight, you can try to compensate by reducing or adding exposure times for your prints. 
 - Some commercial slicing software have a "horizontal size compensation" feature that can make precise adjustments. Chitubox has also announced this feature for a future "Pro" version. 
-- The Photonsterscommunity software, [VoxelOps](https://github.com/Photonsters/VoxelsOps) has an "erode" function that can reduce xy dimensions by precise pixels. 
+- The Photonsters' community software, [VoxelOps](https://github.com/Photonsters/VoxelsOps) has an "erode" function that can reduce xy dimensions by precise pixels. 
 - Or simply use resins that generally print true to size. Here is a [list of resins and how they fit.](https://docs.google.com/spreadsheets/d/1yDwszgncTyOxvyJho6y1kxLJquH2GsfL83KaFXT6068/edit#gid=0)
 
 ### I need to print strong parts, how do I know which resins are suitable?
