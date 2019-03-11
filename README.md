@@ -103,7 +103,7 @@ Some of the slicers that are available to date.
 - [UV light distribution tester](https://www.facebook.com/kzhkshj/posts/1782894801789685)
 - [Photon Open Slicer - POS - Meshmixer Plugin](https://github.com/Photonsters/Slicer) - *(NardJ)*
 - [Voxel Ops](https://github.com/Photonsters/VoxelsOps) - Voxel tools to dilate, erode, hollow, project and measure. *(Antharon)*
-- [DecreasePixel GUI](https://github.com/Hans2004/Anycubic-Photon-decreasePixel-with-GUI) - A simple utility that can adjust the pictures in a .photon file to fit design dimensions more closely by GUI. *(Hans De Jong)*
+- [DecreasePixel GUI](https://github.com/Hans2004/Anycubic-Photon-decreasePixel-with-GUI) - Compensate slices on .photon files to closely fit design dimensions. *(Hans De Jong)*
 - [DecreasePixel CLI](https://github.com/Hans2004/AnyCubic-Photon-Decrease-Pixel) - Same as the above but Command Line. *(Hans De Jong)* 
 - [Hexeditor Okteta template for .photon format](https://github.com/Hans2004/okteta-photon) *(Hans De Jong)*
 
