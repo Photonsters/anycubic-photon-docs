@@ -114,7 +114,7 @@ Some of the slicers that are available to date.
 - [Printed Universal resin drainer](https://www.facebook.com/groups/AnycubicPhoton/permalink/1508547859289851/)
 - Gangsta resin drainers [1](https://www.facebook.com/groups/AnycubicPhoton/permalink/1376704139140891/), [2](https://www.facebook.com/groups/AnycubicPhoton/search/?query=gangsta%20drainer&epa=SEARCH_BOX)
 - [Red & Black Acrylic windows with cad files](https://www.facebook.com/groups/AnycubicPhoton/permalink/1367548836723088/)
-- [Using photon with an external Driver module](https://www.facebook.com/media/set/?set=oa.1350659371745368&type=3)
+- [Tuning photon Z driver or using a external Driver module](https://www.facebook.com/media/set/?set=oa.1350659371745368&type=3)
 - [Anycubic Photon Z Axis Modification](https://www.facebook.com/groups/AnycubicPhoton/permalink/1599717403506229/) 
 
 ## Social media groups
