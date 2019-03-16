@@ -13,11 +13,13 @@ The fundamental difference is that the S model is not file compatible with the o
 
 The other hardware and cosmetic differences are:
 - Plastic shell/chassis instead of all metal stamped steel chassis. 
+- New mainboard and slicing software instead of Chitu CBD-Tech. 
 - Dual column sliders on the same central Z lead screw instead of a single column slide. 
 - Exposure unit consists of a 38W UV LED array instead of a 25W 4X4 UV LED source. 
 - Dual filtration units instead of a single unit. 
 - 10mm taller print capability on the Z axis, 
-- Most other components such as LCD, vat, etc., remain the same. 
+- Build plate surface is machined flat after texture blasting and blue anodizing, otherwise exactly the same. 
+- Most other components such as LCD, vat, etc., remain exactly the same. 
 
 ### I've just bought a Photon, what accessories should I get? 
 - [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion, while usable, is not the optimal 405nm wavelength required).  
