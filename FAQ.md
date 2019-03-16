@@ -9,14 +9,14 @@ These are the only two versions sold. Machines with Orange or Red windows are ba
 ### What about the differences between the original Photon (Classic) and the Photon-S?
 The Photon-S was released in February 2019 as an interim upgrade to the original Photon. It may be considered as a sidegrade, rather than a true upgrade. 
 
-The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use any of the print files sliced for the original. Due to this, most of the community software and tools designed for the original Photon **do not** work with the S model. 
+The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use most of the essential community software and tools nor any of the print files sliced for the original Photon. They **do not** work with the S model. 
 
 The other hardware and cosmetic differences are:
 - Plastic shell/chassis instead of all metal stamped steel chassis. 
-- Dual column sliders on central Z lead screw instead of a single column slide. 
+- Dual column sliders on the same central Z lead screw instead of a single column slide. 
 - Exposure unit consists of a 38W UV LED array instead of a 25W 4X4 UV LED source. 
 - Dual filtration units instead of a single unit. 
-- A 10mm higher print capability on the Z axis. 
+- 10mm taller print capability on the Z axis, 
 - Most other components such as LCD, vat, etc., remain the same. 
 
 ### I've just bought a Photon, what accessories should I get? 
