@@ -16,8 +16,8 @@ The other hardware and cosmetic differences are:
 - New mainboard and slicing software instead of Chitu CBD-Tech. 
 - Dual column sliders on the same central Z lead screw instead of a single column slide. 
 - Exposure unit consists of a 38W UV LED array instead of a 25W 4X4 UV LED source. 
-- Dual filtration units instead of a single unit. 
-- 10mm taller print capability on the Z axis, 
+- Dual "filtration" units instead of a single unit. 
+- 10mm taller print capability on the Z axis. 
 - Build plate surface is machined flat after texture blasting and blue anodizing, otherwise exactly the same. 
 - Most other components such as LCD, vat, etc., remain exactly the same. 
 
