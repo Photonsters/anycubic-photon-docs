@@ -12,8 +12,8 @@ The Photon-S was released in February 2019 as an interim upgrade to the original
 The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use most of the essential community software and tools nor any of the print files sliced for the original Photon. They **do not** work with the S model. 
 
 The other hardware and cosmetic differences are:
+- New mainboard and new slicing software instead of Chitu CBD-Tech mainboard and slicer. 
 - Plastic shell/chassis instead of all metal stamped steel chassis. 
-- New mainboard and slicing software instead of Chitu CBD-Tech. 
 - Two column guide sliders on the same central Z lead screw instead of a single column slide. 
 - Exposure unit consists of a 38W UV LED array instead of a 25W 4X4 UV LED source. 
 - Dual "filtration" units instead of a single unit. 
