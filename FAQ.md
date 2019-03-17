@@ -229,6 +229,9 @@ It is highly recommended that you print it. The test file has been presliced for
 
 - If it did not print successfully, then troubleshooting will be easier as you can rule out various other problems such as with resin, settings or slicing. 
 
+### I'm about to start a print but the touchscreen shows a filename highlighted in red? 
+That's normal, it's showing the last file you selected or printed. 
+
 ### How much resin should I pour into the vat? 
 - Pour resin up to the line where the chamfer starts in the vat, about a quarter up from the FEP. This is about 125ml. Do not exceed the line, if there is too much resin, it will rise from displacement and get into the screws and ball joint of your build plate! 
 
