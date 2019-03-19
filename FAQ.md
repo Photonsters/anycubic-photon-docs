@@ -22,7 +22,7 @@ The hardware, software and cosmetic differences are:
 - Build plate surface is machined flat after texture blasting and blue anodizing, otherwise exactly the same. 
 - Most other components such as LCD, vat, build plate, carriage arm, etc., remain exactly the same. 
 
-Disassembly and [internal pictures (FB link)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1609289172549052/) of the Photon-S by Michael Morairty. 
+Disassembly and [internal photos (FB link)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1609289172549052/) of the Photon-S by Michael Morairty. 
 
 ### I've just bought a Photon, what accessories should I get? 
 - [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion, while usable, is not the optimal 405nm wavelength required).  
