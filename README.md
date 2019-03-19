@@ -1,6 +1,8 @@
 # Anycubic Photon Owner's Documentation
 
-Use this repository to collect information on the Anycubic Photon LCD resin printer's hardware, software and usage.
+Use this repository to collect information on the Anycubic Photon LCD resin printer's hardware, software and usage. 
+
+**Please note that most of the community tools, software, mods and information here do NOT  apply to the Photon-S model. It is fundamentally a different printer. ** 
 
 Want to help? Check at the bottom of this page for the [TO DO](#todo) list and open a [issue with #IWantToHelp.](https://github.com/Photonsters/anycubic-photon-docs/issues/new?title=IWantToHelp)
 
@@ -21,7 +23,7 @@ Want to help? Check at the bottom of this page for the [TO DO](#todo) list and o
 
 
 ## Frequently asked questions (FAQ)
-[Check the FAQ page](FAQ.md) before asking questions! You may find the answers to all your questions regarding setting up your Photon, to post processing your prints, already in the FAQ. 
+[Check the FAQ page](FAQ.md) before asking questions! You may find the answers to all your questions regarding setting up your Photon, to post processing your prints, already covered in the FAQ. 
 
 
 ## Known issues
@@ -105,10 +107,10 @@ Some of the slicers that are available to date.
 - [Voxel Ops](https://github.com/Photonsters/VoxelsOps) - Voxel tools to dilate, erode, hollow, project and measure. *(Antharon)*
 - [DecreasePixel GUI](https://github.com/Hans2004/Anycubic-Photon-decreasePixel-with-GUI) - Compensate slices on .photon files to closely fit design dimensions. *(Hans De Jong)*
 - [DecreasePixel CLI](https://github.com/Hans2004/AnyCubic-Photon-Decrease-Pixel) - Same as the above but Command Line. *(Hans De Jong)* 
-- [Hexeditor Okteta template for .photon format](https://github.com/Hans2004/okteta-photon) *(Hans De Jong)*
+- [Hexeditor Okteta](https://github.com/Hans2004/okteta-photon) template for .photon format. *(Hans De Jong)*
 
 
-## User mods (on facebook)
+## User mods (on Facebook)
 - [Cheap and easy Heater, PTC Fan and temperature controller](https://www.facebook.com/groups/AnycubicPhoton/permalink/1550627681748535/)
 - [PTC Heater and temperature controller V2](https://www.facebook.com/permalink.php?story_fbid=10157191752823680&id=651553679)
 - [Printed Universal resin drainer](https://www.facebook.com/groups/AnycubicPhoton/permalink/1508547859289851/)
