@@ -291,7 +291,7 @@ This is almost always a build plate tramming issue, make sure your leveling is 1
 - The FEP film may be too tight or too loose. New vats sometimes comes with loosened screws, but they could be correctly tensioned. Adjust to the [correct tension](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#how-tight-exactly-should-the-fep-be-tensioned), or replace. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)) ([how to tighten](https://youtu.be/Sdxf9mf7-ns)) and ([how to replace](https://youtu.be/DLi3chV43LQ)) 
 - You may be using resin formulated for SLA laser printers. Try using a known resin like the sample green. Note that some opaque resins like maroon or yellow are very difficult to work with. 
 - If all else fails, check your plate level once again! 
-- If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. Check that the plate surface is flat. 
+- If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. [Check that the plate surface is flat.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#im-giving-up-my-prints-just-wont-stick) 
 
 ### The bottom layers stick but my prints didn't form/fell off at the supports?
 If your prints have good bottom adhesion but fail at the supports, this is generally due to incorrect exposure setting for your normal layers. As a first step, try increasing exposure. 
