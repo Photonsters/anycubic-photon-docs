@@ -285,13 +285,15 @@ Here is a list of some [resin strength tests.](https://docs.google.com/spreadshe
 This is almost always a build plate tramming issue, make sure your leveling is 100% correct before attempting these other solutions. 
 - Clean the build plate carefully with IPA or other solvents. Dry before use. 
 - Shake your resin in bottle well before using. Resin already in the vat may have settled and need to be stirred. 
-- Warm the resin, you can use a hair dryer on most bottles to gently heat the resin to 20~30°C while swilling. 
+- Preheat or warm the resin, you can use a hair dryer on most bottles to gently heat the resin to 20~30°C while swilling. 
+- Preheat the build plate, same as the resin. 
 - The build plate may have shifted. Try and level it again, make sure to tighten well. 
 - There may be cured resin in your vat. Drain and clean. 
 - Did you remember to set Z=0?
 - Build plate is too high or low, this is caused by incorrectly seated ball joint screws. Disassemble, clean and retighten the build assembly. [See disassembly guide below.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
 - The FEP film may be too tight or too loose. New vats sometimes comes with loosened screws, but they could be correctly tensioned. Adjust to the [correct tension](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#how-tight-exactly-should-the-fep-be-tensioned), or replace. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)) ([how to tighten](https://youtu.be/Sdxf9mf7-ns)) and ([how to replace](https://youtu.be/DLi3chV43LQ)) 
-- You may be using resin formulated for SLA laser printers. Try using a known resin like the sample green. Note that some opaque resins like maroon or yellow are very difficult to work with. 
+- You may be using resin formulated for SLA laser printers. Try using a known resin like the sample green. Note that some resins like maroon or yellow are very difficult to work with. 
+- Are you using a speciality resin such as Bluecast? You may need a primer coat. Check manufacturer's recommendations. 
 - If all else fails, check your plate level once again! 
 - If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. [Check that the plate surface is flat.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#im-giving-up-my-prints-just-wont-stick) 
 
