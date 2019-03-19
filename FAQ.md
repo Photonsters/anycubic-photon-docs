@@ -7,11 +7,12 @@ All new Photons come with Yellow windows. Older machines (prior to August, 2018)
 These are the only two versions sold. Machines with Orange or Red windows are basically user mods.
 
 ### What about the differences between the original Photon (Classic) and the Photon-S?
-The Photon-S was released in February 2019 as an interim upgrade to the original Photon. It may be considered as a sidegrade, rather than a true upgrade. One can argue that it's actually a completely different printer altogether. 
+The Photon-S was released in February 2019 as an interim upgrade to the original Photon. It may be considered as a sidegrade, rather than a true upgrade. Due to the completely different motherboard, it's actually a completely different printer altogether. 
 
 **The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use most of the essential community software and tools nor any of the original print files sliced for the original Photon. They do not work with the S model.** 
 
-The other hardware, software and cosmetic differences are:
+The hardware, software and cosmetic differences are:
+- New Anycubic motherboard instead of Chitu CBD-Tech motherboard. 
 - New Anycubic slicing software instead of Chitu CBD-Tech slicer. Photon-S sliced files cannot be printed on original Photon, and vice versa. 
 - Plastic shell/chassis instead of all metal stamped steel chassis. 
 - Two column guide sliders on the same central Z lead screw instead of a single column slide. 
@@ -20,6 +21,8 @@ The other hardware, software and cosmetic differences are:
 - 10mm taller print capability on the Z axis. 
 - Build plate surface is machined flat after texture blasting and blue anodizing, otherwise exactly the same. 
 - Most other components such as LCD, vat, build plate, carriage arm, etc., remain exactly the same. 
+
+Disassembly and [internal pictures (FB link)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1609289172549052/) of the Photon-S by Michael Morairty. 
 
 ### I've just bought a Photon, what accessories should I get? 
 - [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion, while usable, is not the optimal 405nm wavelength required).  
