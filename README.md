@@ -116,10 +116,11 @@ Some of the slicers that are available to date.
 - [Printed Universal resin drainer](https://www.facebook.com/groups/AnycubicPhoton/permalink/1508547859289851/)
 - Gangsta resin drainers [1](https://www.facebook.com/groups/AnycubicPhoton/permalink/1376704139140891/), [2](https://www.facebook.com/groups/AnycubicPhoton/search/?query=gangsta%20drainer&epa=SEARCH_BOX)
 - [Red & Black Acrylic windows with cad files](https://www.facebook.com/groups/AnycubicPhoton/permalink/1367548836723088/)
-- [Tuning photon Z driver or using a external Driver module](https://www.facebook.com/media/set/?set=oa.1350659371745368&type=3)
+- [Tuning Photon Z driver or using a external Driver module](https://www.facebook.com/media/set/?set=oa.1350659371745368&type=3)
 - [Anycubic Photon Z Axis Modification](https://www.facebook.com/groups/AnycubicPhoton/permalink/1599717403506229/) 
 - [IPA Cleaner Station with stir Mixer](https://www.facebook.com/groups/AnycubicPhoton/permalink/1604847169659919/)
-- [IPA Classic Cleaning Station](https://www.facebook.com/permalink.php?story_fbid=10157258442468680&id=651553679)
+- [IPA Classic Cleaning Station](https://www.facebook.com/permalink.php?story_fbid=10157258442468680&id=651553679) 
+- [Pi Zero W WiFi Thumb Drive](https://www.facebook.com/groups/AnycubicPhoton/permalink/1610232152454754/) 
 
 ## Social media groups
 - [FB Anycubic Owners Group](https://www.facebook.com/groups/AnycubicPhoton/?ref=group_header)
