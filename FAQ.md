@@ -423,6 +423,12 @@ White Lithium grease is well received. You could also try "non flick" motorcycle
 Just make sure the lubricant is not thin and runny. Do NOT use WD-40!
 
 
+## WARRANTY 
+
+### My Photon broke down, is there a warranty? 
+According to the warranty terms stated on Anycubic's website, the [standard warranty period](http://m.anycubic3d.com/maintenance_policy.html) is three months for the LCD mask panel and UV LED unit. All other components (except tools and FEP film) are warranted for twelve months. 
+
+
 ## ACKNOWLEDGMENTS
 
 ### Where did all this information come from? 
