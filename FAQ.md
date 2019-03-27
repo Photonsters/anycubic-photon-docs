@@ -7,7 +7,7 @@ All new Photons come with Yellow windows. Older machines (prior to August, 2018)
 These are the only two versions sold. Machines with Orange or Red windows are basically user mods.
 
 ### What about the differences between the original Photon (Classic) and the Photon-S?
-The Photon-S was released in February 2019 as an interim upgrade to the original Photon. It may be considered as a sidegrade, rather than a true upgrade. Due to the completely different motherboard, it's actually a completely different printer altogether. 
+The Photon-S was released in February 2019 as an interim upgrade to the original Photon. It may be considered as a sidegrade, rather than a true upgrade. Due to the different motherboard, it's actually a completely *different* printer altogether. 
 
 **The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use most of the essential community software and tools nor any of the original print files sliced for the original Photon. They do not work with the S model.** 
 
