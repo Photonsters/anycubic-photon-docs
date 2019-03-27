@@ -15,6 +15,7 @@ Want to help? Check at the bottom of this page for the [TO DO](#todo) list and o
 * [Photon slicing software](#photon-slicing-software)
 * [Community resin exposure settings](#community-resin-exposure-settings)
 * [Community projects](#community-projects)
+* [Community Mods](#user-mods-on-facebook)
 * [Social media groups](#social-media-groups)
 * [Models, Photon Blueprints & Resources](#models--resources)
 * [TO.DO.](#todo)
