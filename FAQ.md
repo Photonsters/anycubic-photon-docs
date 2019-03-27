@@ -11,6 +11,8 @@ The Photon-S was released in February 2019 as an interim upgrade to the original
 
 **The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use most of the essential community software and tools nor any of the original print files sliced for the original Photon. They do not work with the S model.** 
 
+Furthermore, there is [no anti-aliasing (AA)] (https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) feature for the Photon-S as yet.
+
 The hardware, software and cosmetic differences are:
 - New Anycubic motherboard instead of Chitu CBD-Tech motherboard. 
 - New Anycubic slicing software instead of Chitu CBD-Tech slicer. Photon-S sliced files cannot be printed on original Photon, and vice versa. 
