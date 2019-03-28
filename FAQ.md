@@ -17,7 +17,7 @@ The hardware, software and cosmetic differences are:
 - New Anycubic motherboard instead of Chitu CBD-Tech motherboard. 
 - New Anycubic slicing software instead of Chitu CBD-Tech slicer. Photon-S sliced files cannot be printed on original Photon, and vice versa. 
 - Plastic shell/chassis instead of all metal stamped steel chassis. 
-- Two column guide sliders on the same central Z lead screw instead of a single column slide. 
+- Two column guide sliders on the same central Z lead screw instead of a single column slide. (Note that these are just simple sliders on guide rods, not recirculating bearing linear rails.) 
 - Exposure unit consists of a 38W UV LED array instead of a 25W 4X4 UV LED source. 
 - Dual "filtration" units instead of a single unit. 
 - 10mm taller print capability on the Z axis. 
