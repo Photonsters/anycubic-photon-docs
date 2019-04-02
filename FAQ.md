@@ -130,7 +130,7 @@ Some resins such as Anycubic Maroon are notoriously difficult to obtain adhesion
 
 Castable and other speciality resins such as Bluecast or Senertek generally need longer bottom exposures or the help of a primer coat. Primers are basically just uv glue and can be found online cheaply. You can also try LOCA (Liquid Optically Clear Adhesive), 
 
-For the majority of regular modelling resins, increasing bottom exposures should enable plate adhesion. Do not pay for uv glues marketed as miracle cure adhesion bonding concoctions, 
+For the majority of regular modelling resins, ensuring a leveled build plate and increasing bottom exposures should enable plate adhesion. Do not pay for uv glues marketed as miracle cure adhesion bonding concoctions. 
 
 If you're positively sure it's not the resin or other factors mentioned above, and you've got your build plate leveled perfectly, and it's not warped or defective, and you still can't get a print or some parts didn't stick to the plate, [try following these steps very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#my-prints-just-wont-stick)
 
@@ -343,6 +343,9 @@ This is a limitation of the technology but can be largely mitigated and overcome
 
 ### How do I clean my prints? 
 - One popular method is the two tub system. Fill both containers with 91% Isopropyl Alcohol (IPA) or other solvents such as 95% Ethanol. Drop the print into the first tub and swirl. Use a soft brush for hard to reach parts, holes etc. Then dunk the part in the second tub of solvent and swirl clean. Remove then dry thoroughly before uv curing. 
+
+### What solvents should I use to clean my prints? 
+Resin manufacturers universally recommend 91% Isopropyl Alcohol (IPA) or 95% Ethanol. Other solvents may be used but generally not recommended. Do not pay for overpriced cleaning solutions marketed for 3D resin printers. Here is a [solvents compatibility chart]( https://support.formlabs.com/s/article/Solvent-Compatibility?language=en_US) published by Formlabs for their resins which can be used as a general guide for most resins. 
 
 ### How long do I clean my parts in solvents? 
 - For as little time as possible to get your prints cleaned of uncured resin. Do not leave your prints to soak. Some manufacturers advise no longer than 30 seconds. In a post, Formlabs mentioned that prolonged exposure to solvents may make some resins swell. 
