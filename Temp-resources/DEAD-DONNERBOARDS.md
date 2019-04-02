@@ -1,11 +1,11 @@
-**JW - B+LCD**
+**JaWa - B+LCD**
 
 Board image died after trying out the wrong LCD screen replacemente SX04
 
-**PC - B**
+**PaCh - B**
 
 Board USB works bad or dosent work at all
 
-**Nathan Kozirev**
+**NaKo**
 
 Zaxis deqd after wrong connections of the external drive (dead driver?)
