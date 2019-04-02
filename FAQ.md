@@ -202,7 +202,9 @@ After your base layers have finished this is the time the UV will be on to cure 
 #### Exposure off (Off time):
 Light off delay. This is the amount of time that the UV light is turned off between the end of one exposure cycle and the beginning of the next. After an exposure, the UV light turns off, the build plate lifts and peels, then descends ready for the next cycle and will wait at the bottom (resting at the set layer height over the FEP sheet, at the bottom of your vat) before the UV light comes on again for the next exposure cycle. 
 
-Longer times leave more time for the resin to settle out and form a new layer with fresh resin. If unsure, leave the value at 1, your printer will then default to the firmware settings, usually 6.5 secs for older printers or firmware, 4.5 secs for newer printers or firmware. Any value below your printer's defaults will be ignored. The fastest prints are at default settings. 
+Longer offtimes leave more time for the resin to settle out and form a new layer with fresh resin. This is especially useful for more viscous resins to mitigate issues of poor definition of surfaces facing the build plate
+
+If unsure, leave the value at 1, your printer will then default to the firmware settings, usually 6.5 secs for older printers or firmware, 4.5 secs for newer printers or firmware. Any value below your printer's defaults will be ignored. The fastest prints are at default settings. 
 
 ### What is suction warping and how do I combat it, should I add a vent hole?
 Vent holes are often improperly called "drain" holes, they are not for draining resin.  Imagine a glass full of water upside down in a bucket of water. When you pull the glass up out of the bucket, it stays full until the lip of the glass breaks the surface of the water in the bucket. 
