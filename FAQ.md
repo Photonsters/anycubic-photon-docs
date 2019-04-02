@@ -18,21 +18,21 @@ The hardware, software and cosmetic differences are:
 - New Anycubic slicing software instead of Chitu CBD-Tech slicer. Photon-S sliced files cannot be printed on original Photon, and vice versa. 
 - Plastic shell/chassis instead of all metal stamped steel chassis. 
 - Two column guide sliders on the same central Z lead screw instead of a single column slide. (Note that these are just simple sliders on guide rods, not recirculating bearing linear rails.) 
-- Exposure unit consists of a 38W 4X7 UV LED array instead of a 25W 4X4 UV LED source. 
+- Exposure unit consists of a 38W 4X7 UV LED lensed array instead of a 25W 4X4 UV LED reflector cone source. 
 - Dual "filtration" units instead of a single unit. 
 - 10mm taller print capability on the Z axis. 
 - Build plate surface is machined flat after texture blasting and blue anodizing, otherwise exactly the same. 
-- Most other components such as LCD, vat, build plate, carriage arm, etc., remain exactly the same. 
+- Most other components such as the LCD, vat, build plate, carriage arm, etc., remain exactly the same. 
 
 Disassembly and [internal photos (FB link)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1609289172549052/) of the Photon-S by Michael Morairty. 
 
 ### I've just bought a Photon, what accessories should I get? 
-- [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion, while usable, is not the optimal 405nm wavelength required).  
+- [What you need before printing](http://makerfun3d.com/toolbox-resin-printers) by Kevin Rank. (Note that the UV curing suggestion, while usable, is not of the optimal 405nm wavelength required).  
 - [Here's a video](https://youtu.be/OqJIF1E7MIg) showing some of the basic accessories needed, plus how to filter resin and vat cleaning by Garret Bertrand. 
-- You will also need a known good branded USB stick, formatted FAT32. **The included usb stick is known to be problematic and prone to failure.** Transfer all the files from it to your known good USB stick and use that one instead. 
+- You will also need a known good branded USB stick (beware of fakes), formatted FAT32. **The included usb stick is known to be problematic and prone to eventual failure.** Transfer all the files from it to your known good USB stick and use that instead. 
 
 ### I've just received my new Photon, should I update the firmware first? 
-No, it's not necessary. In fact, your new printer may have newer firmware than what's available on Anycubic's website. 
+No, it's not necessary, and not recommended at all. In fact, your new printer may have newer firmware than what's available on Anycubic's website. 
 
 **Do not update** if your Photon is working well, besides a chance of bricking your new printer there are no significant extra features or benefits in doing so. 
 
@@ -65,7 +65,7 @@ No, it's not necessary. In fact, your new printer may have newer firmware than w
 ## BUILD PLATE TRAMMING (LEVELING) 
 
 ### What's this leveling that I keep hearing about?
-Incorrect build plate tramming (levelling) is the number one reason for print failures. It is a statistical fact, most of the issues posted on the [Anycubic Photon DLP Printer Owners Group](https://www.facebook.com/groups/1194619320682708) invariably traces back to imperfect build plate leveling as the root cause. 
+Incorrect build plate tramming (levelling) is the number one reason for print failures. It is a statistical fact, most of the issues posted on the [Anycubic Photon Printer Owners Group](https://www.facebook.com/groups/1194619320682708) invariably traces back to imperfect build plate leveling as the root cause. 
 
 - **Make sure you take the time to level your build plate correctly.** Do not rush this step in your hurry to start printing.
 - Once your build plate is leveled correctly and locked down tight, you do not have to relevel it anymore unless you make other adjustments that affect the build plate. 
@@ -73,10 +73,10 @@ Incorrect build plate tramming (levelling) is the number one reason for print fa
 - Do not confuse build plate tramming (leveling) with adjusting the 4 legs of the machine.
 
 ### So how do I tram (level) my build plate? 
-It is recommended that you use the official method aka paper method. If you're having trouble getting your build plate level then try the Flint Read method. 
+It is highly recommended that you use the official method aka paper method. Only try the Flint Read method if you're having trouble getting your build plate level with the paper method. 
 - [Paper method (official) by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 - [Paper method by Nick Williams - Youtube](https://youtu.be/qEaNVfT8y9w)
-- [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try this method as you may accidently scratch the FEP.)  
+- [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try this method as you could scratch the FEP film.)  
 
 Important notes: 
 - Press Home to bring the build plate down before starting to make build plate leveling adjustments. If you do not Home first, it will not set Z=0 correctly. 
@@ -84,15 +84,15 @@ Important notes:
 - Remember that Z=0 is not the same as Home.
 
 ### How tight to the paper should I tram/level the build plate?
-If you are using the recommended paper method, the paper should be tight enough to pull but not be able to push, the build plate must grip the paper evenly. 
+If you are using the recommended paper method, the paper should be tight enough to pull out with even resistance but not able to push back in. Remember that the build plate must grip the paper evenly. 
 
-**Remember** that as you tighten the setting (grub) screw it will move the plate down a tiny fraction more. You will find that you cannot pull the paper anymore, so you should raise / backoff the build plate level by 0.1mm increments until the plate is gripping the paper with even resistance, and that you can pull but not push it back. Then only set Z=0.
+**Remember** that as you tighten the setting (grub) screw it will move the plate down a tiny fraction more. You will find that you cannot pull the paper anymore, so you should raise / backoff the build plate level by 0.1mm (100um) until the plate is gripping the paper with even resistance, and that you can pull but not push it back. Then only set Z=0.
 - [Example leveling video - Youtube](https://youtu.be/Y0bz5nYwll0)
 - [Tight but not too tight example - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Detailed Anycubic leveling instructions - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 
 ### What type of paper should I use to level the build plate? 
-Just regular photocopy paper, they're generally around 80gsm, but any paper 70 ~ 120gsm should work too. Don't overthink it. 
+Just regular photocopy paper, they're generally around 80gsm, but any paper 70 ~ 120gsm should work too. Just ensure that the paper is clean and not creased or folded. 
 
 ### I tried to tram the build plate but one side is tighter than the other? 
 Using your fingers, push the opposite side of the plate when tightening the grub screw. Alternatively, if you're using the paper method, you can slip another strip of paper to the side which is too tight and then tighten the screw. You may need to try this a few times to get perfect level. 
@@ -102,15 +102,21 @@ Using your fingers, push the opposite side of the plate when tightening the grub
 - The screws holding the build plate assembly together may be loose. [Disassemble, check and retighten.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
 
 ### I set Z=0 but when I press Home the position is different?
-Home is not Z=0! Home is fixed, it is the hardware Z endstop, unless you change it physically, it will always be the same position. Z=0 is the offset distance between Home and your screen, you define it when you level the build plate, that's why you have to Home first then move the platfrom, then set Z=0. 
+**Home is not Z=0!** Home is fixed, it is the hardware Z endstop, unless you change it physically, it will always be the same position. Z=0 is the offset distance between Home and your screen, you define it when you level the build plate, that's why you have to Home first then move the platfrom, then set Z=0. 
 
 When a new Z=0 is specified, pressing Home will NOT move the platform to the position you specified, it will be the start position when a real print actually starts. You can check it by removing the vat and starting a print. (Thanks to Philippe Maegerman for the original explanation.) 
 
 ### Do I have to relevel my build plate after every print? 
-No, it is absolutely not necessary. If you have tightened and securely screwed and locked down the build plate tight it will remain in place and correctly leveled. Make sure you have really tightened the setting (grub) screw to lock the build plate. You only need to relevel your build plate if it has slipped or been knocked or you made changes that affect the Z=0 position. 
+No, it is absolutely not necessary. If you have correctly leveled and then tightened and securely screwed and locked down the build plate tight, it will remain in place and correctly leveled for a very long time. 
+
+Make sure you have really tightened the setting (grub) screw to lock the build plate. You only need to relevel your build plate if it has slipped or been knocked or you made changes that affect the Z=0 position. 
 
 ### Should I sand my build plate?
-This is absolutely **NOT** necessary at all. Contrary to all the claims and misinformation being repeated that sanding away the blue anodized colour solves adhesion problems, it does not. When you have correctly leveled, the blue anodized aluminium surface of the stock build plate provides plenty of texture to ensure good adhesion. Adhesion is so good that some owners have difficulty removing prints. Sanding is the very last resort that you should attempt, and only when you have verified that the build plate surface is not flat. 
+This is absolutely **NOT NECESSARY** at all. Contrary to all the claims and misinformation being repeated that sanding away the blue anodized colour solves adhesion problems, it does not. 
+
+When you have correctly leveled, the blue anodized aluminium surface of the stock build plate provides plenty of texture to ensure good adhesion. Adhesion is so good that some owners have difficulty removing prints. 
+
+*Sanding is the very last resort that you should attempt, and only when you have verified that the build plate surface is not flat.*
 
 ![texture](https://github.com/Photonsters/anycubic-photon-docs/blob/master/temp/rsz_plate_texture.png) 
 
@@ -118,19 +124,23 @@ This is absolutely **NOT** necessary at all. Contrary to all the claims and misi
 That's not true at all. Once again, it is not about the texture (there's already plenty on the stock blue build plate), it's about build plate flatness. If your build plate is leveled correctly and its surface is flat, you will have good print adhesion. Resin will adhere even to glass as you can see in [this video](https://youtu.be/vRxkcX8kPAc) by Photocentric. 
 
 ### I'm sure my build plate is level but I still can't get a print! 
-Did you just switch resins? Some resins such as Bluecast or Anycubic Maroon are notoriously difficult to obtain adhesion. Increase bottom exposures and test. 
+Did you just switch resins? Did you use an unsuitable resin formulated for SLA Laser or DLP printers? Did you mix the resin properly before use? Is the resin expired? Is it too cold? There are many factors that may affect print adhesion. Keep testing to find the root causes for your plate adhesion issues. 
 
-For regular resins, increasing bottom exposures should enable plate adhesion. For speciality resins such as Bluecast, etc., they recommend to use a primer coat on the plate. Primers are basically just uv glue and can be found online cheaply. You can also try LOCA (Liquid Optically Clear Adhesive), 
+Some resins such as Anycubic Maroon are notoriously difficult to obtain adhesion. This is due to their formulation. Increase bottom exposures by 10 second increments and keep testing. 
 
-If you're positively sure it's not the resin, and you've got your build plate leveled perfectly, and it's not warped or defective, and you still can't get a print or some parts didn't stick to the plate, [try following these steps very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#my-prints-just-wont-stick)
+Castable and other speciality resins such as Bluecast or Senertek generally need longer bottom exposures or the help of a primer coat. Primers are basically just uv glue and can be found online cheaply. You can also try LOCA (Liquid Optically Clear Adhesive), 
+
+For the majority of regular modelling resins, increasing bottom exposures should enable plate adhesion. Do not pay for uv glues marketed as miracle cure adhesion bonding concoctions, 
+
+If you're positively sure it's not the resin or other factors mentioned above, and you've got your build plate leveled perfectly, and it's not warped or defective, and you still can't get a print or some parts didn't stick to the plate, [try following these steps very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#my-prints-just-wont-stick)
 
 ### I'm giving up, my prints just won't stick! 
-You may have a warped or defective build plate, the surface may not be true and flat. Check for flatness by placing a steel rule across the build plate, against a light source, check if there are any uneven gaps showing. 
+You may have a warped or defective build plate, the plate surface may not be true and flat. Check for flatness by placing a steel rule across the build plate, against a light source, check if there are any uneven gaps showing. 
 
 It would be more accurate to check by making an imprint. Lightly coat the build plate surface with engineer's blue dye or evenly roll a thin layer of printmaking ink. Place a sheet of paper on a known flat surface such as plate glass or polished granite /marble, then press the build plate on the paper and check the imprint for blank spots. 
 
 ### My build plate is defective and not flat, how do I fix this? 
-If you've verified that the build plate surface is not flat, you can try to achieve a true flat surface by a process termed [lapping](https://www.wikipedia.org/wiki/Lapping). Unfortunately, most people will not have the tools to achieve this. Try bringing your build plate to a machine shop nearby, they'll know what to do. 
+If you've verified that the build plate surface is not flat, you can try to achieve a true flat surface by a process termed [lapping](https://www.wikipedia.org/wiki/Lapping). Unfortunately, most people will not have the tools or skills to achieve this. Try bringing your build plate to a machine shop nearby, they'll know what to do. 
 
 If you want to try this at home, do not simply go rubbing the build plate with sandpaper, you'll probably make things worse. Proceed only if you have the necessary tools and know-how to achieve a true flat surface. 
 
@@ -138,7 +148,9 @@ If you want to try this at home, do not simply go rubbing the build plate with s
 
 When you receive your new Photon, it will come with an aluminium vat frame with a FEP film already installed. Check that the film is tight by lightly tapping with your finger. If it is tensioned correctly it should sound just like a snare drum. 
 
-Sometimes the screws may seem loose, but it may be tensioned correctly from the factory. Do not simply tighten the screws or you may then over tension the FEP. If tapping the FEP film does not sound correct,  it is likely loose, then simply tighten the screws till it sounds like a snare drum. 
+Sometimes the screws may seem loose, but it may be tensioned correctly from the factory. Do not simply tighten the screws or you may then over tension the FEP. 
+
+If tapping the FEP film does not sound correct,  it is likely loose, then simply tighten the screws till it sounds like a snare drum. 
 - [Official Anycubic instructions - Youtube](https://youtu.be/Sdxf9mf7-ns) 
 
 ### How tight exactly should the FEP be tensioned? 
@@ -152,7 +164,7 @@ When your print peels from the FEP film, there are a lot of suction forces invol
 Here is a [video](https://www.facebook.com/groups/AnycubicPhoton/permalink/1583187968492506) posted on the FB owners group showing the tremendous peel forces involved. 
 
 ### Should I coat my FEP film?
-Not advisable, FEP (fluorinated ethylene propylene, invented by DuPont, sold under the brandname Teflon FEP), is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
+No, FEP (fluorinated ethylene propylene, invented by DuPont, sold under the brandname Teflon FEP), is already one of the most slippery materials known to science. Coating your FEP film with a hydrophobic substance like Rain-X may in fact cause bad quality prints.
 
 ### Why is my FEP film so cloudy or hazy? 
 When new, the film is clear. But it is easily scratched by handling or cleaning. Use soft tissue to soak resin when cleaning up the vat, do not aggressively wipe the film as even tissue will scratch it. These micro scratches cause the film to go cloudy. Buffing the film with microfibre cloth will restore some clarity. It is important that the film is kept clear to ensure sharp and detailed prints. 
@@ -188,7 +200,7 @@ If you're new to resin printing, the included slicer is best to start with. Once
 Every resin behaves differently, there are no best settings that will work for everyone and every machine. For a quick start, you can refer to the [community resin exposure settings.](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0) You will need to test and adjust from there to find the best settings applicable to you. 
 
 ### What do the print settings mean?
-This is assuming you're using the Anycubic slicer program (rebadged Chitu slicer v.1.3.6) that is included on the USB stick. Other slicers may use different terminology but they're functionally the same. If you're just starting out, it's highly recommended you use the Anycubic slicer. It's basic, won't overwhelm you with bells and whistles, and just works. 
+This is assuming you're using the Anycubic Photon slicer program (rebadged Chitu slicer v.1.3.6) that is included on the USB stick. Other slicers may use different terminology but they're functionally the same. If you're just starting out, it's highly recommended you use the Anycubic slicer. It's basic, won't overwhelm you with bells and whistles, and just works. 
 
 #### Bottom Exposures (Bottom layers): 
 This is how long the UV light will turn on to set the layer of resin that is on your build plate for the first few layers (it's extra long to give the resin the best chance to stick to your plate and form a super hard base to help keep your part from wobbling and rocking about.) For the sample green resin at 0.05mm layers, the exposure for bottom layers is 60 seconds. 
@@ -288,7 +300,7 @@ There are many resins available and are formulated for various usage. Most are g
 Here is a list of some [resin strength tests.](https://docs.google.com/spreadsheets/d/1JlqLSi4sxZLdA-hHCp6Ow4isoGMNI7nlE9Nmbj1ajWk/edit#gid=0)
 
 ### My prints just won't stick? 
-This is almost always a build plate tramming issue, make sure your leveling is 100% correct before attempting these other solutions. 
+This is almost always a build plate leveling (tramming) issue, make sure your leveling is 100% correct before attempting these other solutions. 
 - Clean the build plate carefully with IPA or other solvents. Dry before use. 
 - Shake your resin in bottle well before using. Resin already in the vat may have settled and need to be stirred. 
 - Preheat or warm the resin, you can use a hair dryer on most bottles to gently heat the resin to 20~30°C while swilling. 
@@ -298,7 +310,7 @@ This is almost always a build plate tramming issue, make sure your leveling is 1
 - Did you remember to set Z=0?
 - Build plate is too high or low, this is caused by incorrectly seated ball joint screws. Disassemble, clean and retighten the build assembly. [See disassembly guide below.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
 - The FEP film may be too tight or too loose. New vats sometimes comes with loosened screws, but they could be correctly tensioned. Adjust to the [correct tension](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#how-tight-exactly-should-the-fep-be-tensioned), or replace. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)) ([how to tighten](https://youtu.be/Sdxf9mf7-ns)) and ([how to replace](https://youtu.be/DLi3chV43LQ)) 
-- You may be using resin formulated for SLA laser printers. Try using a known resin like the sample green. Note that some resins like maroon or yellow are very difficult to work with. 
+- You may be using resin formulated for SLA laser or DLP printers. Try using a known resin like the sample green. Note that some resins like maroon or yellow are very difficult to work with. 
 - Are you using a speciality resin such as Bluecast? You may need a primer coat. Check manufacturer's recommendations. 
 - If all else fails, check your plate level once again! 
 - If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. [Check that the plate surface is flat.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#im-giving-up-my-prints-just-wont-stick) 
@@ -306,7 +318,7 @@ This is almost always a build plate tramming issue, make sure your leveling is 1
 ### The bottom layers stick but my prints didn't form/fell off at the supports?
 If your prints have good bottom adhesion but fail at the supports, this is generally due to incorrect exposure setting for your normal layers. As a first step, try increasing exposure. 
 - Try increasing normal exposures by a second or two. 
-- You may need to increase support tip depth in your slicer settings. 
+- You may need to increase support tip size and depth in your slicer settings. 
 - A mix of medium and heavy supports will help, and/or increase support density. 
 - It can also be due to the orientation of your model. Try to angle your model and minimise large surface sections. 
 - Is your model a large solid? Hollowing the model is recommended. 
@@ -438,4 +450,4 @@ According to the warranty terms stated on Anycubic's website, the [standard warr
 ## ACKNOWLEDGMENTS
 
 ### Where did all this information come from? 
-Most of the information, insights, tips and tricks were gleaned from posts by the helpful members of the [Anycubic Photon Printer Owners Group](https://www.facebook.com/groups/1194619320682708), verified and curated by the Photonsters team. Special thanks goes out to Flint Read for his invaluable "Photon Guide & Tips" from which formed the core of this FAQ. 
+Most of the information, insights, tips and tricks were gleaned from posts by the helpful members of the [Anycubic Photon Printer Owners Group](https://www.facebook.com/groups/1194619320682708), tested, verified and curated by the Photonsters team. Special thanks goes out to Flint Read for his invaluable "Photon Guide & Tips" from which formed the initial core of this FAQ. 
