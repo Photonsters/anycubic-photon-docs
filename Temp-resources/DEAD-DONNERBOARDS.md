@@ -1,4 +1,6 @@
-**Jack Waterfall - B+LCD**
-Board image died after trying out the wronf LCD screen replacemente SX04
+**JW - B+LCD**
+Board image died after trying out the wrong LCD screen replacemente SX04
 
-**Paul Churchill**
+**PC - B**
+Board USB works bad or dosent work at all
+
