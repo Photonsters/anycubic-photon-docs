@@ -379,7 +379,7 @@ Damp a piece of cloth or tissue with IPA then lay it on the cured resin. Wait a 
 ### How long can I keep the resin in the vat?
 It depends on environmental factors and type/brand of resin, typically if the resin is kept out of light and moisture/dirt it may sit in the vat for a few weeks. Clear resins tend to sit better, opaque resins will need more stirring before use to mix the pigments back. 
 - Check for loose cured resin or stuck resin, you will need to clean that out. 
-- Cover the vat, you can cut a piece of cardboard that fits over the vat, or print one out on an FDM printer. Here is a good vat cover. https://www.thingiverse.com/thing:2837171
+- Cover the vat, you can cut a piece of cardboard that fits over the vat, or print one out on an FDM printer. Here is a good vat cover [found on Thingiverse.]( https://www.thingiverse.com/thing:2837171)
 - Before printing, carefully stir the resin for 1 - 2 minutes with the plastic spatula, be careful not to scratch the FEP screen.
 - Do not leave the build plate hanging with uncured resin, take it out and clean with IPA, leave it out until you are ready to print, this will lessen the weight on the single lead screw thus prevent deformation and potential Z wobble. 
 
