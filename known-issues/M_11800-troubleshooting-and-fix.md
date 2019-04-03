@@ -16,6 +16,6 @@ Try these steps one by one ;
 
 - If not, try another PSU. 12V 6A or higher amps. Possibly power issues causing udisk unmount. 
 
-- If not, nothing else you can do unless you're willing to open it up and dive into troubleshooting cold solder joints or driver voltage, etc. 
+- If not, there's nothing else you can do unless you're willing to open it up and dive into troubleshooting cold solder joints, C10 filter capacitor, or driver voltage, etc. 
 
 If the above didn't fix the problem, then you'll have to contact your vendor or Anycubic Support. It is most likely a mainboard issue.
