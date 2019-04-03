@@ -112,7 +112,9 @@ No, it is absolutely not necessary. If you have correctly leveled and then tight
 Make sure you have really tightened the setting (grub) screw to lock the build plate. You only need to relevel your build plate if it has slipped or been knocked or you made changes that affect the Z=0 position. 
 
 ### Should I sand my build plate?
-This is absolutely **NOT NECESSARY** at all. Contrary to all the claims and misinformation being repeated that sanding away the blue anodized colour solves adhesion problems, it does not. 
+Are you using speciality castable resins? If yes, see below. 
+
+If not, then it is absolutely **NOT NECESSARY** at all. Contrary to all the claims and misinformation being repeated that sanding away the blue anodized colour solves adhesion problems, it does not. 
 
 When you have correctly leveled, the blue anodized aluminium surface of the stock build plate provides plenty of texture to ensure good adhesion. Adhesion is so good that some owners have difficulty removing prints. 
 
@@ -120,17 +122,22 @@ When you have correctly leveled, the blue anodized aluminium surface of the stoc
 
 ![texture](https://github.com/Photonsters/anycubic-photon-docs/blob/master/temp/rsz_plate_texture.png) 
 
+### I'm using Bluecast but my prints won't stick to the build plate. 
+Speciality castable resins such as Bluecast are monomer-free formulations. In this situation, the anodized surface of the build plate inhibits adhesion of the oligomers used. 
+
+Bluecast recommends the use of a primer coat as a solution. In the Bluecast Users Group, most people recommend to sand the build plate as well. Do note that raw aluminium will self anodise in time, so periodic sanding will be necessary. 
+
 ### But I've been told sanding to make the build plate surface rougher solves adhesion problems? 
-That's not true at all. Once again, it is not about the texture (there's already plenty on the stock blue build plate), it's about build plate flatness. If your build plate is leveled correctly and its surface is flat, you will have good print adhesion. Resin will adhere even to glass as you can see in [this video](https://youtu.be/vRxkcX8kPAc) by Photocentric. 
+That's not true at all. Once again, it is not about the texture (there's already plenty on the stock blue build plate), it's about build plate flatness and the resin formulation. If your build plate is leveled correctly and its surface is flat, and you're not using speciality monomer-free resin such as Bluecast, you will have good print adhesion. Resin will adhere even to glass as you can see in [this video](https://youtu.be/vRxkcX8kPAc) by Photocentric. 
 
 ### I'm sure my build plate is level but I still can't get a print! 
-Did you just switch resins? Did you use an unsuitable resin formulated for SLA Laser or DLP printers? Did you mix the resin properly before use? Is the resin expired? Is it too cold? There are many factors that may affect print adhesion. Keep testing to find the root causes for your plate adhesion issues. 
+Did you just switch resins? Did you use an unsuitable resin formulated for SLA Laser or DLP printers? Are you using speciality castable resins? Did you mix the resin properly before use? Is the resin expired? Is it too cold? There are many factors that may affect print adhesion. Keep testing to find the root causes for your plate adhesion issues. 
 
 Some resins such as Anycubic Maroon are notoriously difficult to obtain adhesion. This is due to their formulation. Increase bottom exposures by 10 second increments and keep testing. 
 
-Castable and other speciality resins such as Bluecast or Senertek generally need longer bottom exposures or the help of a primer coat. Primers are basically just uv glue and can be found online cheaply. You can also try LOCA (Liquid Optically Clear Adhesive), 
+Castable and other speciality resins such as Bluecast or Senertek generally need longer bottom exposures and the help of a primer coat. Primers are basically just uv glue and can be found online cheaply. You can also try LOCA (Liquid Optically Clear Adhesive), 
 
-For the majority of regular modelling resins, ensuring a leveled build plate and increasing bottom exposures should enable plate adhesion. Do not pay for uv glues marketed as miracle cure adhesion bonding concoctions. 
+For the vast majority of regular modelling resins, ensuring a leveled build plate and increasing bottom exposures should enable plate adhesion. Do not pay for uv glues marketed as miracle cure adhesion bonding concoctions. 
 
 If you're positively sure it's not the resin or other factors mentioned above, and you've got your build plate leveled perfectly, and it's not warped or defective, and you still can't get a print or some parts didn't stick to the plate, [try following these steps very, very carefully.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#my-prints-just-wont-stick)
 
