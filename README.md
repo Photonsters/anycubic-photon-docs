@@ -121,7 +121,8 @@ Some of the slicers that are available to date.
 - [Anycubic Photon Z Axis Modification](https://www.facebook.com/groups/AnycubicPhoton/permalink/1599717403506229/) 
 - [IPA Cleaner Station with stir Mixer](https://www.facebook.com/groups/AnycubicPhoton/permalink/1604847169659919/)
 - [IPA Classic Cleaning Station](https://www.facebook.com/permalink.php?story_fbid=10157258442468680&id=651553679) 
-- [Pi Zero W WiFi Thumb Drive](https://www.facebook.com/groups/AnycubicPhoton/permalink/1610232152454754/) 
+- [Pi Zero W WiFi Thumb Drive](https://www.facebook.com/groups/AnycubicPhoton/permalink/1610232152454754/)
+- [Dual Rail Z Axis - skipbaker ](https://www.thingiverse.com/thing:3539028/files)
 
 ## Social media groups
 - [Anycubic Photon LCD Printer Owners Group](https://www.facebook.com/groups/AnycubicPhoton/?ref=group_header) on Facebook, with over 10,000 members. 
