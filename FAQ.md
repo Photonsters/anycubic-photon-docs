@@ -125,7 +125,7 @@ When you have correctly leveled, the blue anodized aluminium surface of the stoc
 ### I'm using Bluecast but my prints won't stick to the build plate. 
 Speciality castable resins such as Bluecast are monomer-free formulations. In this situation, the anodized surface of the build plate inhibits adhesion of the oligomers used. 
 
-Bluecast recommends the use of a primer coat as a solution. In the Bluecast Users Group, most people recommend to sand the build plate as well. Do note that raw aluminium will self anodise in time, so periodic sanding will be necessary. 
+Bluecast recommends the use of a primer coat as a solution. In the Bluecast Users Group on Facebook, [a post by Bluecast](https://www.facebook.com/groups/Bluecastusers/permalink/1017917775066876/)  recommends to sand the build plate as well. Do note that raw aluminium will self anodise in time, so periodic sanding may be necessary. 
 
 ### But I've been told sanding to make the build plate surface rougher solves adhesion problems? 
 That's not true at all. Once again, it is not about the texture (there's already plenty on the stock blue build plate), it's about build plate flatness and the resin formulation. If your build plate is leveled correctly and its surface is flat, and you're not using speciality monomer-free resin such as Bluecast, you will have good print adhesion. Resin will adhere even to glass as you can see in [this video](https://youtu.be/vRxkcX8kPAc) by Photocentric. 
@@ -135,7 +135,7 @@ Did you just switch resins? Did you use an unsuitable resin formulated for SLA L
 
 Some resins such as Anycubic Maroon are notoriously difficult to obtain adhesion. This is due to their formulation. Increase bottom exposures by 10 second increments and keep testing. 
 
-Castable and other speciality resins such as Bluecast or Senertek generally need longer bottom exposures and the help of a primer coat. Primers are basically just uv glue and can be found online cheaply. You can also try LOCA (Liquid Optically Clear Adhesive), 
+Castable and other speciality resins such as Bluecast generally need longer bottom exposures and the help of a primer coat. Primers are basically just uv glue and can be found online cheaply. You can also try LOCA (Liquid Optically Clear Adhesive), 
 
 For the vast majority of regular modelling resins, ensuring a leveled build plate and increasing bottom exposures should enable plate adhesion. Do not pay for uv glues marketed as miracle cure adhesion bonding concoctions. 
 
@@ -318,7 +318,7 @@ This is almost always a build plate leveling (tramming) issue, make sure your le
 - Build plate is too high or low, this is caused by incorrectly seated ball joint screws. Disassemble, clean and retighten the build assembly. [See disassembly guide below.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#why-does-my-build-plate-move--slip-during-a-print) 
 - The FEP film may be too tight or too loose. New vats sometimes comes with loosened screws, but they could be correctly tensioned. Adjust to the [correct tension](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#how-tight-exactly-should-the-fep-be-tensioned), or replace. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1553474471463856/)) ([how to tighten](https://youtu.be/Sdxf9mf7-ns)) and ([how to replace](https://youtu.be/DLi3chV43LQ)) 
 - You may be using resin formulated for SLA laser or DLP printers. Try using a known resin like the sample green. Note that some resins like maroon or yellow are very difficult to work with. 
-- Are you using a speciality resin such as Bluecast? You may need a primer coat. Check manufacturer's recommendations. 
+- Are you using a speciality monomer-free resin such as Bluecast? You may need a primer coat. Check manufacturer's recommendations. 
 - If all else fails, check your plate level once again! 
 - If you're 110% sure all the above has been tried and didn't work, your build plate may be defective. [Check that the plate surface is flat.](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md#im-giving-up-my-prints-just-wont-stick) 
 
