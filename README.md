@@ -122,7 +122,12 @@ Some of the slicers that are available to date.
 - [IPA Cleaner Station with stir Mixer](https://www.facebook.com/groups/AnycubicPhoton/permalink/1604847169659919/)
 - [IPA Classic Cleaning Station](https://www.facebook.com/permalink.php?story_fbid=10157258442468680&id=651553679) 
 - [Pi Zero W WiFi Thumb Drive](https://www.facebook.com/groups/AnycubicPhoton/permalink/1610232152454754/)
-- [Dual Rail Z Axis - skipbaker ](https://www.thingiverse.com/thing:3539028/files)
+
+**Z AXIS MODS**
+- [Dual Rail Solid - skipbaker](https://www.thingiverse.com/thing:3539028/files)
+- [Dual Rail Flanges - PhotonHebs](https://www.thingiverse.com/thing:3473868/files)
+- [Dual MGN9H Printed - Beezen](https://www.thingiverse.com/thing:3504872)
+- [Dual Linear Bearings - danroh](https://www.thingiverse.com/thing:3490431)
 
 ## Social media groups
 - [Anycubic Photon LCD Printer Owners Group](https://www.facebook.com/groups/AnycubicPhoton/?ref=group_header) on Facebook, with over 10,000 members. 
