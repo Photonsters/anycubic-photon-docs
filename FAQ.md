@@ -355,7 +355,7 @@ This is a limitation of the technology but can be largely mitigated and overcome
 Resin manufacturers universally recommend 91% Isopropyl Alcohol (IPA) or 95% Ethanol. Other solvents may be used but generally not recommended. Do not pay for overpriced cleaning solutions marketed for 3D resin printers. Here is a [solvents compatibility chart]( https://support.formlabs.com/s/article/Solvent-Compatibility?language=en_US) published by Formlabs for their resins which can be used as a general guide for most resins. 
 
 ### How long do I clean my parts in solvents? 
-- For as little time as possible to get your prints cleaned of uncured resin. Do not leave your prints to soak. Some manufacturers advise no longer than 30 seconds. In a post, Formlabs mentioned that prolonged exposure to solvents may make some resins swell. 
+- For as little time as possible to get your prints cleaned of uncured resin. Do not leave your prints to soak. Some manufacturers advise no longer than 30 seconds. In a post, Formlabs mentioned that prolonged exposure to solvents may make some resins swell from absorbtion. In a related article, Ameralabs [tested prolonged soaking](https://ameralabs.com/blog/can-ipa-cause-cracks-sla-3d-prints/) of parts in IPA and found consequent shrinkage and cracking. 
 
 ### How do I clean the LCD?
 You're not actually cleaning the LCD, there's a thin piece of protective tempered glass on top of the actual LCD screen. 
