@@ -349,7 +349,10 @@ This is a limitation of the technology but can be largely mitigated and overcome
 ## CLEANING 
 
 ### How do I clean my prints? 
-- One popular method is the two tub system. Fill both containers with 91% Isopropyl Alcohol (IPA) or other solvents such as 95% Ethanol. Drop the print into the first tub and swirl. Use a soft brush for hard to reach parts, holes etc. Then dunk the part in the second tub of solvent and swirl clean. Remove then dry thoroughly before uv curing. 
+
+The recommended method is the two tub system. Fill both containers with 91% Isopropyl Alcohol (IPA) or other solvents such as 95% Ethanol. Although not necessary, heating the first tub to around 45°C helps dissolve the resin faster. 
+
+Drop the print into the first tub and swirl fit several seconds. Use a soft brush for hard to reach parts, crevices, etc. Then dunk the part in the second tub of solvent and swirl clean. Do not soak your prints in the tub. Remove then dry thoroughly (blow drying with compressed air works best) before uv curing. 
 
 ### What solvents should I use to clean my prints? 
 Resin manufacturers universally recommend 91% Isopropyl Alcohol (IPA) or 95% Ethanol. Other solvents may be used but generally not recommended. Do not pay for overpriced cleaning solutions marketed for 3D resin printers. Here is a [solvents compatibility chart]( https://support.formlabs.com/s/article/Solvent-Compatibility?language=en_US) published by Formlabs for their resins which can be used as a general guide for most resins. 
