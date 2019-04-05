@@ -140,6 +140,7 @@ Some of the slicers that are available to date.
 Use these resources to test how your Photon is printing, and to remove guesswork from calculating resin exposure times.
 - [X3msnake's Resin Exposure Range Finder](https://github.com/altLab/photon-resin-calibration)
 - [ANYCUBIC Photon calibration file By Ilja](https://www.myminifactory.com/object/3d-print-anycubic-photon-calibration-file-70127)
+- [Photonia Pixel Perfect Range Tester](https://www.facebook.com/groups/AnycubicPhoton/permalink/1567794123365224/) 
 - [Photon LCD mask Boundary Checker](https://www.thingiverse.com/thing:3345921) - A printable test for your mask boundaries, which may vary from printer to printer.
 - [Bed of nails UV coverage test](https://www.thingiverse.com/thing:2852334) - A quick test print to check for even UV coverage of your build plate. Useful for full plate prints or models placed close to edges. 
 - [Z Wobble quick test](https://www.facebook.com/groups/AnycubicPhoton/permalink/1507962279348409/) - A quick test for Z wobble, or other planar surface anomalies. 
