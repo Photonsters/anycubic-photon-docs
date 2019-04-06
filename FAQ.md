@@ -133,9 +133,9 @@ That's not true at all. Once again, it is not about the texture (there's already
 ### I'm sure my build plate is level but I still can't get a print! 
 Did you just switch resins? Did you use an unsuitable resin formulated for SLA Laser or DLP printers? Are you using speciality castable resins? Did you mix the resin properly before use? Is the resin expired? Is it too cold? There are many factors that may affect print adhesion. Keep testing to find the root causes for your plate adhesion issues. 
 
-Some resins such as Anycubic Maroon are notoriously difficult to obtain adhesion. This is due to their formulation. Increase bottom exposures by 10 second increments and keep testing. 
+Some resins such as Anycubic Maroon or Monocure Rapid are known to be notoriously difficult to obtain adhesion. This is due to their formulation. Try other resins, or increase bottom exposures by 10 second increments and keep testing. 
 
-Castable and other speciality resins such as Bluecast generally need longer bottom exposures and the help of a primer coat. Primers are basically just uv glue and can be found online cheaply. You can also try LOCA (Liquid Optically Clear Adhesive), 
+Castable and other speciality resins such as Bluecast (monomer-free) generally need longer bottom exposures and the help of a primer coat. Primers are basically just uv glue and can be found online cheaply. You can also try LOCA (Liquid Optically Clear Adhesive), 
 
 For the vast majority of regular modelling resins, ensuring a leveled build plate and increasing bottom exposures should enable plate adhesion. Do not pay for uv glues marketed as miracle cure adhesion bonding concoctions. 
 
