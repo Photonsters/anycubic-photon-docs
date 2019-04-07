@@ -114,6 +114,7 @@ Some of the slicers that are available to date.
 ## User mods (on Facebook)
 - [Cheap and easy Heater, PTC Fan and temperature controller](https://www.facebook.com/groups/AnycubicPhoton/permalink/1550627681748535/)
 - [PTC Heater and temperature controller V2](https://www.facebook.com/permalink.php?story_fbid=10157191752823680&id=651553679)
+- [Magnetic Heater remix with Hour Meter](https://www.thingiverse.com/thing:3412516?fbclid=IwAR2-71wrzMquMxCCqnwgRDSsMIfEYvs9tsWgYu_tbYqgjgc3luOuuhr0QFU) 
 - [Printed Universal resin drainer](https://www.facebook.com/groups/AnycubicPhoton/permalink/1508547859289851/)
 - Gangsta resin drainers [1](https://www.facebook.com/groups/AnycubicPhoton/permalink/1376704139140891/), [2](https://www.facebook.com/groups/AnycubicPhoton/search/?query=gangsta%20drainer&epa=SEARCH_BOX)
 - [Red & Black Acrylic windows with cad files](https://www.facebook.com/groups/AnycubicPhoton/permalink/1367548836723088/)
