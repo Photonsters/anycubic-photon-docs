@@ -182,7 +182,7 @@ If you take care of it, it will not need to be replaced for months. FEP film nee
 ### How do I replace the FEP film? 
 Watch the video by Anycubic for a detailed step by step. It is important to note one very important omission in that video: some replacement FEP film may come sandwiched between two layers of protective plastic. These have to be peeled off before the FEP film can be used. 
 - [Official Anycubic instructions - Youtube](https://youtu.be/DLi3chV43LQ) 
-— [Step by step picture tutorial - Google album](https://photos.google.com/share/AF1QipN3RLrpWpYn73-JfMIi3K09Fe8I2Nkf3PzbdlZNXSB5ElNKtLPk8Ap745EQ3rQylw?key=RFF1a1diNmQ1dUdFNXhzOWs2VU9YM083R0cxTVBn) 
+- [Step by step picture tutorial - Google album](https://photos.google.com/share/AF1QipN3RLrpWpYn73-JfMIi3K09Fe8I2Nkf3PzbdlZNXSB5ElNKtLPk8Ap745EQ3rQylw?key=RFF1a1diNmQ1dUdFNXhzOWs2VU9YM083R0cxTVBn) 
 - [Check FEP for protective layers - FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1518671824944121/) (Thanks Jannick) 
 
 ### How do I test if my FEP film has protective plastic on it? 
