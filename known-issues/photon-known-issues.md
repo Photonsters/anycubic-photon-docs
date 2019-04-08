@@ -158,7 +158,7 @@ From Anycubic engineer, "this means USB is not plugged in". [Troubleshooting and
 USB read problem, Replace with new good branded USB stick, formatted FAT32.
 
 #### T_100
-Screen phisicall connection problem [YoutubeVideo](https://www.youtube.com/watch?v=b4NgkbUrcwc&t=302s)
+"No TE signal for 2K LCD" Screen phisicall connection problem [YoutubeVideo](https://www.youtube.com/watch?v=b4NgkbUrcwc&t=302s)
 
 #### T_88
 Meaning: "2K LCD signal errors (TWICE)"; Reconnect the cable of the 2k screen is ok.
