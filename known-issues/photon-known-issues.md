@@ -145,6 +145,9 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
 ## Error Codes
 These are some of the known error codes that the Photon will display. 
 
+#### M_10000
+[FB post](https://www.facebook.com/photo.php?fbid=2212662805488791&set=gm.1625910550886914&type=3&permPage=1)
+
 #### M_11820
 Machine will randomly freeze during print and display error, Z does not retract, fan stays on.
 
