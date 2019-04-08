@@ -10,6 +10,11 @@ If there is a update open a issue with the new information so that a member of t
 The stock firmware of most machines before yellow windows is 4.0.11_LCD
 
 ---
+
+##List of known firmwares with images
+[Facebook Post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1599259826885320/)
+
+---
 These firmwares were obtained via Anycubic Support. 
 If your machine is not reporting any problems don't update the firmware. 
 Use it at your own risk
