@@ -156,3 +156,5 @@ USB read problem, Replace with new good branded USB stick, formatted FAT32.
 
 #### T_100
 Screen connection problem [YoutubeVideo](https://www.youtube.com/watch?v=b4NgkbUrcwc&t=302s)
+
+#### T_88
