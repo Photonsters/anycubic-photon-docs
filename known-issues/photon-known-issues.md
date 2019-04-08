@@ -161,5 +161,5 @@ USB read problem, Replace with new good branded USB stick, formatted FAT32.
 Screen phisicall connection problem [YoutubeVideo](https://www.youtube.com/watch?v=b4NgkbUrcwc&t=302s)
 
 #### T_88
-LCD firmware issue (usually bad sequence of update, sometimes worse)
+Meaning: "2K LCD signal errors (TWICE)"; LCD firmware issue (usually bad sequence of update, sometimes worse)
 [FB post 1](https://www.facebook.com/groups/AnycubicPhoton/permalink/1373149382829700/) [FB post 2](https://www.facebook.com/groups/AnycubicPhoton/permalink/1603268679817768/)
