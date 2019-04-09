@@ -157,6 +157,9 @@ From Anycubic engineer, "this means USB is not plugged in". [Troubleshooting and
 #### M_11000
 USB read problem, Replace with new good branded USB stick, formatted FAT32.
 
+#### M_400
+USB cable problems? [FB](https://www.facebook.com/photo.php?fbid=2276138085762970&set=p.2276138085762970&type=3&permPage=1)
+
 #### T_100
 "No TE signal for 2K LCD" Screen phisicall connection problem [YoutubeVideo](https://www.youtube.com/watch?v=b4NgkbUrcwc&t=302s)
 The Tearing Effect Signal(TE)is a feedback signal from the LCD Controller to MCU. This signal reveals
