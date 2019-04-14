@@ -9,7 +9,7 @@ These are the only two versions sold. Machines with Orange or Red windows are ba
 ### What about the differences between the original Photon (Classic) and the Photon-S?
 The Photon-S was released in February 2019, supposedly as an interim upgrade to the original Photon. However, it turned out to be a sidegrade, rather than a true upgrade. Due to the different motherboard, it's actually a completely *different* printer altogether. 
 
-**The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use most of the essential community software and tools nor any of the original print files sliced for the original Photon. They do not work with the S model.** 
+**The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use most of the [essential community software and tools](https://github.com/Photonsters/anycubic-photon-docs/blob/master/README.md#community-projects) nor any of the original print files sliced for the original Photon. They do not work with the S model.** 
 
 Furthermore, there is [no anti-aliasing (AA)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) feature for the Photon-S as yet.
 
