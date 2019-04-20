@@ -169,3 +169,5 @@ signal enables the MCU to send data by observing the non-display period to avoid
 #### T_88
 Meaning: "2K LCD signal errors (TWICE)"; Reconnect the cable of the 2k screen is ok.
 [FB post 1](https://www.facebook.com/groups/AnycubicPhoton/permalink/1373149382829700/) [FB post 2](https://www.facebook.com/groups/AnycubicPhoton/permalink/1603268679817768/)
+
+#### [Complete list of onscreen error codes, probable causes and solutions](https://github.com/Photonsters/anycubic-photon-docs/blob/master/known-issues/LCD%20errors%20shown%20on%20Photon%20screen%20and%20solutions.xlsx) as provided by Anycubic. 
