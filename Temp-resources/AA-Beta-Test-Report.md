@@ -22,5 +22,5 @@ File makes use of Lift distance and speeds but this panel is disabled in Chitubo
 
 ### COMMUNITY REQUESTS FOR THE NEW FIRMWARE!
 
-- Change the text colour on the menus to white please!
+- Change the text colour on the menus to BLACK instead of the bad contrast blue please!
 - Support CBDDLP file format (all other printers support .Photon format)
