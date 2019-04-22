@@ -5,7 +5,7 @@
 
 [> COMPARISON PHOTO ALBUM HERE <](https://photos.app.goo.gl/dej22eQ37uocnX2Y8)
 
-#### WARNINGS
+### WARNINGS
 
 ----
 Upgrade from a machine running 4.0.11 thrown at first M111000 and was not reading USB, had to unplug and replug USB
@@ -18,3 +18,8 @@ File makes use of Lift distance and speeds but this panel is disabled in Chitubo
 ![image](https://user-images.githubusercontent.com/11083514/56517916-0818e780-6536-11e9-9902-7bd8d5470836.png)
 
 ----
+
+### COMMUNITY REQUESTS FOR THE NEW FIRMWARE!
+
+- Change the text colour on the menus to white please!
+- Support CBDDLP file format (all other printers support .Photon format)
