@@ -22,12 +22,15 @@ File makes use of Lift distance and speeds but this panel is disabled in Chitubo
 
 ----
 
-### MUST FIX THIS
+### ANYCUUBIC MUST FIX THIS!
 
+----
 Pause logic issue. Hitting pause during a exposure should do a peel move first before going into pause command!
 Currently this is not correct and has been like this since forever. You hit pause it does a pause moove without a peel, and when you start the print again it lowers the pause move and does the peel move then starts printing!
 
 See video: [Here](https://www.youtube.com/watch?v=fx1MnDPhm9s) 
+
+----
 
 ### COMMUNITY REQUESTS FOR THE NEW FIRMWARE!
 
