@@ -1,6 +1,7 @@
 # AA Beta Firmware test report
 
 - As already known by the photonsters team, running a AA .photon file on a old firmware it prints using only the first AA exposure
+- The effects of AA are seen on shallow vertical angles Chitubox Slicer is conservative even at 8X
 
 
 [> COMPARISON PHOTO ALBUM HERE <](https://photos.app.goo.gl/dej22eQ37uocnX2Y8)
