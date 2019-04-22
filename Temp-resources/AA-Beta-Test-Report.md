@@ -11,6 +11,8 @@
 ----
 Upgrade from a machine running 4.0.11 thrown at first M111000 and was not reading USB, had to unplug and replug USB
 
+Also this error seems to be thrown now and then when you power cycle the machine, something is wrong...
+
 ![image](https://user-images.githubusercontent.com/11083514/56518115-85445c80-6536-11e9-910c-c2318e2d1e0f.png)
 
 ----
@@ -19,6 +21,13 @@ File makes use of Lift distance and speeds but this panel is disabled in Chitubo
 ![image](https://user-images.githubusercontent.com/11083514/56517916-0818e780-6536-11e9-9902-7bd8d5470836.png)
 
 ----
+
+### MUST FIX THIS
+
+Pause logic issue. Hitting pause during a exposure should do a peel move first before going into pause command!
+Currently this is not correct and has been like this since forever. You hit pause it does a pause moove without a peel, and when you start the print again it lowers the pause move and does the peel move then starts printing!
+
+See video: [Here](https://www.youtube.com/watch?v=fx1MnDPhm9s) 
 
 ### COMMUNITY REQUESTS FOR THE NEW FIRMWARE!
 
