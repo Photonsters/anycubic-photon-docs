@@ -22,7 +22,7 @@ File makes use of Lift distance and speeds but this panel is disabled in Chitubo
 
 ----
 
-### ANYCUUBIC MUST FIX THIS!
+### ANYCUBIC MUST FIX THIS!
 
 ----
 Pause logic issue. Hitting pause during a exposure should do a peel move first before going into pause command!
