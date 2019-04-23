@@ -11,7 +11,7 @@
 ----
 Upgrade from a machine running 4.0.11 thrown at first M111000 and was not reading USB, had to unplug and replug USB
 
-Also this error seems to be thrown now and then when you power cycle the machine, something is wrong...
+Also this error seems to be thrown now and then when you power cycle the machine, something is potencially wrong here...
 
 ![image](https://user-images.githubusercontent.com/11083514/56518115-85445c80-6536-11e9-910c-c2318e2d1e0f.png)
 
