@@ -26,6 +26,7 @@ Photonsters Team
 
 
 [> COMPARISON PHOTO ALBUM HERE <](https://photos.app.goo.gl/dej22eQ37uocnX2Y8)
+
 [> FACEBOOK POST WITH OTHER TESTERS PHOTOS HERE<](https://www.facebook.com/groups/AnycubicPhoton/permalink/1639057166238919/)
 
 ### WARNINGS
