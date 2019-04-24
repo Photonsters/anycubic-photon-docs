@@ -1,7 +1,7 @@
 # AA Beta Firmware test report
 
 
-## FINAL THOUGHTS
+## FINAL THOUGHTS : 190424
 
 1 - Most important feature that must be implemente and is currently a flaw is the control over the peel motion in chitubox. The file format supports it and it is important that it has a control panel in chitubox.
 
