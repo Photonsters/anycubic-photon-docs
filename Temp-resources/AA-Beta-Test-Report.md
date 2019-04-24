@@ -34,7 +34,8 @@ Photonsters Team
 ----
 Upgrade from a machine running 4.0.11 thrown at first M111000 and was not reading USB, had to unplug and replug USB
 
-Also this error seems to be thrown now and then when you power cycle the machine, something is potencially wrong here...
+Also this error seems to be thrown now and then when you power cycle the machine, something is potencially wrong here?
+Two of the Seven testers experienced a non reproducible issue where a print that was executed finished after homing without printing. We could not find a reason for it to happen nor steps to reproduce it. Seems to have dissapeared after power cycling
 
 ![image](https://user-images.githubusercontent.com/11083514/56518115-85445c80-6536-11e9-910c-c2318e2d1e0f.png)
 
