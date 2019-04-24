@@ -1,5 +1,5 @@
 ;------------------------------------------------------------------------------------------------------------------
-;                  ENABLE M8093 TO DUMP DEBUG TO FILE
+;                  ENABLE M8093 TO DUMP DEBUG TO FILE - Only works in recent firmwares
 ; M8093 I1 
 ;------------------------------------------------------------------------------------------------------------------
 ;|||||||||||| Anycubic Photon config file, translated by Toby1kanobi formatted by X3msnake
