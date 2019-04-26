@@ -267,7 +267,9 @@ It is highly recommended that you print it. The test file has been presliced for
 That's normal, it's showing the last file you selected or printed. 
 
 ### How much resin should I pour into the vat? 
-- Pour resin up to the line where the chamfer starts in the vat, about a quarter up from the FEP. This is about 125ml. Do not exceed the line, if there is too much resin, it will rise from displacement and get into the screws and ball joint of your build plate! 
+Pour resin up to the line where the chamfer starts in the vat, about a quarter up from the FEP. This is about 125ml. 
+
+Do not exceed the line, if there is too much resin, it will rise from displacement and cause a spill. Or get into the screws and ball joint of your build plate. There have been reports that resin in the ball joint may cause the build plate to slip and shift during a print, making it out of level. Besides, once resin cures in there, it's also difficult to clean. 
 
 ### Can I add resin halfway through a print?
 - Yes , no problem. You do not have to pause the print, just slowly and gently pour resin into the vat. Make sure to not bump or touch the build plate while pouring. Do not over add resin, do not go over the line in the vat. 
