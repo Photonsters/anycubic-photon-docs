@@ -430,7 +430,7 @@ The white residue appears if there's moisture or water on your prints when you U
 ## TROUBLESHOOTING
 
 ### Why does my build plate move / slip during a print? 
-Make absolutely sure that you have tightened the grub screw that secures the build plate fully. This can also happen if the screws that live inside the carriage arm of your build plate (there are three of them in there) are loose or you had overfilled the vat and resin has gotten inside making the grip of the ball joint slip.
+Make absolutely sure that you have tightened the grub screw that secures the build plate fully. This can also happen if there's another grub screw already in the hole preventing tightening fully. Also check that the screws in the carriage arm of your build plate (there are three of them in there) are not loose. Or, if you had overfilled the vat and resin has gotten inside, it makes the grip of the ball joint slip. You'll need to disassemble the build plate assembly and clean thoroughly with IPA then. 
 
 - [Official Anycubic instructions - Youtube](https://www.youtube.com/watch?v=VdiNI_Xu6bI)
 - [Photonsters Video Instructions - Youtube](https://www.youtube.com/watch?v=Uc8senzACFM)
