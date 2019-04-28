@@ -35,6 +35,7 @@ There are several known issues with the Photon hardware and software. [Check the
 #### Dimensions
 - Machine Volume: 220(L)x200(W)x400(H)
 - Print Volume: 115(L)x65(W)x155(H)
+- Empty Vat weight 630g [(FB Link)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1644848155659820/)
 
 #### Photon masking
 - RGB 5.5 MIPI_DSI 2K LCD screen (Sharp LS055R1SX03) 
@@ -60,6 +61,8 @@ There are several known issues with the Photon hardware and software. [Check the
 - Black and White 
 - RLE 7bit encoding
 - 538 dpi (537.566 dpi)
+
+
 
 
 ## Firmware & Configuration files
