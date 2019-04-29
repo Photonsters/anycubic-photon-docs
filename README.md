@@ -8,3 +8,4 @@ Temporary files and tools for photonsters team - Nothing to see here
 - #BlackBoaProject : Photonsters approved diy mods 
 - #PHOTONCATALISTS : Call to arms
 - #ResinReviews : News related to resin testing protocols
+- #BUGHUNTERZ : Photonsters found Bugs on software or Firmware
