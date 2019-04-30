@@ -44,6 +44,7 @@ There are several known issues with the Photon hardware and software. [Check the
 - 538ppi
 - Color Pixel Arrangement:RGB Vertical Stripe
 - Power Supply Voltage:AVDD=5.5+/-0.1V AVEE=-5.5+/-0.1 V
+- MIPI 5.5 50 Pin 0.4 Pitch connectors: [Screen: WP7B-S050VA1 | Board: WP7B-S050VA1 - (FB)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1646286412182661/)
 
 #### Motion driver / mechanics
 - T8 leadscrew with 2mm lead/pitch
