@@ -38,7 +38,7 @@ There are several known issues with the Photon hardware and software. [Check the
 - Empty Vat weight 630g [(FB Link)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1644848155659820/)
 
 #### Photon masking
-- RGB 5.5 MIPI_DSI 2K LCD screen (Sharp LS055R1SX03) 
+- RGB 5.5 MIPI_DSI 2K LCD screen [(Sharp LS055R1SX03)](https://github.com/Photonsters/anycubic-photon-docs/blob/dev/Temp-resources/LS055R1SX03-SKU958440.pdf) 
 - 68.04(W)mm x 120.96(H)mm (5.46")
 - XY resolution: 47.25µ (0.04725mm)
 - 538ppi
