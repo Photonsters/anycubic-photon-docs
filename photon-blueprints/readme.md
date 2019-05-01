@@ -11,7 +11,7 @@ You can use Putty, Tealterm or Arduino Serial
 Screen Controllers
 
 - XPT2046 or HR2046 (touch - all screens)
-- [ILI9341 (2.8")](2.8inches_V3. 9_Back_Dimensions.PDF) 
+- [ILI9341 (2.8")](2.8inches_V3.9_Back_Dimensions.PDF) 
 - [ILI9488 (3.5")](3.5inches_V3.9_Back_Dimensions.PDF) 
 
 [TouchScreen Pinouts (KUDOS Cex123)](Photon_Touchscreen_Pinouts.pdf)
