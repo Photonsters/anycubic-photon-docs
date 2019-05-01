@@ -13,7 +13,7 @@ Screen Controllers
 - ILI9488 (3.5") 
 
 
-4001 is in the debug area of Chitu pro. Need to translate text.
+M4001 is in the debug area of Chitu pro. Need to translate text.
 M8082 I0 ; LCD type: 0: 2.8 inch, 1: 3.5 inch
 May this be useful to change the dispay type when using Epax FW?
 M9024 'www.chitucloud.com';Configuring a remote server
