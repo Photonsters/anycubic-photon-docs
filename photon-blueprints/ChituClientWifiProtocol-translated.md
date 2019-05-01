@@ -1,0 +1,111 @@
+G:\yiyu\workspace\software_v3_V1.2.30\software_v3_V1.2.30\software_v3\DOC\赤兔主板-wifi通信协议-wifi-protocal.txt 26 November 2016 16: 35
+Author: Yi Yu last modified: 2016 1 14
+Requirements:motherboard firmware must > V1. 3. 7
+Support for androi, ios
+Communication method: UDP protocol, 3000 ports
+Communication mode：
+Mobile terminal: send command
+Device side: successful return ok\r \ \ n
+Some commands will also display additional information before, if not specifically indicated, the success only return ok \ r\n, otherwise return the relevant information and then return
+Back to ok\ \ r \ \ n
+Failure returns Error:+ error message\r\n
+All the commands are based on the handshake operation, in the face of G28 this long operation command, it is recommended to set the longest probably 5s socket ultra
+When, once timed out, sends the M4004 command to query the current status
+Basic commands：
+M99999
+Local Area Network broadcast, through this instruction to scan the device
+ok MAC:18:fe:34:d7:a7:16 IP:192.168.1.106 VER:V10. 0. 3 ID:38, d9, 5d, fa, dd,8b, 1a, 4d
+NAME:yiyu-esp1
+MAC:wifi mac address
+IP: WiFi LAN IP address
+VER: version number of the wifi firmware
+ID: unique identification of the wifi module
+NAME: set WiFi module name
+Get the device's xyze step parameters, step parameters will be used in subsequent file compression.The first command after the connection must be this
+All the commands that you can't follow are unresponsive!!!!!!!!!!!!!!
+M4001
+ok. X:0.0127 Y:0.0127 Z:0.00125 E:0.00225 T:0/200/200/200/1 U: 'UTF-8'B:0
+# T after the parameters for the machine type / x Stroke / y stroke / Z stroke / nozzle number 0: xyz Model 1: delta model
+, For delta models, x-Stroke=y-stroke=delta radius parameter Z for delta Z maximum debugging
+#U is connected to the back of the motherboard coding, B: followed by whether to enable the hot bed
+Get status:
+#This command must be issued once about 2S, if there is no status message for a long time, the motherboard side may be disconnected
+M4000
+Return:
+ok. B:-50/0 E1:-52 / 0 E2: 76/0 X:0.000 Y:0.000 Z:0.000 F:0/0 D:0/0/0 T:0
+B: hot bed current temperature / target temperature
+E1: thermal Head 1 current temperature / target temperature
+E2: thermal Head 2 current temperature / target temperature
+X, Y,Z:coordinate position, in mm
+F:挤出头1风扇PWM/挤出头2风扇PWM the maximum value is 256
+D:SD卡当前读的位置/SD卡当前读文件的总大小/是否暂停
+, When the file is not open, the total size is 0, the pause flag is only valid when the file is open, and 1 is paused
+T:when the file has started, only the file starts printing is valid
+Move command:
+X axis plus G0 X10 F1200 I0 \ r \ \ n #X axis moves right 10mm, at a speed of 1200mm/s per minute movement
+X axis minus G0 X-10 F1200 I0 \r \ \ n
+Y axis plus G0 Y10 F1200 I0 \r \ n
+Y-axis minus G0 Y-10 F1200 I0 \r \ n
+Z axis plus G0 Z10 F600 I0 \r \ n
+Z-axis minus G0 Z-10 F600 I0 \r \ \ n
+E axis plus G0 E10 F300 I0 \r \ \ n
+E-axis minus G0 E-10 F300 I0 \r \ \ n
+HOME zero G28\r \ \ n
+Heating extrusion head Command:
+M104 S60 #heated to 60 degrees, followed by S is the temperature of the degree of execution
+Heating hot bed command:
+M140 S60 #is heated to 60 degrees, followed by S is the temperature of the degree of execution
+-1.-
+G:\yiyu\workspace\software_v3_V1.2.30\software_v3_V1.2.30\software_v3\DOC\赤兔主板-wifi通信协议-wifi-protocal.txt 26 November 2016 16: 35
+Fan on.:
+M106 S127 #fan on, PWM is 127, maximum is 256
+Fan off:
+M107
+Emergency stop.:
+M112 #stop all the motors
+Extended Command:
+Display the file list: / / note transcoding, sent up must be m4001 information returned encoding
+M20
+Normal returns the following results, the board will return a line by line：
+Begin file list\r\n #
+First file 34343\r\n #file name file size (bytes)
+Second file 34233\r \ \ n
+End file list\r \ n #end of file list
+Select the SD card and print: / / note transcoding, the file must be sent down m4001 encoding information returned
+M6030 'file name' #such as M6030 ' file.gcode'
+Start or resume printing:
+M24.
+Pause printing:
+M25
+Stop printing:
+M33.
+Create file: / / note transcoding, the file must be sent down m4001 information returned encoding
+M28 file name#such as M28 new_file.gcode
+In the case of the file is not closed(such as printing), return Error!File: test.gcode is opened\ \ r \ \ n
+,Where"test.gcode " is the name of the file that has been opened
+Delete file: / / note transcoding, the file must be sent down M4001 information returned encoding
+M30 file name#such as M30 new_file.gcode
+Write the file：
+After the M28 file is created
+All commands except the M4000 and M29 are treated as write data, and the effective data length of a package is recommended to be 256 * 5 or
+Shorter
+The data written is formatted as follows：
+/ Valid data (data length) / data in the file offset (4byte)|
+Test (1byte, XOR operation of all preceding data) / 0x83(1byte) |
+If an incorrect test or data loss occurs, you receive the following message:
+resend 32432\r\\ N where 32432 is the offset of the data to be retransmitted in the file
+If a write error occurs, it will receive:
+Error:write dat\r\ \ n
+Write the end of the file:
+M29.
+Read files:
+M6032 'file name' #such as M28 'new_file.gcode'
+Successful return ok L: file length, such as ok L:3128340
+Failure returns Error:.....
+Then request data read out with M3000 request data read out, the data format of the data format to write the file when the return of the same
+If the data is lost, request the retransmission of the data at the specified file offset with M3001 Ixxx, such as M3001 I324242
+Turn off the device, after printing the shutdown module of the device, the command will let the device power off：
+M4003
+Querying the current command blocking condition：
+M4004.
+In
