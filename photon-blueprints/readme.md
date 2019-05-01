@@ -32,3 +32,7 @@ Response to M4001 on debug port:
 X:0.011430 Y:0.011430 Z:0.000625 E:0.001340 T:0/0/0/155/1 U:'GBK' B:1
 César removed a message
 I updated to Epax 4.2.16. Where is the network menú? Do I need to connect something to ethernet port?
+
+#### Confirmed Gcode Commands via Serial:
+
+- M6030 "Photon/AA-TEST-PRINTS/_ShallowAnglesAATest_0X.photon" (starts a print file name)
