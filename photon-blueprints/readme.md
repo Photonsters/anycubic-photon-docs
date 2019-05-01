@@ -3,6 +3,8 @@
 Serial connection: 115200, 8, n, 1
 Advised terminal to use: [RealTerm](https://realterm.sourceforge.io/index.html#downloads_Download)
 
+- Touch - SPI (SCK, SDI, SDO, CS, GND, 5V)
+- Touchscreen LCD - Paralell 16bit (D0-D15, RS, WR, RD, CS, GND, 5V)
 
 ## ICs
 
