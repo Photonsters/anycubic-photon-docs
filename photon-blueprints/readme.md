@@ -38,4 +38,8 @@ I updated to Epax 4.2.16. Where is the network menú? Do I need to connect somet
 - M4001 (returns the configured stepper movement for all axis) R: (X:0.011430 Y:0.011430 Z:0.000625 E:0.001340 T:0/0/0/155/1 U:'GBK' B:1) 
 - M105 (returns sensor temperatures) R: (ok T:161 /0 B:164 /0 @:0 B@:0)
 - M8512 "configFile.gcode" (Dumps the current config.gcode EEPROM data into a file)
+- G28 Z (Home Z Axis)
+- G0 Z10 (Move Z axis at max speed)
+- G0 Z10 F600 (Move Z axis at F speed)
 
+[List of WIFI commands taken from ChituClient App](ChituClientWifiProtocol-translated.txt)
