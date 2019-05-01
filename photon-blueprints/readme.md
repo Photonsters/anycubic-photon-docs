@@ -12,6 +12,8 @@ Screen Controllers
 - ILI9341 (2.8") 
 - ILI9488 (3.5") 
 
+[TouchScreen Pinouts (KUDOS Cex123)](Photon_Touchscreen_Pinouts.pdf)
+
 
 M4001 is in the debug area of Chitu pro. Need to translate text.
 M8082 I0 ; LCD type: 0: 2.8 inch, 1: 3.5 inch
