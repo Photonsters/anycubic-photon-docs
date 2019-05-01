@@ -1,6 +1,6 @@
 # PHOTON BLUEPRINTS
 
-Serial connection: 11520, 8, n, 1
+Serial connection: 115200, 8, n, 1
 Advised terminal to use: [RealTerm](https://realterm.sourceforge.io/index.html#downloads_Download)
 
 ## ICs
