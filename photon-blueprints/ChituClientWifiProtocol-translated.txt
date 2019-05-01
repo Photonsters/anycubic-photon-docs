@@ -37,10 +37,10 @@ B: hot bed current temperature / target temperature
 E1: thermal Head 1 current temperature / target temperature
 E2: thermal Head 2 current temperature / target temperature
 X, Y,Z:coordinate position, in mm
-F:挤出头1风扇PWM/挤出头2风扇PWM the maximum value is 256
-D:SD卡当前读的位置/SD卡当前读文件的总大小/是否暂停
+F: Extrusion Head 1 fan PWM / extrusion Head 2 fan the maximum value is 256
+D: SD ocation of card currently Read/ total size of file currently read on SD card / whether pause
 , When the file is not open, the total size is 0, the pause flag is only valid when the file is open, and 1 is paused
-T:when the file has started, only the file starts printing is valid
+T: when the file has started, only the file starts printing is valid
 Move command:
 X axis plus G0 X10 F1200 I0 \ r \ \ n #X axis moves right 10mm, at a speed of 1200mm/s per minute movement
 X axis minus G0 X-10 F1200 I0 \r \ \ n
