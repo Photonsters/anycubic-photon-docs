@@ -27,12 +27,15 @@ M4001: Get step parameters #Debug command
 M105:Query temperature information #Debug command
 M99999: Query Wifi module phase information #Debug command
 M8512 "configFile.gcode" ; save the configuration to a file, the file is an absolute path #Debug command
-M4005 I0; set the debug level
+M4005 I1; set the debug level
 Response to M4001 on debug port:
 X:0.011430 Y:0.011430 Z:0.000625 E:0.001340 T:0/0/0/155/1 U:'GBK' B:1
-César removed a message
 I updated to Epax 4.2.16. Where is the network menú? Do I need to connect something to ethernet port?
 
 #### Confirmed Gcode Commands via Serial:
 
 - M6030 "Photon/AA-TEST-PRINTS/_ShallowAnglesAATest_0X.photon" (starts a print file name)
+- M4001 (returns the configured stepper movement for all axis) R: (X:0.011430 Y:0.011430 Z:0.000625 E:0.001340 T:0/0/0/155/1 U:'GBK' B:1) 
+- M105 (returns sensor temperatures) R: (ok T:161 /0 B:164 /0 @:0 B@:0)
+- M8512 "configFile.gcode" (Dumps the current config.gcode EEPROM data into a file)
+
