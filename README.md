@@ -130,7 +130,7 @@ Some of the slicers that are available to date.
 - [Pi Zero W WiFi Thumb Drive 2](https://www.facebook.com/groups/AnycubicPhoton/permalink/1640913006053335/)
 
 **NETWORK ENABLED PHOTON UI**
-- [PSHCNET UI in action]https://www.facebook.com/groups/AnycubicPhoton/permalink/1651711838306785/
+- [PSHCNET UI in action](https://www.facebook.com/groups/AnycubicPhoton/permalink/1651711838306785/)
 - [Network Ready back grill vent](https://www.thingiverse.com/thing:3613864)
 
 **Z AXIS MODS**
