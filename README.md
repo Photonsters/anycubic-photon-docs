@@ -9,3 +9,7 @@ Temporary files and tools for photonsters team - Nothing to see here
 - #PHOTONCATALISTS : Call to arms
 - #ResinReviews : News related to resin testing protocols
 - #BUGHUNTERZ : Photonsters found Bugs on software or Firmware
+
+### Slack for Photonsters Devs
+
+(photonsters.slack.com)
