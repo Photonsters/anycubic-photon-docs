@@ -12,4 +12,4 @@ Temporary files and tools for photonsters team - Nothing to see here
 
 ### Slack for Photonsters Devs
 
-(www.photonsters.slack.com)
+http://photonsters.slack.com
