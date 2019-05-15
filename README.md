@@ -114,6 +114,7 @@ Some of the slicers that are available to date.
 - [WARNING - do not use until re-validated. May damage printer. DecreasePixel CLI](https://github.com/Hans2004/AnyCubic-Photon-Decrease-Pixel) - Same as the above but Command Line. *(Hans De Jong)* 
 - [Hexeditor Okteta](https://github.com/Hans2004/okteta-photon) template for .photon format. *(Hans De Jong)*
 - [Slic3r PE's SL1 files to Photon files Converter](https://github.com/fookatchu/SL1toPhoton) *(fookatchu)*
+- [pyPhotonfile - library for photon file manipulating](https://github.com/fookatchu/pyphotonfile)*(fookatchu)*
 
 
 ## User mods (on Facebook)
