@@ -116,6 +116,8 @@ Some of the slicers that are available to date.
 - [Slic3r PE's SL1 files to Photon files Converter](https://github.com/fookatchu/SL1toPhoton) *(fookatchu)*
 - [pyPhotonfile - library for photon file manipulating](https://github.com/fookatchu/pyphotonfile)*(fookatchu)*
 
+- [**#BlackBoaProject** - Photonsters Rebuild Improvement and Documentation of a Photon Classic](https://photos.app.goo.gl/FDa5uVDD6zWR39Wt8)
+
 
 ## User mods (on Facebook)
 - [Cheap and easy Heater, PTC Fan and temperature controller](https://www.facebook.com/groups/AnycubicPhoton/permalink/1550627681748535/)
