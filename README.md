@@ -158,7 +158,7 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 - [Photonia Pixel Perfect Range Tester](https://www.facebook.com/groups/AnycubicPhoton/permalink/1567794123365224/) 
 - [Photon LCD mask Boundary Checker](https://www.thingiverse.com/thing:3345921) - A printable test for your mask boundaries, which may vary from printer to printer.
 - [Bed of nails UV coverage test](https://www.thingiverse.com/thing:2852334) - A quick test print to check for even UV coverage of your build plate. Useful for full plate prints or models placed close to edges. 
-- [Photon LCD defect mapper](https://www.thingiverse.com/thing:3395800) - A quick test print to test and map dead dead pixels, and workaround them in your slicer. 
+- [Photon LCD defect mapper](https://www.thingiverse.com/thing:3395800) - A quick test print to map LCD dead pixels, and workaround them in your slicer. 
 - [Z Wobble quick test](https://www.facebook.com/groups/AnycubicPhoton/permalink/1507962279348409/) - A quick test for Z wobble, or other planar surface anomalies. 
 
 ### Photon Cad files and Blueprints
