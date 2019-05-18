@@ -10,7 +10,7 @@ Want to help? Check at the bottom of this page for the [TO DO](#todo) list and o
 
 * [Frequently asked questions (FAQ)](FAQ.md)
 * [Known issues](known-issues/photon-known-issues.md)
-* [Photon technical specifications](#anycubic-photon-technical-specifications)
+* [Photon technical specifications](#photon-technical-specifications)
 * [Photon file image format](#photon-file-image-format)
 * [Photon slicing software](#photon-slicing-software)
 * [Community resin exposure settings](#community-resin-exposure-settings)
