@@ -16,12 +16,12 @@ Contrary to many misleading reports, the S model [does not have anti-aliasing (A
 The original Photon has this important feature and can print AA via an unofficial firmware, and has also received an official AA firmware update in May 2019.
 
 The hardware, software and cosmetic differences are:
-- New Anycubic motherboard instead of Chitu CBD-Tech motherboard. 
-- New Anycubic slicing software instead of Chitu CBD-Tech slicer. Photon-S sliced files cannot be printed on original Photon, and vice versa. 
+- Anycubic motherboard instead of the tested and proven Chitu CBD-Tech motherboard. 
+- Anycubic slicing software instead of Chitu CBD-Tech slicer. Photon-S sliced files cannot be printed on original Photon, and vice versa. 
 - Plastic shell/chassis instead of all metal stamped steel chassis. 
 - Two column guide sliders on the same central Z lead screw instead of a single column slide. (Note that these are just simple sliders on guide rods, not recirculating bearing linear rails.) 
 - Exposure unit consists of a 38W 4X7 UV LED lensed array instead of a 25W 4X4 UV LED reflector cone source. 
-- Dual "filtration" units instead of a single unit. 
+- Dual "filtration" units instead of a single unit. These are useless marketing gimmicks and just spread smell. 
 - 10mm taller print capability on the Z axis. 
 - Build plate surface is machined flat after texture blasting and blue anodizing, otherwise exactly the same. 
 - Most other components such as the LCD, vat, build plate, carriage arm, etc., remain exactly the same. 
