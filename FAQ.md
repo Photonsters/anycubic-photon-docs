@@ -11,7 +11,9 @@ The Photon-S was released in February 2019, supposedly as an interim upgrade to 
 
 **The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use most of the [essential community software and tools](https://github.com/Photonsters/anycubic-photon-docs/blob/master/README.md#community-projects) nor any of the original print files sliced for the original Photon. They do not work with the S model.** 
 
-Furthermore, there is [no anti-aliasing (AA)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) feature for the Photon-S as yet. The original Photon does have AA right now via a bootleg firmware, and is scheduled for an official AA firmware update in May 2019.
+Contrary to many misleading reports, the S model [does not have anti-aliasing (AA)](https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) as yet. 
+
+The original Photon has this important feature and can print AA via an unofficial firmware, and has also received an official AA firmware update in May 2019.
 
 The hardware, software and cosmetic differences are:
 - New Anycubic motherboard instead of Chitu CBD-Tech motherboard. 
