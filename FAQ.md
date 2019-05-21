@@ -211,7 +211,10 @@ You first need to convert those 3D models by generating sliced layers into a for
 If you're new to resin printing, the included slicer is best to start with. Once you've familiarised yourself with the basics, there are other slicers with more features you can try. Here is a [list of slicers](https://github.com/Photonsters/anycubic-photon-docs/blob/master/README.md#photon-slicing-software) that work with the Photon. 
 
 ### I bought x resin, what are the best settings for it? 
-Every resin behaves differently, there are no best settings that will work for everyone and every machine. For a quick start, you can refer to the [community resin exposure settings.](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0) You will need to test and adjust from there to find the best settings applicable to you. 
+Every resin behaves differently, there are no best settings that will work for every resin and every machine. For a quick start, you can refer to the [community resin exposure settings.](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0) Those settings should enable you to quickly get a print going but you will need to test and adjust from there to find the best settings applicable for your machine. 
+
+### How do I find the optimal settings for my resin and machine? 
+It used to be only possible via a messy and time consuming trial and error method involving multiple bracketed prints. But thankfully we now have the [Photon Resin Calibration Test](https://github.com/altLab/photon-resin-calibration/blob/master/README.md) aka the Photon XP Finder. This test enables you to find the optimum settings for your resin, matched to your machine, all in one simple and quick print. 
 
 ### What do the print settings mean?
 This is assuming you're using the Anycubic Photon slicer program (rebadged Chitu slicer v.1.3.6) that is included on the USB stick. Other slicers may use different terminology but they're functionally the same. If you're just starting out, it's highly recommended you use the Anycubic slicer. It's basic, won't overwhelm you with bells and whistles, and just works. 
