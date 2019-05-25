@@ -30,6 +30,7 @@ Screen Controllers
 - G0 Z10 (Move Z axis at max speed)
 - G0 Z10 F600 (Move Z axis at F speed)
 - M6040 I100 (Reboot I defines the delay before restart)
-- M7506 I636264 T0		//0; 1; color_flip, (Changes UI colours Negative/Positive/or switch watever its on) 
+- M7506 I636264 T0		//0; 1; color_flip, (Changes UI colours Negative/Positive/or switch watever its on)
+- M9005 '"Networkname","Password"'
 
 [List of WIFI commands taken from ChituClient App](ChituClientWifiProtocol-translated.txt)
