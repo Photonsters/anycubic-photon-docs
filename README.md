@@ -18,6 +18,7 @@ Want to help? Check at the bottom of this page for the [TO DO](#todo) list and o
 * [Community Mods](#user-mods-on-facebook)
 * [Social media groups](#social-media-groups)
 * [Models, Photon Blueprints & Resources](#models--resources)
+* [Firmware Archives](/firmware)
 * [TO.DO.](#todo)
 
 <!-- toc -->
