@@ -23,7 +23,7 @@ The following issues and solutions have been compiled from cases reported by Pho
 - Memory errors. 
 - Dead motor / Z axis. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1540155946129042/)) 
 - Failure to set homing offset values. (config.gcode issue, reflash config.gcode)
-- Layers shifting on LCD during print. (possibly defective chip on mainboard)
+- Layers shifting/shearing on LCD during print. (occurs on certain files, firmware issue, downgrade to v4.0.11 to fix)
 - Loose print bed head / print head too short. (build plate assembly issue)
 - Slicer does not display STL. (PC graphics board driver issue)
 - Slicer up to 1.3.6 has a floating point bug in layer sizes other than 50u making layer height float. ([FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1398780826933222/))
@@ -92,15 +92,18 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
  - Motor mounting causing lead screw to be off centre or not perpendicular to lcd glass. Tighten the two screws that hold the motor. Sometimes, loosening the two screws slightly may provide a [temporary fix.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1547616112049692/) 
  - Replace entire integrated motor lead screw assembly.  
  
- ### Layer Shifting On LCD During Print 
+ ### Layer Shifting / Shearing On LCD During Print 
  #### Symptoms
+ - Only occurs on certain prints, depending on placement and/or geometry. 
  - Prints look like they have been sliced / cut and moved onto another part of the build plate. 
+ - Layer images on LCD look sheared and do not correspond to layer images showing correctly on touchscreen. 
  - Checking the Photon file reveals no problems. (in slicer or Validator) 
  
  #### Causes And Suggested Fixes
- - Defective LCD or mainboard. Do a 'dry run' and use timelapse camera to check if the LCD shifts during print.
- - UNCONFIRMED FIX - Suggest contact Anycubic with evidence of issue first. Check that all cable connectors are tight, Update or reflash firmware.
- - Check cables are secure and have not come loose during shipping.
+ - Firmware bug affecting all firmware except v4.0.11 
+ - Do a 'dry run' and use timelapse camera to check if the LCD images shift or shears during print.
+ - Contact Anycubic with evidence of issue so that a firmware fix can be prioritised. 
+ - Suggested temporary fix is to downgrade firmware to v4.0.11 
  
   ### Anycubic Photon Slicer Does Not Display STL
   - Update display driver.
