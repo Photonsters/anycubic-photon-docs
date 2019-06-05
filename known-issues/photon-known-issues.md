@@ -137,6 +137,16 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
 - Check if the carriage arm is hitting the top of the vat wall and is thus prevented from reaching Z0 to the bottom of the vat. 
 - A simple fix is to add 4 washers as spacers to the 4 screws that secure the build plate to the ball joint assembly. 
  
+### Unresponsive Z Carriage, LCD Inactive, Dead Fans. 
+#### Symptoms
+- On boot, Z carriage does not move, touchscreen Z controls are unresponsive. LCD test shows nothing on screen, fans are dead. 
+
+#### Causes and Suggested Fix
+- Bad shutdown, or power interruption, no matter how slight sometimes causes corruption to the EEPROM. 
+- Download the factory defaults gcode file and reflash EEPROM. 
+- Or update the firmware. 
+
+
  ### Other Random Issues
  #### Symptoms
  - After you have tried all the fixes above, machine is still behaving abnormally. Possibly faulty Mainboard.
