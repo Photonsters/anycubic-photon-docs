@@ -2,7 +2,7 @@
 
 This should be your first point of contact for faulty machines, some of the fixes here may void your warranty, proceed at your own risk! ([Anycubic Support Contact Page](http://support.anycubic3d.com/submit.html)) 
 
-The following issues and solutions have been compiled from cases reported by Photonsters in the [Anycubic Photon DLP Printer Owners Group](https://www.facebook.com/groups/1194619320682708) on Facebook. 
+The following issues and solutions have been compiled from cases reported by Photonsters in the [Anycubic Photon Printer Owners Group](https://www.facebook.com/groups/1194619320682708) on Facebook. 
 
 ---
 
