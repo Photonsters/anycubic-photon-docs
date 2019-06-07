@@ -5,6 +5,7 @@ You can use Putty, Tealterm or Arduino Serial
 
 - Touch - SPI (SCK, SDI, SDO, CS, GND, 5V)
 - Touchscreen LCD - Paralell 16bit (D0-D15, RS, WR, RD, CS, GND, 5V)
+- [BlackBoa Dissasembly photos and mesures](https://photos.app.goo.gl/FDa5uVDD6zWR39Wt8)
 
 ## ICs
 
