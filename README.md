@@ -116,6 +116,7 @@ Some of the slicers that are available to date.
 - [Hexeditor Okteta](https://github.com/Hans2004/okteta-photon) template for .photon format. *(Hans De Jong)*
 - [Slic3r PE's SL1 files to Photon files Converter](https://github.com/fookatchu/SL1toPhoton) *(fookatchu)*
 - [pyPhotonfile - library for photon file manipulating](https://github.com/fookatchu/pyphotonfile)*(fookatchu)*
+- [Photon 2 PhotonS - converter](https://github.com/Ordenritterlein/PhotonsFileConverter) *(Ordenritterlein)*
 
 - [**#BlackBoaProject** - Photonsters Rebuild Improvement and Documentation of a Photon Classic](https://photos.app.goo.gl/FDa5uVDD6zWR39Wt8)
 
