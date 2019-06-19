@@ -34,5 +34,7 @@ Screen Controllers
 - M6040 I100 (Reboot I defines the delay before restart)
 - M7506 I636264 T0		//0; 1; color_flip, (Changes UI colours Negative/Positive/or switch watever its on)
 - M9005 '"Networkname","Password"'
+- G90 Absolute Positioning
+- G91 Incremental Positioning
 
 [List of WIFI commands taken from ChituClient App](ChituClientWifiProtocol-translated.txt)
