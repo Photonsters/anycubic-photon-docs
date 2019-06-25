@@ -15,7 +15,10 @@ Screen Controllers
 - [ILI9341 (2.8")](2.8inches_V3.9_Back_Dimensions.PDF) 
 - [ILI9488 (3.5")](3.5inches_V3.9_Back_Dimensions.PDF) 
 
-[TouchScreen Pinouts (KUDOS Cex123)](Photon_Touchscreen_Pinouts.pdf)
+- [TouchScreen Pinouts (KUDOS Cex123)](Photon_Touchscreen_Pinouts.pdf) 
+- Touchscreen cable: 40-Pin FFC/FPC Flat Cable Pitch 0.5mm 300mm [Forward Direction](https://user-images.githubusercontent.com/11083514/60126474-fea23a80-9785-11e9-896a-7aaa8cd2b04f.png)
+
+
 
 
 #### Confirmed Gcode Commands via Serial:
