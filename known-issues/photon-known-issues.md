@@ -178,6 +178,7 @@ USB cable problems? [FB](https://www.facebook.com/photo.php?fbid=227613808576297
 The Tearing Effect Signal(TE)is a feedback signal from the LCD Controller to MCU. This signal reveals
 the display status of LCD controller. In the non-display period, the TE signal will go high. Therefore, this
 signal enables the MCU to send data by observing the non-display period to avoid tearing. 
+[Diagnostic Method - FB](https://www.facebook.com/groups/AnycubicPhoton/permalink/1700449923432976/?comment_id=1700542163423752&reply_comment_id=1701479253330043&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 
 #### T_88
 Meaning: "2K LCD signal errors (TWICE)"; Reconnect the cable of the 2k screen is ok.
