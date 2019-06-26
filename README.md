@@ -193,4 +193,4 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 1. Collect config files and firmware from Google group
 1. Collect community reversed Photon CAD parts
 1. List community software projects and tools for the Photon
-
+1. Finish compare chart https://ethercalc.org/ResinPrintersCompareChart
