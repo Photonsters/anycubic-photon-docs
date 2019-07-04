@@ -18,6 +18,9 @@ Screen Controllers
 - [TouchScreen Pinouts (KUDOS Cex123)](Photon_Touchscreen_Pinouts.pdf) 
 - Touchscreen cable: 40-Pin FFC/FPC Flat Cable Pitch 0.5mm 300mm [Forward Direction](https://user-images.githubusercontent.com/11083514/60126474-fea23a80-9785-11e9-896a-7aaa8cd2b04f.png)
 
+## OTHER PARTS
+
+- Omron endstop EE-SX674-WR
 
 
 
