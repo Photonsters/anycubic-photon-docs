@@ -7,6 +7,8 @@ You can use Putty, Tealterm or Arduino Serial
 - Touchscreen LCD - Paralell 16bit (D0-D15, RS, WR, RD, CS, GND, 5V)
 - [BlackBoa Dissasembly photos and mesures](https://photos.app.goo.gl/FDa5uVDD6zWR39Wt8)
 
+- [CAD model of complete Photon mechanical assembly on GrabCAD](https://grabcad.com/library/photon-3d-printer-assembly-1)
+
 ## ICs
 
 Screen Controllers
