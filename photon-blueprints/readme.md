@@ -21,7 +21,7 @@ Screen Controllers
 ## OTHER PARTS
 
 - Omron endstop EE-SX674-WR
-
+- [List of all fastener sizes and threads used on the Photon](Anycubic Photon Fasteners Sheet.xlsx)
 
 
 #### Confirmed Gcode Commands via Serial:
