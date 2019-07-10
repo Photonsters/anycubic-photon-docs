@@ -21,8 +21,8 @@ Screen Controllers
 - Touchscreen cable: 40-Pin FFC/FPC Flat Cable Pitch 0.5mm 300mm [Forward Direction](https://user-images.githubusercontent.com/11083514/60126474-fea23a80-9785-11e9-896a-7aaa8cd2b04f.png)
 
 Logic Chips
-- [FPGA - Altera EP1C3 Cyclone 1](https://user-images.githubusercontent.com/11083514/60964874-5e631e80-a30c-11e9-8678-4eee115b1eeb.jpg)(responsable for image processing)
-- [ARM - STM32F407ZCT6](https://user-images.githubusercontent.com/11083514/60965063-cdd90e00-a30c-11e9-8cb0-f4535a3e73f8.png)(responsible for motion actions and ui)
+- [FPGA - Altera EP1C3 Cyclone 1](https://user-images.githubusercontent.com/11083514/60964874-5e631e80-a30c-11e9-8678-4eee115b1eeb.jpg) (responsable for image processing)
+- [ARM - STM32F407ZCT6](https://user-images.githubusercontent.com/11083514/60965063-cdd90e00-a30c-11e9-8cb0-f4535a3e73f8.png) (responsible for motion actions and ui)
 
 ## OTHER PARTS
 
