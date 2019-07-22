@@ -358,6 +358,16 @@ This is a limitation of the technology but can be largely mitigated and overcome
 - Set longer UV offtimes so that more viscous resins can drain during lift for fresher resin to flow in. 
 - Choose resins with good light blocking formulations. It doesn't matter if resins are opaque or translucent, the formulations determine this. 
 
+### Resin really smells bad during printing, how do I reduce the smell? 
+When you switch on your printer, you may have noticed that the little fan in the print compartment automatically turns on, and stays on. That is the number one cause of resin smells from your printer. What this fan claims to do is to draw smells into a charcoal filter below it, but in reality all it does is to circulate and distribute smells out of the print compartment and into your room. 
+
+The simplest solution to reduce smells, without requiring complicated and time consuming additions such as in-line fans, ducting and drilling, is to simply disconnect that little fan. Here are several ways to do this: 
+
+- Unscrew the two screws that hold the fan onto the red base plate, lift the fan, cut the red and black wires, tape and insulate the wires, and remount the now deactivated fan. 
+- Open the back and bottom access panels, trace the fan's wires to the connecting block on the mainboard, and disconnect the block. 
+
+Finally, there's also a gcode to switch the fan off, but it will be reset when firmware is updated. Search the Facebook group for fan_off.gcode if you'd like to try this. 
+
 
 ## CLEANING 
 
