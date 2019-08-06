@@ -73,11 +73,9 @@ If you've just received your Photon, or it's working properly, **do not** update
 
 ## Photon slicing software
 
-#### [ANYCUBIC Photon Slicer](http://www.anycubic3d.com/support/show/594032.html)
-Go to [this page](http://www.anycubic3d.com/support/show/594032.html) and click on the icon as shown below to display the latest official ANYCUBIC Photon Slicer software downloads.
+#### [ANYCUBIC Photon Slicer](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)
+Go to [this page](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer), scroll to the bottom (Anycubic Care) and click on the link for the proper operating system to download the latest official ANYCUBIC Photon Slicer software.
  
- [![image](https://user-images.githubusercontent.com/11083514/43782437-4634c3ea-9a57-11e8-8dab-698e92a305be.png)](http://www.anycubic3d.com/support/show/594032.html)
-
 #### [**Chitu Slicer**](http://www.cbd-3d.com/en/soft/dlpslicer.shtml) (ANYCUBIC is rebranded Chitu)
 Chitu devs have been helping Photonster devs with some support questions, and Chitu's new software release will allow for better integration of Photonsters tools with the slicer software, and will support many new formats including zip/gcode import/export.
 
