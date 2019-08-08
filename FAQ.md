@@ -12,7 +12,9 @@ The Photon-S was released in February 2019, supposedly as an interim upgrade to 
 **The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use most of the [essential community software and tools](https://github.com/Photonsters/anycubic-photon-docs/blob/master/README.md#community-projects) nor any of the original print files sliced for the original Photon. They do not work with the S model.** 
 
 Contrary to many misleading reports, the S model [does **NOT** have anti-aliasing (AA) 
-](https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) as yet. [August 2019: Anycubic has released a new firmware for the S which includes the AA feature, but the file format has also changed and is not compatible with the previous format.] 
+](https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) as yet. 
+
+[August 2019: Anycubic has released a new firmware for the S which includes the AA feature, but the file format has also changed to *.pws and is not compatible with the previous format. Note that Chitubox also does not support the new file format. Update at your own risk.] 
 
 The original Photon has this important feature and can print AA via an unofficial firmware, and has also received an official AA firmware update in May 2019.
 
