@@ -44,6 +44,8 @@ No, it's not necessary, and not recommended at all. In fact, your new printer ma
 
 ## Table of Contents
 
+* [SAFETY] 
+
 * [BUILD PLATE TRAMMING (LEVELING)](#build-plate-tramming-leveling) 
 
 * [VAT & FEP SETUP](#vat--fep-setup) 
@@ -65,6 +67,19 @@ No, it's not necessary, and not recommended at all. In fact, your new printer ma
 * [ACKNOWLEDGMENTS](#acknowledgments) 
 
 <!-- toc -->
+
+## SAFETY
+
+### Before you start printing, remember, **safety first!** 
+It is highly recommended to handle all resins as though they are toxic unless you have specific documentation which states otherwise.
+
+- 3D printing resins are photopolymers, they react with light especially UV. The process is exothermic and produces very high heat. 
+- If resin gets into your eyes, or on your skin and is exposed to light, bad things will happen. 
+- Ensure that you are wearing eye protection. You do not want to get resin into your eyes. 
+- Ensure you are wearing chemical-resistant gloves, nitrile or neoprene. Latex is not recommended unless only for short periods of time. 
+- If you get resin on your skin or clothes, wash with soap and water immediately. Do not wait! 
+- Do not directly inhale or ingest resin. 
+- Common sense applies. 
 
 
 ## BUILD PLATE TRAMMING (LEVELING) 
