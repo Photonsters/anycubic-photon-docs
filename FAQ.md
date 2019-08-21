@@ -114,6 +114,7 @@ If you are using the recommended paper method, the paper should be tight enough 
 
 ### What type of paper should I use to level the build plate? 
 Just regular photocopy paper, they're generally around 80gsm, but any paper 70 ~ 120gsm (average thickness ranging from 0.05 to 0.10mm) should work too. Just ensure that the paper is clean and not creased or folded. 
+Do note if you're using thinner than standard FEP film, the paper method may not work well. Use Flint's method instead. 
 
 ### I tried to tram the build plate but one side is tighter than the other? 
 Using your fingers, push the opposite side of the plate when tightening the grub screw. Alternatively, if you're using the paper method, you can slip another strip of paper to the side which is too tight and then tighten the screw. You may need to try this a few times to get perfect level. 
