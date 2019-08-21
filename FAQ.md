@@ -93,7 +93,8 @@ Incorrect build plate tramming (levelling) is the number one reason for print fa
 - Do not confuse build plate tramming (leveling) with adjusting the 4 legs of the machine.
 
 ### So how do I tram (level) my build plate? 
-It is highly recommended that you use the official method aka paper method. Only try the Flint Read method if you're having trouble getting your build plate level with the paper method. 
+It is highly recommended that you use the official method aka paper method if you're using standard FEP film thicknesses (100~200um). 
+Only try the Flint Read method if you're having trouble getting your build plate level with the paper method, or you're experimenting with thinner FEP film. 
 - [Paper method (official) by Anycubic - Youtube](https://youtu.be/bIMwjmVl3Ho?t=2m32s)
 - [Paper method by Nick Williams - Youtube](https://youtu.be/qEaNVfT8y9w)
 - [Flint Read method - Youtube](https://www.youtube.com/watch?v=roAqm5c3rfU) (Be careful if you try this method as you could scratch the FEP film.)  
