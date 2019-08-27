@@ -44,7 +44,7 @@ No, it's not necessary, and not recommended at all. In fact, your new printer ma
 
 ## Table of Contents
 
-* [SAFETY] 
+* [SAFETY](#safety) 
 
 * [BUILD PLATE TRAMMING (LEVELING)](#build-plate-tramming-leveling) 
 
@@ -77,7 +77,7 @@ It is highly recommended to handle all resins as though they are toxic unless yo
 - If resin gets into your eyes, or on your skin and is exposed to light, bad things will happen. 
 - Ensure that you are wearing eye protection. You do not want to get resin into your eyes. 
 - Ensure you are wearing chemical-resistant gloves, nitrile or neoprene. Latex is not recommended unless only for short periods of time. 
-- If you get resin on your skin or clothes, wash with soap and water immediately. Do not wait! 
+- If you get resin on your skin or clothes, keep away from direct sunlight and wash with soap and water immediately. Do not wait! 
 - Do not directly inhale or ingest resin. 
 - Common sense applies. 
 
