@@ -100,10 +100,9 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
  - Checking the Photon file reveals no problems. (in slicer or Validator) 
  
  #### Causes And Suggested Fixes
- - Firmware bug affecting all firmware except v4.0.11 
+ - Firmware bug affecting all firmware except v4.0.11 (Fixed in 4.2.18+)
  - Do a 'dry run' and use timelapse camera to check if the LCD images shift or shears during print.
- - Contact Anycubic with evidence of issue so that a firmware fix can be prioritised. 
- - Suggested temporary fix is to downgrade firmware to v4.0.11 
+ - Suggested fix is to upgrade firmware to 4.2.18+ [FB Post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1644853745659261/)
  
   ### Anycubic Photon Slicer Does Not Display STL
   - Update display driver.
