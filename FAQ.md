@@ -37,9 +37,9 @@ Disassembly and [internal photos (FB link)](https://www.facebook.com/groups/Anyc
 - You will also need a known good branded USB stick (beware of fakes), formatted FAT32. **The included usb stick is known to be problematic and prone to eventual failure.** Transfer all the files from it to your known good USB stick and use that instead. 
 
 ### I've just received my new Photon, should I update the firmware first? 
-No, it's not necessary, and not recommended at all. In fact, your new printer may have newer firmware than what's available on Anycubic's website. 
+No, it's not necessary, and not recommended at all. Set your printer up and do the test print first. Make sure that your Photon is functioning as it should before considering doing any firmware updates. 
 
-**Do not update** if your Photon is working well, besides a chance of bricking your new printer there are no significant extra features or benefits in doing so. 
+**Do not update** if your Photon is working well. If you're running older firmware and need AA functionality, **do not update to version v4.2.19** as that version is [buggy](https://www.facebook.com/groups/AnycubicPhoton/permalink/1755649334579701/), it is recommended to use v4.2.18 instead. 
 
 
 ## Table of Contents
