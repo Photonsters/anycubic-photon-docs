@@ -388,6 +388,9 @@ The simplest solution to reduce smells, without requiring complicated and time c
 
 Finally, there's also a gcode to switch the fan off, but it will be reset when firmware is updated. Search the Facebook group for fan_off.gcode if you'd like to try this. 
 
+### Why are my prints mirrored? I checked the model in slicer and it's correct but it prints out mirrored and reversed? 
+Check the LCD settings in your slicer program. There should be a tab where you can select between LCD_mirror, DLP_normal or Normal. The correct setting should be LCD_mirror. Here is a [screenshot of the selection tab](https://www.facebook.com/groups/1194619320682708?view=permalink&id=1701044800040155) for the Anycubic slicer, it should be similar in Chitubox and others. 
+
 
 ## CLEANING 
 
