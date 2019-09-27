@@ -16,6 +16,7 @@ Screen Controllers
 - XPT2046 or HR2046 (touch - all screens)
 - [ILI9341 (2.8")](2.8inches_V3.9_Back_Dimensions.PDF) 
 - [ILI9488 (3.5")](3.5inches_V3.9_Back_Dimensions.PDF) 
+- [TSC2046 - Touch Digitizer IC](https://www.ti.com/lit/ds/symlink/tsc2046.pdf)
 
 - [TouchScreen Pinouts (KUDOS Cex123)](Photon_Touchscreen_Pinouts.pdf) 
 - Touchscreen cable: 40-Pin FFC/FPC Flat Cable Pitch 0.5mm 300mm [Forward Direction](https://user-images.githubusercontent.com/11083514/60126474-fea23a80-9785-11e9-896a-7aaa8cd2b04f.png)
