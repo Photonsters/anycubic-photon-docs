@@ -118,6 +118,7 @@ Some of the slicers that are available to date.
 - [Slic3r PE's SL1 files to Photon files Converter](https://github.com/fookatchu/SL1toPhoton) *(fookatchu)*
 - [pyPhotonfile - library for photon file manipulating](https://github.com/fookatchu/pyphotonfile)*(fookatchu)*
 - [Photon 2 PhotonS - converter](https://github.com/Ordenritterlein/PhotonsFileConverter) *(Ordenritterlein)*
+- [PNG2Photon - Convert a image to a photon file](https://github.com/0x3f00/PhotonCpp)
 - [Photon Timelapser EOS](https://github.com/lagnajeet/PhotonTimeLapse) [video](https://www.youtube.com/watch?v=u1mt8Q_h7qg&list=PLVMKVuHiQBM1TjSq00kHshXuMJEsih7rn&index=18) *(lagnajeet)*
 - [Photon Network Controller - Allows to manage files and start prints on any CBD board printer](https://github.com/Photonsters/PhotonNetworkController/blob/master/README.md) *(lagnajeet)*
 
