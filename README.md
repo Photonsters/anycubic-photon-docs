@@ -109,6 +109,7 @@ Some of the slicers that are available to date.
 - [PCB2Photon](https://github.com/Reonarudo/pcb2photon) - Swift Gerber image to Photon for PCB mask burning and production. *(Reunarudo)*
 - [Photon Go](https://github.com/Andoryuuta/photon) - Library to read and write Photon and .cbddlp files. *(Andoryuuta)*
 - [UV light distribution tester](https://www.facebook.com/kzhkshj/posts/1782894801789685)
+- [Pixel Dimming Tool](https://github.com/alpet83/PhotonProcessor)*(alpet83)*
 - [Photon Open Slicer - POS - Meshmixer Plugin](https://github.com/Photonsters/Slicer) - *(NardJ)*
 - [Voxel Ops](https://github.com/Photonsters/VoxelsOps) - Voxel tools to dilate, erode, hollow, project and measure. *(Antharon)*
 - [WARNING - do not use until re-validated. May damage printer. DecreasePixel GUI](https://github.com/Hans2004/Anycubic-Photon-decreasePixel-with-GUI) - Compensate slices on .photon files to closely fit design dimensions. *(Hans De Jong)*
