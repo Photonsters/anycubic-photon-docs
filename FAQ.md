@@ -282,6 +282,8 @@ No. For simple models, auto supports should generally work but as with anything 
 ### What angle should I print at to minimize layer lines?
 Jared Zadorozny provided this chart to the Anycubic Photon Owner's Group.
 
+![alt text](https://github.com/Photonsters/anycubic-photon-docs/blob/master/Resources/layer%20height%20vs%20print%20angle.jpg)
+
 "See people asking about the best angle for printing. Well that really depends on your layer height.
 
 You could actually be loosing details printing at the wrong angle for the layer height. Found this image that shows the best angle for each layer height to maximize details and minamize layer lines/stepping."
