@@ -1,30 +1,32 @@
 ## ANYCUBIC PHOTON FIRMWARE ARCHIVE 
 
-These are archived images of the Anycubic Photon printer.
+These are archived firmware images of the Anycubic Photon printer.
 
 Unless there is an issue with your machine or current firmware, it is recommended that you do not unnecessarily update or reflash it. 
 
-***By downloading and using the archived files, you acknowledge that you are doing so entirely at your own risk.***
+*By downloading and using the archived files, you acknowledge that you are doing so entirely at your own risk.*
 
+**The latest firmware as of October 2019 available from Anycubic's website is v4.2.19. This version is buggy and not recommended. Use v4.2.18 instead.** 
 
 The stock firmware of most blue windowed machines is 4.0.11_LCD. 
 
-## List of known firmwares with images
-[Facebook Post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1599259826885320/)
+## List of known firmwares with images as documented on a 
+[Facebook Post.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1599259826885320/)
 
 ---
 
 ## General Instructions
 
 - Copy the 3 files to the USB root folder.
-On startup the update.lcd file is used to update the firmware and the printer starts.
-At this point you need to "print" the other two files. 
+- On startup the update.lcd file will be used to update the firmware and the printer will start and then beeps.
+- At this point, navigate via the touchscreen menu to the choose and "print" the other two files, consecutively.  
+- Once done, safely shutdown and restart the printer. 
 
-- T_88 error code means that the firmware files are not coherent.
-Check in the menu if the version has been updated to the correct firmware version, and if so "print" the other two files again.
+
+If the menu shows a T_88 error code, this means that the firmware files were not coherent.
+Check in the menu if the version has been updated to the correct firmware version, if so you can "print" the other two files again.
 
 ---
-This text was last updated in 2018.07.02
 
 ## Photon GCode Commands
 
