@@ -8,9 +8,10 @@ Unless there is an issue with your machine or current firmware, it is recommende
 
 **The latest firmware as of October 2019 available from Anycubic's website is v4.2.19. This version is buggy and not recommended. Use v4.2.18 instead.** 
 
-The stock firmware of most blue windowed machines is 4.0.11_LCD. 
 
-## List of known firmwares with images as documented on a 
+## List of Known Firmware
+The stock firmware of most of the first generation blue windowed machines is 4.0.11_LCD. It is the only firmware that did not have the "frame shearing" bug. This bug was finally addressed and fixed on firmware v4.2.18.  
+Here is a partial list of known fornware with images as documented on a 
 [Facebook Post.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1599259826885320/)
 
 ---
