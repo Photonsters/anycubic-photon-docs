@@ -4,10 +4,11 @@ These are archived firmware images of the Anycubic Photon printer.
 
 Unless there is an issue with your machine or current firmware, it is recommended that you do not unnecessarily update or reflash it. 
 
-*By downloading and using the archived files, you acknowledge that you are doing so entirely at your own risk.*
-
 **The latest firmware as of October 2019 available from Anycubic's website is v4.2.19. This version is buggy and not recommended. Use v4.2.18 instead.** 
 
+*By downloading and using the archived files, you acknowledge that you are doing so entirely at your own risk.*
+
+[Yes, I understand, show me the files!](https://github.com/Photonsters/anycubic-photon-docs/tree/master/firmware) 
 
 ## List of Known Firmware
 The stock firmware of most of the first generation blue windowed machines is 4.0.11_LCD. It is the only firmware that did not have the "frame shearing" bug. This bug was finally addressed and fixed on firmware v4.2.18.  
