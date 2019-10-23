@@ -11,14 +11,15 @@ Unless there is an issue with your machine or current firmware, it is recommende
 
 ## List of Known Firmware
 The stock firmware of most of the first generation blue windowed machines is 4.0.11_LCD. It is the only firmware that did not have the "frame shearing" bug. This bug was finally addressed and fixed on firmware v4.2.18.  
-Here is a partial list of known fornware with images as documented on a 
-[Facebook Post.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1599259826885320/)
+
+Here is a partial list of known firmware with images as documented on a 
+[Facebook post.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1599259826885320/)
 
 ---
 
 ## General Instructions
 
-- Copy the 3 files to the USB root folder.
+- Copy the 3 files (sometimes only 2) to the USB root folder.
 - On startup the update.lcd file will be used to update the firmware and the printer will start and then beeps.
 - At this point, navigate via the touchscreen menu to the choose and "print" the other two files, consecutively.  
 - Once done, safely shutdown and restart the printer. 
