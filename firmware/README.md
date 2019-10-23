@@ -34,6 +34,9 @@ Check in the menu if the version has been updated to the correct firmware versio
 
 Big thanks to Master Johnson Yeh for putting this together.
 
+Translated text
+---
+
 After getting the Chinese version of the gcode parameter description, let me know better that the experiment I did before is correct.
 
 If you want to control the relevant parameters of the Z axis, the following parameters can be used together with the application.
@@ -62,7 +65,9 @@ M8080 S3;
 
 M8500 ;
 
-==============================================
+---
+Original text:
+
 取得中文版gcode參數說明後, 讓我更明白之前做的實驗是正確的.
 如果要控制Z軸的相關參數有下列幾個參數是可以搭配應用的.
 
