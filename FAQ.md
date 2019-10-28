@@ -384,11 +384,11 @@ Simply put, during printing, the layers of the model facing the FEP film are alw
 
 This is a limitation of the technology but can be largely mitigated and overcome by the following:
 
-- Ensure that exposure settings are optimal for your resin. 
-- Ensure that the model is well orientated and angled so that important details are presented facing the FEP film. 
-- Allow enough clearance for the supports so that resin does not get trapped. 
-- Set longer UV offtimes so that more viscous resins can drain during lift for fresher resin to flow in. 
-- Choose resins with good light blocking formulations. It doesn't matter if resins are opaque or translucent, the formulations determine this. 
+- Ensure that exposure settings are optimal for your resin. Overexposure will magnify this issue. 
+- Ensure that the model is well orientated and angled to minimise resin pooling and that important details are presented facing the FEP film. 
+- Allow enough clearance for the supports so that resin does not get trapped between the bottom of the print and the build plate. 
+- Set longer UV offtimes so that more viscous resins can drain during lift. It will also help to heat the resin during colder temperatures. 
+- Choose resins with good light blocking formulations. Whether resins are opaque or translucent is irrelevant, the formulations determine this. 
 
 ### Resin really smells bad during printing, how do I reduce the smell? 
 When you switch on your printer, you may have noticed that the little fan in the print compartment automatically turns on, and stays on. That is the number one cause of resin smells from your printer. What this fan claims to do is to draw smells into a charcoal filter below it, but in reality all it does is to circulate and distribute smells out of the print compartment and into your room. 
