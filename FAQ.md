@@ -380,7 +380,7 @@ The best layer slices for a good balance of speed and quality is 50um (0.05mm) t
 ### The top of my prints are sharp and detailed, but the bottoms seem soft and less defined? 
 During the printing process, resin components form covalent bonds, but layer to layer, the part remains in a semi-reacted or semi-cured state. While in this semi-reacted state, the resin retains polymerizable groups that can still form bonds across layers. Polymerization only stops when resin is fully cured via post-processing in a UV station or sunlight. 
 
-Simply put, during printing, the layers of the model facing the FEP film are always sharply defined as the layer cures against it without excess resin interference. Whereas the layers facing the build plate, previously cured, still receive uv light from diffusion/defraction/scattering from the current exposed layer and thus will still cure slightly. This is akin to overexposure and thus details will be lost. Coupled with this, some resin is trapped around the bottom parts (facing the build plate), and will also bond and cure to the details as well. 
+Simply put, during printing, the layers of the model facing the FEP film are always sharply defined as the layer is exposed perfectly against it. Whereas the layers facing the build plate, previously exposed, still receive uv light from diffusion/defraction/scattering from the current exposed layer and thus will still cure slightly. This is akin to overexposure and thus details will be lost. Coupled with this, some resin always remains around the bottom parts (facing the build plate), and will also bond and cure to the details as well. 
 
 This is a limitation of the technology but can be largely mitigated and overcome by the following:
 
