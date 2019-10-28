@@ -378,7 +378,9 @@ If your prints have good bottom adhesion but fail at the supports, this is gener
 The best layer slices for a good balance of speed and quality is 50um (0.05mm) thickness, but (depending on resin) some owners have sucessfully [printed at 100um (0.1mm}](https://www.facebook.com/groups/AnycubicPhoton/permalink/1582504051894231/) layer thickness. Use the [Resin Exposure Finder](https://github.com/altLab/photon-resin-calibration) from the community projects to test if your resin can print at that layer height. 
 
 ### The top of my prints are sharp and detailed, but the bottoms seem soft and less defined? 
-During printing, the layers of the model facing the FEP film are always sharply defined as the layer cures against it. Whereas the layers facing the build plate, previously cured, still receive uv light from diffusion/defraction/scattering from the current exposed layer and thus will still cure slightly. Coupled with this, if resin is trapped around the bottom parts, it will bond and cure to the details as well. 
+During the printing process, resin components form covalent bonds, but layer to layer, the part remains in a semi-reacted or semi-cured state. While in this semi-reacted state, the resin retains polymerizable groups that can still form bonds across layers. 
+
+Simply put, during printing, the layers of the model facing the FEP film are always sharply defined as the layer cures against it without excess resin interference. Whereas the layers facing the build plate, previously cured, still receive uv light from diffusion/defraction/scattering from the current exposed layer and thus will still cure slightly. This is akin to overexposure and thus details will be lost. Coupled with this, some resin is trapped around the bottom parts (facing the build plate), and will also bond and cure to the details as well. 
 
 This is a limitation of the technology but can be largely mitigated and overcome by the following:
 
