@@ -21,7 +21,7 @@ Until early October 2019, these were the only two original Photon versions ever 
 **As of mid October 2019, the original Photon (Classic) with steel bodies have been discreetly discontinued. The ones now being sold look like the originals but are in fact a Photon-S variant in the original Photon's body. These look-alike "original" Photons (Faux Photons or Fauxtons) are incompatible with the true original Photons; the mainboard, firmware and file formats are incompatible.** 
 
 
-### Can I print my original Photon (Classic) files on the new Photon or the Photon-S, or vice versa? 
+### Can I print my original Photon (Classic) files on the look-alike Photon (Fauxton) or the Photon-S, or vice versa? 
 Unfortunately not. The sliced files are incompatible. This post on the Photon Owners Group provides [details on the various different file formats.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1821580714653229/) 
 
 ### What about the differences between the original Photon (Classic) and the Photon-S?
