@@ -25,7 +25,7 @@ Unfortunately not. The sliced files are incompatible. This post on the Photon Ow
 ### What about the differences between the original Photon (Classic) and the Photon-S?
 The Photon-S was released in February 2019, supposedly as an interim upgrade to the original Photon. However, it turned out to be a sidegrade, rather than a true upgrade. Due to the different motherboard, it's actually a completely *different* printer altogether. 
 
-**The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use most of the [essential community software and tools](https://github.com/Photonsters/anycubic-photon-docs/blob/master/README.md#community-projects) nor any of the original print files sliced for the original Photon. They do not work with the S model.** 
+**The fundamental difference is that the S model is not file compatible with the original Photon, and thus cannot use any of the original print files sliced for the original Photon, neither can it use any of the [essential community software and tools](https://github.com/Photonsters/anycubic-photon-docs/blob/master/README.md#community-projects) that have been developed for the original Photon. They do not work with the S model.** 
 
 Contrary to many misleading reports, the S model [did **NOT** have anti-aliasing (AA) 
 ](https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) when first released. 
