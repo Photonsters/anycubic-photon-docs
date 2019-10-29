@@ -4,15 +4,15 @@ Frequently asked questions regarding the Anycubic Photon LCD Printer and SLA-LCD
 ## As of end October 2019, the original Photon (Classic) has been discontinued. 
 Although no official announcements have been made, **the Photons now being sold that look like the original Photons (with steel bodies and yellow windows) are in fact Photon-S variants.** They share the same mainboards with the Photon-S and can only print proprietary *.pws files. These are Photons in look only, they are incompatible with the original Photons shipped between October 2017 to end September 2019. 
 
-Simply put, the original Photon (Classic) has been discontinued. What is being sold now looks like the original Photon, but it is not. It is a different printer. 
+Simply put, the original Photon (Classic) has been discontinued. What is being sold now looks like the original Photon, it may even smell like the original Photon, *but it is not.* It is an entirely different printer. 
 
 
 ### I'm considering buying an original Photon, I see there are Blue, Yellow, Orange and Red windows versions, what's the difference? 
 All new original Photons with steel bodies come with Yellow windows. Older machines (prior to August, 2018) had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with newer firmware, slight revisions to uncap the top end of the Z lead screw and include a better PSU. 
 
-These are the only two original Photon versions sold. Machines with Orange or Red windows are basically user mods. 
+Until end September 2019, these were the only two original Photon versions ever sold. Machines with Orange or Red windows are basically user mods. 
 
-**As of October 2019, the original Photon (Classic) with steel bodies have been unofficially discontinued. The ones now being sold look like the originals but are in fact a Photon-S model in the original Photon's body. These look-alike "original" Photons are incompatible with the true original Photons, the mainboard, firmware and file formats are incompatible.** 
+**Do note that as of October 2019, the original Photon (Classic) with steel bodies have been unofficially discontinued. The ones now being sold look like the originals but are in fact a Photon-S variant in the original Photon's body. These look-alike "original" Photons are incompatible with the true original Photons; the mainboard, firmware and file formats are incompatible.** 
 
 ### What about the differences between the original Photon (Classic) and the Photon-S?
 The Photon-S was released in February 2019, supposedly as an interim upgrade to the original Photon. However, it turned out to be a sidegrade, rather than a true upgrade. Due to the different motherboard, it's actually a completely *different* printer altogether. 
