@@ -1,7 +1,10 @@
 # Frequently Asked Questions
 Frequently asked questions regarding the Anycubic Photon LCD Printer and SLA-LCD resin printing in general. 
 
-### I'm considering buying a Photon, I see there are Blue, Yellow, Orange and Red windows versions, what's the difference? 
+## As of end October 2019, the original Photon (Classic, steel chassis model) has been discontinued. Although no official announcements have been made, the Photons now being sold that look like the original Photons with steel bodies and yellow windows are in fact Photon-S models. They share the same mainboards and can only print proprietary *.pws files. These are Photons in look only, they are incompatible with the original Photons shipped between October 2017 to end September 2019.
+
+
+### I'm considering buying an original Photon, I see there are Blue, Yellow, Orange and Red windows versions, what's the difference? 
 All new Photons come with Yellow windows. Older machines (prior to August, 2018) had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with newer firmware, slight revisions to uncap the top end of the Z lead screw and include a better PSU. 
 
 These are the only two versions sold. Machines with Orange or Red windows are basically user mods.
