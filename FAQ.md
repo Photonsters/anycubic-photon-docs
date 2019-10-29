@@ -20,7 +20,7 @@ Until end September 2019, these were the only two original Photon versions ever 
 
 
 ### Can I print my original Photon (Classic) files on the new Photon or the Photon-S, or vice versa? 
-Unfortunately not. The sliced files are incompatible. This post on the Facebook Owners Group provides [details on the various different file formats.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1821580714653229/) 
+Unfortunately not. The sliced files are incompatible. This post on the Photon Owners Group provides [details on the various different file formats.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1821580714653229/) 
 
 ### What about the differences between the original Photon (Classic) and the Photon-S?
 The Photon-S was released in February 2019, supposedly as an interim upgrade to the original Photon. However, it turned out to be a sidegrade, rather than a true upgrade. Due to the different motherboard, it's actually a completely *different* printer altogether. 
