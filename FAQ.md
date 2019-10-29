@@ -8,7 +8,7 @@ Simply put, the original Photon (Classic) has been discontinued. What is being s
 
 
 ### How can I tell if my original Photon (Classic) is a true original or the new look-alike? 
-Unfortunately, since they look physically the same, the only way to tell is to check the firmware version or check the motherboard inside. Look-alike (non-original) original Photons ship with firmware version v3.4.1. 
+Unfortunately, since they look physically the same, the only way to tell is to check the firmware version or check the motherboard inside. Look-alike (non-original) original Photons ship with firmware version v3.4.1 (P_V341). 
 
 
 ### I'm considering buying an original Photon, I see there are Blue, Yellow, Orange and Red windows versions, what's the difference? 
