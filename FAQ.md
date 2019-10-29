@@ -2,7 +2,9 @@
 Frequently asked questions regarding the Anycubic Photon LCD Printer and SLA-LCD resin printing in general. 
 
 ## As of end October 2019, the original Photon (Classic) has been discontinued. 
-Although no official announcements have been made, the Photons now being sold that look like the original Photons with steel bodies and yellow windows are in fact Photon-S variants. They share the same mainboards with the Photon-S and can only print proprietary *.pws files. These are Photons in look only, they are incompatible with the original Photons shipped between October 2017 to end September 2019.
+Although no official announcements have been made, *the Photons now being sold that look like the original Photons (with steel bodies and yellow windows) are in fact Photon-S variants.* They share the same mainboards with the Photon-S and can only print proprietary *.pws files. These are Photons in look only, they are incompatible with the original Photons shipped between October 2017 to end September 2019. 
+
+Simply put, the original Photon (Classic) has been discontinued. What is being sold now looks like the original Photon, but it is not. It is a different printer. 
 
 
 ### I'm considering buying an original Photon, I see there are Blue, Yellow, Orange and Red windows versions, what's the difference? 
