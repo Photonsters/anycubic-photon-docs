@@ -7,15 +7,16 @@ Although no official announcements have been made, **the Photons now being sold 
 Simply put, the original Photon (Classic) has been discontinued. What is being sold now looks like the original Photon, it may even smell like the original Photon, *but it is not.* It is an entirely different printer. 
 
 
+### How can I tell if my original Photon (Classic) is a true original or the new look-alike? 
+Unfortunately, since they look physically the same, the only way to tell is to check the firmware version or check the motherboard inside. Look-alike (non-original) original Photons ship with firmware version v3.4.1. 
+
+
 ### I'm considering buying an original Photon, I see there are Blue, Yellow, Orange and Red windows versions, what's the difference? 
 All newer original Photons prior to September 2019 (with steel bodies) come with Yellow windows. Older machines (prior to August, 2018) had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with newer firmware, slight revisions to uncap the top end of the Z lead screw and include a better PSU. 
 
 Until end September 2019, these were the only two original Photon versions ever sold. Machines with Orange or Red windows are basically user mods. 
 
 **As of October 2019, the original Photon (Classic) with steel bodies have been discreetly discontinued. The ones now being sold look like the originals but are in fact a Photon-S variant in the original Photon's body. These look-alike "original" Photons are incompatible with the true original Photons; the mainboard, firmware and file formats are incompatible.** 
-
-### How can I tell if my original Photon (Classic) is a true original or the new look-alike? 
-Unfortunately, since they look physically the same, the only way to tell is to check the firmware version or check the motherboard inside. Look-alike (non-original) original Photons ship with firmware version v3.4.1. 
 
 
 ### What about the differences between the original Photon (Classic) and the Photon-S?
