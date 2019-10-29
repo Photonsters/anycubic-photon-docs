@@ -14,6 +14,10 @@ Until end September 2019, these were the only two original Photon versions ever 
 
 **As of October 2019, the original Photon (Classic) with steel bodies have been discreetly discontinued. The ones now being sold look like the originals but are in fact a Photon-S variant in the original Photon's body. These look-alike "original" Photons are incompatible with the true original Photons; the mainboard, firmware and file formats are incompatible.** 
 
+### How can I tell if my original Photon (Classic) is a true original or the new look-alike? 
+Unfortunately, since they look physically the same, the only way to tell is to check the firmware version or check the motherboard inside. Look-alike (non-original) original Photons ship with firmware version v3.4.1. 
+
+
 ### What about the differences between the original Photon (Classic) and the Photon-S?
 The Photon-S was released in February 2019, supposedly as an interim upgrade to the original Photon. However, it turned out to be a sidegrade, rather than a true upgrade. Due to the different motherboard, it's actually a completely *different* printer altogether. 
 
