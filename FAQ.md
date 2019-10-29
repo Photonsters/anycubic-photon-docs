@@ -8,11 +8,11 @@ Simply put, the original Photon (Classic) has been discontinued. What is being s
 
 
 ### I'm considering buying an original Photon, I see there are Blue, Yellow, Orange and Red windows versions, what's the difference? 
-All new original Photons with steel bodies come with Yellow windows. Older machines (prior to August, 2018) had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with newer firmware, slight revisions to uncap the top end of the Z lead screw and include a better PSU. 
+All newer original Photons prior to September 2019 (with steel bodies) come with Yellow windows. Older machines (prior to August, 2018) had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with newer firmware, slight revisions to uncap the top end of the Z lead screw and include a better PSU. 
 
 Until end September 2019, these were the only two original Photon versions ever sold. Machines with Orange or Red windows are basically user mods. 
 
-**Do note that as of October 2019, the original Photon (Classic) with steel bodies have been unofficially discontinued. The ones now being sold look like the originals but are in fact a Photon-S variant in the original Photon's body. These look-alike "original" Photons are incompatible with the true original Photons; the mainboard, firmware and file formats are incompatible.** 
+**As of October 2019, the original Photon (Classic) with steel bodies have been discreetly discontinued. The ones now being sold look like the originals but are in fact a Photon-S variant in the original Photon's body. These look-alike "original" Photons are incompatible with the true original Photons; the mainboard, firmware and file formats are incompatible.** 
 
 ### What about the differences between the original Photon (Classic) and the Photon-S?
 The Photon-S was released in February 2019, supposedly as an interim upgrade to the original Photon. However, it turned out to be a sidegrade, rather than a true upgrade. Due to the different motherboard, it's actually a completely *different* printer altogether. 
