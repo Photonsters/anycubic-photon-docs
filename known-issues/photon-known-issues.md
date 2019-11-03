@@ -35,6 +35,16 @@ The following issues and solutions have been compiled from cases reported by Pho
 - Build Plate Does Not Reach Z0 Bottom. 
 
 ---
+
+### *.photon files can't be detected or won't print on Photon printer. 
+#### Symptoms
+- *.photon sliced file prepared in anycubic/chitu slicer v1.3.6 or Chitubox is not detected or won't print on an original Photon printer. 
+
+#### Suggested Fixes
+- Check firmware version of printer, if it shows v3.4.x then it is **not** an original Photon. You have a new Photon, otherwise known as a Fauxton. These are new printers that look like an original Photon but the motherboard and firmware has been changed. 
+- Try to reslice your model and obtain *.pws output files. These are the only files that will print on a Fauxton. 
+- If you have been sold one of these new printers without your knowing, you may try to seek resolution from your Seller. 
+
 ### Random Resets / Memory Errors / USB Read Problems
 #### Symptoms
 - Printing freezes at random points, resets to homescreen.
