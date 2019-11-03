@@ -2,6 +2,10 @@
 
 Use this repository to collect information on the Anycubic Photon LCD resin printer's hardware, software and usage. 
 
+**IMPORTANT NOTE!
+
+As of September 2019, Anycubic has been shipping printers which deceptively look like Photon printers but are not. These new printers are incompatible with the original Photon printers. The information provided here for the most part may not apply to this new printer.** 
+
 **Please note that most of the community tools, software, mods and information here do NOT  apply to the Photon-S model. It is fundamentally a different printer.** 
 
 Want to help? Check at the bottom of this page for the [TO DO](#todo) list and open a [issue with #IWantToHelp.](https://github.com/Photonsters/anycubic-photon-docs/issues/new?title=IWantToHelp)
