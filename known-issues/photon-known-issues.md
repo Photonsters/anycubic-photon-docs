@@ -4,6 +4,10 @@ This should be your first point of contact for faulty machines, some of the fixe
 
 The following issues and solutions have been compiled from cases reported by Photonsters in the [Anycubic Photon Printer Owners Group](https://www.facebook.com/groups/1194619320682708) on Facebook. 
 
+**IMPORTANT NOTE!**
+
+As of September 2019, Anycubic has been shipping printers which deceptively look like Photon printers but are not. These new printers are incompatible with the original Photon printers. The troubleshooting guides and fixes need do not apply to this new printer. 
+
 ---
 
 ## KNOWN ISSUES
