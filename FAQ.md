@@ -4,7 +4,7 @@ Frequently asked questions regarding the Anycubic Photon LCD Printer and SLA-LCD
 ## As of October 2019, the original Photon (Classic) has been discontinued. 
 Although no official announcements have been made, **the Photons now being sold that look like the original Photons (with steel bodies and yellow windows) are in fact Photon-S variants.** 
 
-These look-alike Photons (or Faux Photons / Fauxtons) most probably share the same mainboards with the Photon-S and can only print proprietary *.pws files. These are Photons in look only, they are incompatible with the original Photons shipped between October 2017 to end September 2019. 
+These look-alike Photons (commonly called Faux Photons / Fauxtons) share the same mainboards with the Photon-S and can only print proprietary *.pws files. These are Photons in look only, they are incompatible with the original Photons shipped between October 2017 to end September 2019. 
 
 Simply put, the original Photon (Classic) has been discontinued. What is being sold now looks like the original Photon, it may even smell like the original Photon, *but it is not.* It is an entirely different printer inside. 
 
