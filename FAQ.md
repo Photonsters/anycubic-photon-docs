@@ -1,12 +1,12 @@
 # Frequently Asked Questions
 Frequently asked questions regarding the Anycubic Photon LCD Printer and SLA-LCD resin printing in general. 
 
-## As of October 2019, the original Photon (Classic) may have been discontinued. 
-Although no official announcements have been made, **the Photons now being sold that look like the original Photons (with steel bodies and yellow windows) are in fact Photon-S variants.** 
+## At the end of September 2019, Anycubic started shipping a look-alike of the original Photon (Classic). 
+Although no official announcements were been made then, **these Photons now being sold look like the original Photons (with steel bodies and yellow windows) but are in fact Photon-S variants.** 
 
-These look-alike Photons (commonly called Faux Photons / Fauxtons) share the same mainboards with the Photon-S and could only print new *.pws files. These are Photons in look only, they were found to be incompatible with the original Photons shipped between October 2017 to end September 2019. 
+These look-alike Photons (commonly called Faux Photons / Fauxtons) share the same mainboards with the Photon-S and could only then print new *.pws files as they had Photon-S mainboards which made them incompatible with the original Photons.  
 
-In early November 2019, Anycubic finally admitted that they were indeed shipping these new Photons. In an official announcement on their Facebook page, they apologised for their ambiguity and clarified that they are still selling the original Photons together with the new ones. Since then, the new look-alike Photons received a firmware update allowing them to print old original Photon files. 
+Due to community outcry, in early November 2019 Anycubic finally admitted that they were indeed shipping these new Photons. In an official announcement on their Facebook page, they apologised for their ambiguity and clarified that they are still selling the original Photons together with the new ones. Since then, the new look-alike Photons received a firmware update allowing them to print old original Photon files. 
 
 
 ### How can I tell if my original Photon (Classic) is a true original or the new look-alike? 
@@ -14,13 +14,13 @@ Unfortunately, since the Fauxton look physically the same as the original Photon
 
 
 ### I'm considering buying an original Photon, I see there are Blue, Yellow, Orange and Red windows versions, what's the difference? 
-All newer original Photons prior to October 2019 (with steel bodies) come with Yellow windows. Older machines (prior to August, 2018) had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with newer firmware, slight revisions to uncap the top end of the Z lead screw and include a better PSU. 
+All newer original Photons and new Photons come with Yellow windows. Older machines (prior to August, 2018) had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with newer firmware, slight revisions to uncap the top end of the Z lead screw and include a better PSU. 
 
-Until end September 2019, these were the only two original Photon versions ever sold. Machines with Orange or Red windows are basically user mods. 
+Machines with Orange or Red windows are basically user mods. 
 
 
 ### Can I print my original Photon (Classic) files on the look-alike Photon (Fauxton) or the Photon-S, or vice versa? 
-Unfortunately not. The sliced files are incompatible. This post on the Photon Owners Group provides [details on the various different file formats.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1821580714653229/) 
+Since the November 2019 firmware update for the Fauxton and the Photon-S, original Photon files can be printed on the new look-alike Fauxton and the Photon-S. But unfortunately, not vice versa. The sliced files are still incompatible. This post on the Photon Owners Group provides [details on the various different file formats (before the firmware update).](https://www.facebook.com/groups/AnycubicPhoton/permalink/1821580714653229/) 
 
 ### What about the differences between the original Photon (Classic) and the Photon-S?
 The Photon-S was released in February 2019, supposedly as an interim upgrade to the original Photon. However, it turned out to be a sidegrade, rather than a true upgrade. Due to the different motherboard, it's actually a completely *different* printer altogether. 
