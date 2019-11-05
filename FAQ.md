@@ -14,7 +14,7 @@ Unfortunately, since the Fauxton look physically the same as the original Photon
 
 
 ### I'm considering buying an original Photon, I see there are Blue, Yellow, Orange and Red windows versions, what's the difference? 
-All newer original Photons and new Photons come with Yellow windows. Older machines (prior to August, 2018) had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with newer firmware, slight revisions to uncap the top end of the Z lead screw and include a better PSU. 
+All newer original Photons and new Fauxtons look-alikes come with Yellow windows. Older original Photons (prior to August, 2018) had Blue windows. Blue [doesn't block UV well](https://www.facebook.com/groups/AnycubicPhoton/permalink/1287895011355138/) and they were changed to yellow later, with newer firmware, slight revisions to uncap the top end of the Z lead screw and include a better PSU. 
 
 Machines with Orange or Red windows are basically user mods. 
 
