@@ -29,9 +29,8 @@ When first released, the fundamental difference was that the S model was not fil
 
 However, many of the [essential community software and tools](https://github.com/Photonsters/anycubic-photon-docs/blob/master/README.md#community-projects) that have been developed for the original Photon are not compatible and do not work with the S model.
 
-Contrary to many misleading reports, the S model [did **NOT** have anti-aliasing (AA) 
-](https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) when first released. 
-The original Photon has this important feature and can print AA via an unofficial firmware, and has also received an official AA firmware update in May 2019.
+Contrary to many misleading reports, when first released, the S model [did **NOT** have anti-aliasing (AA) 
+](https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) while the original Photon had this important feature via an unofficial firmware and an official AA firmware update in May 2019.
 
 In August 2019, Anycubic finally released a new firmware for the S model which included the AA feature, but with the update the file format was changed from *.photons to *.pws and made it incompatible. It also broke Chitubox slicer support for the previous file format. At that point, no other slicer (except for paid ones) supported the new *.pws format. Since the November 2019 firmware update, compatibility has been restored. 
 
