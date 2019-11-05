@@ -33,9 +33,7 @@ Contrary to many misleading reports, the S model [did **NOT** have anti-aliasing
 ](https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) when first released. 
 The original Photon has this important feature and can print AA via an unofficial firmware, and has also received an official AA firmware update in May 2019.
 
-In August 2019, Anycubic finally released a new firmware for the S model which includes the AA feature, but be warned that the file format has been changed to *.pws and is not compatible with any previous format. 
-
-Note also that Chitubox does not support this new file format. In fact, no other slicer (except for paid ones) currently supports the Photon-S format. **Update at your own risk because you will not be able to downgrade.** Anycubic has not officially released the previous firmware. 
+In August 2019, Anycubic finally released a new firmware for the S model which included the AA feature, but with the update the file format was changed from *.photons to *.pws and made it incompatible. It also broke Chitubox slicer support for the previous file format. At that point, no other slicer (except for paid ones) supported the new *.pws format. Since the November 2019 firmware update, compatibility has been restored. 
 
 The hardware, software and cosmetic differences are:
 - Anycubic motherboard instead of the tested and proven Chitu CBD-Tech motherboard. 
