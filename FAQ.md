@@ -6,7 +6,7 @@ Although no official announcements were made then, **Anycubic quietly started to
 
 These look-alike Photons (commonly called Faux Photons / Fauxtons) share the same mainboards with the Photon-S and could then only print new *.pws files as they had Photon-S mainboards,  making them incompatible with the original Photons.  
 
-Due to community outcry, in early November 2019 Anycubic finally admitted that they were indeed shipping these Fauxtons. In an official announcement on their Facebook page, they apologised for the confusion their ambiguity caused and clarified that they are still selling the original Photons together with the new Fauxtons. Since then, the new Fauxtons (together with the a Photon-S received a firmware update allowing them to print old original Photon files. 
+Due to community outcry, in early November 2019 Anycubic finally admitted that they were indeed shipping these Fauxtons. In an official announcement on their Facebook page, they apologised for the confusion their ambiguity caused and clarified that they are still selling the original Photons together with the new Fauxtons. Since then, the new Fauxtons (together with the a Photon-S) received a firmware update allowing them to print original Photon files. 
 
 
 ### How can I tell if my original Photon (Classic) is a true original or the new Fauxton? 
