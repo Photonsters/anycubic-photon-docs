@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 Frequently asked questions regarding the Anycubic Photon LCD Printer and SLA-LCD resin printing in general. 
 
-## At the end of September 2019, Anycubic started shipping a look-alike of the original Photon (Classic). 
+## In September 2019, Anycubic started shipping a look-alike of the original Photon (Classic). 
 Although no official announcements were been made then, **these Photons now being sold look like the original Photons (with steel bodies and yellow windows) but are in fact Photon-S variants.** 
 
 These look-alike Photons (commonly called Faux Photons / Fauxtons) share the same mainboards with the Photon-S and could only then print new *.pws files as they had Photon-S mainboards which made them incompatible with the original Photons.  
