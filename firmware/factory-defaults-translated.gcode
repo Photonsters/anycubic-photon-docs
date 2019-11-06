@@ -135,6 +135,13 @@ M8084 Z0
 M8085 I5000                  
 ;                  Boot logo duration, minimum 5000ms, maximum 6000ms
 ;------------------------------------------------------------------------------------------------------------------
+;                  UI Colour Mode Set
+; M7506 I636264 T0
+; M7506 I636264 T1
+; M7506 I636264 T2
+;                  T0 - NORMAL / T1 - INVERTED / T2 - FLIP EEPROM SAVED MODE
+;                  Uncomment one if you have issues with UI being colour inverted
+;------------------------------------------------------------------------------------------------------------------
 ;                  Screen saver - time to activation in seconds
 M8085 T0
 ;                  0=Dissabled 
