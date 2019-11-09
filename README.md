@@ -4,7 +4,7 @@ Use this repository to collect information on the Anycubic Photon LCD resin prin
 
 **IMPORTANT NOTE!**
 
-**As of September 2019, Anycubic has been shipping printers which deceptively look like Photon printers but are not. These new printers (commonly called the Fauxton) are incompatible with the original Photon printers. The information provided here for the most part will not apply to this new printer.** 
+**As of September 2019, Anycubic has been shipping printers which deceptively look like original Photon printers but are not. These new printers (commonly called the Fauxton) have new motherboards (PTB2BK) and are incompatible with the original Photon printers. The information provided here for the most part will not apply to this new printer.** 
 
 **Please also note that most of the community tools, software, mods and information here do NOT apply to the new Fauxton or the Photon-S model. They are fundamentally different printers.** 
 
