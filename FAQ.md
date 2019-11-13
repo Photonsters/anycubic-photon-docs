@@ -527,6 +527,8 @@ Aka machine grease, cosmoline, gel grease, gear grease, etc.
 White Lithium grease is well received. You could also try "non flick" motorcycle chain grease. 
 Just make sure the lubricant is not thin and runny. Do NOT use WD-40!
 
+### How do I replace the grease on the lead screw? 
+Wipe all the old dirty grey grease off with a cloth rag, or kitchen towels. Then really get it clean by wiping again with solvent and use a toothbrush to get between the threads. IPA works great. Make sure solvent doesn't drip down into the stepper motor beneath. When it's clean and dry, regrease with good quality grease, apply by dabbing onto the entire length of the screw, then switch on the printer and run the slide block up and down. 
 
 ## WARRANTY 
 
