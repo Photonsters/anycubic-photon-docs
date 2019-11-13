@@ -118,6 +118,7 @@ Some of the slicers that are available to date.
 - [Voxel Ops](https://github.com/Photonsters/VoxelsOps) - Voxel tools to dilate, erode, hollow, project and measure. *(Antharon)*
 - [DecreasePixel GUI](https://github.com/Hans2004/Anycubic-Photon-decreasePixel-with-GUI) - Simple erode function. Compensate slices on .photon files to closely fit design dimensions. *(Hans De Jong)*
 - [DecreasePixel CLI](https://github.com/Hans2004/AnyCubic-Photon-Decrease-Pixel) - Same as the above but Command Line version. Confirmed working without issue [in a FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1835060846638549/) *(Hans De Jong)* 
+- [cbddlp - xycompensate](https://github.com/yaqwsx/ElegooMarsUtility) *(yaqwsx)*
 - [Hexeditor Okteta](https://github.com/Hans2004/okteta-photon) template for .photon format. *(Hans De Jong)*
 - [Slic3r PE's SL1 files to Photon files Converter](https://github.com/fookatchu/SL1toPhoton) *(fookatchu)*
 - [pyPhotonfile - library for photon file manipulating](https://github.com/fookatchu/pyphotonfile)*(fookatchu)*
