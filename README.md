@@ -125,7 +125,7 @@ Some of the slicers that are available to date.
 - [cbddlp, photon, photonS, pws - File cross converter](https://github.com/Ordenritterlein/PhotonsFileConverter) *(Ordenritterlein)*
 - [PNG2Photon - Convert a image to a photon file](https://github.com/0x3f00/PhotonCpp) *(0x3f00)*
 - [Photon Timelapser EOS](https://github.com/lagnajeet/PhotonTimeLapse) [video](https://www.youtube.com/watch?v=u1mt8Q_h7qg&list=PLVMKVuHiQBM1TjSq00kHshXuMJEsih7rn&index=18) *(lagnajeet)*
-- [Photon Network Controller - Allows to manage files and start prints on any CBD board printer](https://github.com/Photonsters/PhotonNetworkController/blob/master/README.md) *(lagnajeet)*
+- [Photon Network Controller - Allows to manage files and start prints on any CBD board printer](https://github.com/Photonsters/Universal-Photon-Network-Controller/blob/master/README.md) *(lagnajeet)*
 
 - [**#BlackBoaProject** - Photonsters Rebuild Improvement and Documentation of a Photon Classic](https://photos.app.goo.gl/FDa5uVDD6zWR39Wt8)
 
