@@ -295,7 +295,7 @@ This is due to your [offtime (or light off) settings](https://github.com/Photons
 ### Can I just use auto supports for all my models? 
 No. For simple models, auto supports should generally work but as with anything automatic it will never be perfect. For a start, you can use auto supports and supplement with manual supports on parts that the software missed. But it will be best to [learn to place your supports manually](https://github.com/Photonsters/anycubic-photon-docs/blob/master/Resources/AddingSupportsForSLA3DPrinters-v1.pdf) and precisely, you will find that you will need less supports and produce better prints in the long run. 
 
-### What angle should I print at to minimize layer lines?
+### What angle should I use to minimize layer lines?
 There isn't one best angle for printing everything. It really depends on your layer height, and the type of model you're printing. Don't forget that model orientation also plays a big part to determine the best angles. You could actually be losing details printing at the wrong angle for the layer height. 
 
 This image by Michael Van Kesteren [from the post on the Facebook group](https://www.facebook.com/groups/AnycubicPhoton/permalink/1646527138825255/) shows the approximate best angle for each layer height to maximize details and minimize layer stepping (pixelation / aliasing) lines. 
