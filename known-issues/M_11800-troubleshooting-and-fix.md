@@ -12,7 +12,7 @@ Try these steps one by one ;
 
 - If not, open back panel, unplug usb extension cable from mainboard, plug good mini usb stick directly. 
 
-- If not, try a firmware update. Be sure to print all the update files in the sequence given. [Here is a link](http://file-cloud.anycubic3d.com/anycubic3d.com/upload/201807/20/201807201727454881.zip) for the latest firmware published on Anycubic's website. 
+- If not, try a firmware update. Be sure to print all the update files in the given sequence.  
 
 - If not, try another PSU. 12V 6A or higher amps. Possibly power issues causing udisk unmount. 
 
