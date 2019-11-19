@@ -299,6 +299,7 @@ No. For simple models, auto supports should generally work but as with anything 
 There isn't one best angle for printing everything. It really depends on your layer height, and the type of model you're printing. Don't forget that model orientation also plays a big part to determine the best angles. You could actually be losing details printing at the wrong angle for the layer height. 
 
 This image by Michael Van Kesteren [from the post on the Facebook group](https://www.facebook.com/groups/AnycubicPhoton/permalink/1646527138825255/) shows the approximate best angle for each layer height to maximize details and minimize layer stepping (pixelation / aliasing) lines. 
+
 ![angles](https://github.com/Photonsters/anycubic-photon-docs/blob/master/temp/slice_angles-van_kesteren.jpg)
 
 
