@@ -22,8 +22,9 @@ Here is a partial list of known firmware with images as documented on a
 
 - Copy the 3 files (sometimes only 2) to the USB root folder.
 - On startup the update.lcd file will be used to update the firmware and the printer will start and then beeps.
-- At this point, navigate via the touchscreen menu to the choose and "print" the other two files, consecutively.  
-- Once done, safely shutdown and restart the printer. 
+- At this point, navigate via the touchscreen menu to the choose and "print" the other file(s), consecutively.  
+- Once done, safely shutdown and **delete the firmware files** from your usb stick. 
+- Now you can restart the printer. 
 
 
 If the menu shows a T_88 error code, this means that the firmware files were not coherent.
