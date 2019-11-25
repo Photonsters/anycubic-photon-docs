@@ -2,12 +2,13 @@
 Frequently asked questions regarding the Anycubic Photon LCD Printer and SLA-LCD resin printing in general. 
 
 ## In September 2019, Anycubic started shipping a look-alike of the original Photon (Classic). 
-Although no official announcements were made then, **Anycubic quietly started to sell these machines which look exactly like the original Photons (with steel bodies and yellow windows) but are not. The motherboard has been changed, making them an entirely different printer that only looks like the original.** 
+Without any prior announcements, **Anycubic quietly started to ship these machines to unsuspecting buyers. These new printers look exactly like the original Photons (with steel bodies and yellow windows) but are not. The motherboard has been changed, making them an entirely different printer that only looks like the original.** 
 
-These look-alike Photons (commonly called Faux Photons / Fauxtons) share the same mainboards (PTB2BK) with the Photon-S and could then only print new *.pws files as they had Photon-S mainboards,  making them incompatible with the original Photons.  
+These look-alike Photons (commonly called Faux Photons or Fauxtons) share the same mainboards (PTB2BK) with the Photon-S and could then only print new *.pws files as they had Photon-S mainboards,  making them incompatible with the original Photons.  
 
-Due to community outcry, in early November 2019 Anycubic finally admitted that they were indeed shipping these Fauxtons. In an official announcement on their Facebook page, they apologised for the confusion their ambiguity caused and clarified that they are still selling the original Photons together with the new Fauxtons. Since then, the new Fauxtons (and the Photon-S) received a firmware update allowing them to print original Photon files. 
+Due to community outcry, in early November 2019 Anycubic were finally forced to admit that they were indeed shipping these Fauxtons. In an official announcement on their Facebook page, they apologised for the "confusion" their ambiguity caused and clarified that they were still shipping the original Photons side by side with the lookalike Fauxtons and that buyers would have to specify their preferred versions. Since then, the new Fauxtons (and the Photon-S) received firmware updates allowing them to print original Photon files. 
 
+As of mid-November 2019, all Photon printers shipping from China are the new Fauxtons. Last remaining stocks of the original Photon were still being shipped only from NA and European warehouses. 
 
 ### How can I tell if my original Photon (Classic) is a true original or the new Fauxton? 
 Unfortunately, since the Fauxton look physically the same as the original Photon, the only way to tell is to check the firmware version or check the motherboard inside. Look-alike Fauxtons ship with firmware version v3.x.x or v5.x.x). 
@@ -19,17 +20,17 @@ All newer original Photons and new Fauxtons look-alikes come with Yellow windows
 Machines with Orange or Red windows are basically user mods. 
 
 
-### Can I print my original Photon (Classic) files on the look-alike Fauxton, or vice versa? 
-Originally the file formats were incompatible. Since the November 2019 firmware update for the Fauxton (and the Photon-S), original Photon files can now be printed on the new Fauxton. But unfortunately, not vice versa. This post on the Photon Owners Group provides [details on the various different file formats (before the Fauxton firmware update).](https://www.facebook.com/groups/AnycubicPhoton/permalink/1821580714653229/) 
+### Can I print my original Photon (Classic) files on the look-alike Fauxton? 
+Originally, the file formats were incompatible. Since the November 2019 firmware update for the Fauxton (and the Photon-S), original Photon files can now be printed on the new Fauxton. This post on the Photon Owners Group provides [details the confusing state of the various different file formats (before the Fauxton firmware update).](https://www.facebook.com/groups/AnycubicPhoton/permalink/1821580714653229/) 
 
 ### What about the differences between the original Photon (Classic) and the Photon-S?
 The Photon-S was released in February 2019, supposedly as an interim upgrade to the original Photon. However, it turned out to be a sidegrade, rather than a true upgrade. Due to the different motherboard, it's actually a completely *different* printer altogether. 
 
-When first released, the fundamental difference was that the S model was not file compatible with the original Photon, and thus could not use any of the original print files sliced for the original Photon. With the November 2019 firmware update, it can now print original Photon files.  
+When first released, the fundamental difference was that the S model was not file compatible with the original Photon, and thus could not use any of the original print files sliced for the original Photon. With the November 2019 firmware update, it can now print original Photon files although initial user reports say compatibility is buggy.  
 
-However, many of the [essential community software and tools](https://github.com/Photonsters/anycubic-photon-docs/blob/master/README.md#community-projects) that have been developed for the original Photon are not compatible and do not work with the S model.
+**Do note that many of the [essential community software and tools](https://github.com/Photonsters/anycubic-photon-docs/blob/master/README.md#community-projects) that have been developed for the original Photon are not compatible and do not work with the S model (or new Fauxton).** 
 
-Contrary to many misleading reports, when first released, the S model [did **NOT** have anti-aliasing (AA) 
+Contrary to many misleading online reports, when first released, the S model [did **NOT** have anti-aliasing (AA) 
 ](https://www.facebook.com/groups/AnycubicPhoton/permalink/1616230841854885/) while the original Photon had this important feature via an unofficial firmware and an official AA firmware update in May 2019.
 
 In August 2019, Anycubic finally released a new firmware for the S model which included the AA feature, but with the update the file format was changed from *.photons to *.pws and made it incompatible. It also broke Chitubox slicer support for the previous file format. At that point, no other slicer (except for paid ones) supported the new *.pws format. Since the November 2019 firmware update, compatibility has been restored. 
