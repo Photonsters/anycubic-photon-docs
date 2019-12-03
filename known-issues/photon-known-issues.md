@@ -187,7 +187,9 @@ USB read problem, Replace with new good branded USB stick, formatted FAT32.
 USB cable problems? [FB](https://www.facebook.com/photo.php?fbid=2276138085762970&set=p.2276138085762970&type=3&permPage=1)
 
 #### T_100
-"No TE signal for 2K LCD" Screen physical connection problem [YoutubeVideo](https://www.youtube.com/watch?v=b4NgkbUrcwc&t=302s)
+"No TE signal for 2K LCD"
+This indicates an LCD screen physical connection problem. [YoutubeVideo](https://www.youtube.com/watch?v=b4NgkbUrcwc&t=302s)
+
 The Tearing Effect Signal(TE)is a feedback signal from the LCD Controller to MCU. This signal reveals
 the display status of LCD controller. In the non-display period, the TE signal will go high. Therefore, this
 signal enables the MCU to send data by observing the non-display period to avoid tearing. 
