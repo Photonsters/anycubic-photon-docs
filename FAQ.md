@@ -470,11 +470,13 @@ It depends on environmental factors and type/brand of resin, typically if the re
 - You can keep the used resin in medicine bottles separately. 
 
 ### Water washable resin, how to dispose of the dirty water after washing the print? Wash it down the drain? 
-**Do not pour it down the drain!** Water washable resin works because it uses water soluble monomers. Water isn't an acrylate. Water can not cure. When you dilute resin into anything that's not capable of curing, it won't be inert again. 
+**Do not pour it down the drain!** 
+
+Water washable resin works because it uses water soluble monomers. Water isn't an acrylate. Water can not cure. When you dilute resin into anything that's not capable of curing, it won't be inert again. 
 
 Even after you expose the mixture to UV, the photoinitiators in the diluted resin water will still cleave and generate free radicals. If some acrylate molecules are nearby there will be a tiny bit of chain growth taking place. The spent photoinitiators, pigments, and the portion of the resin that actually cures will settle out, but the rest will still remain diluted in the water. 
 
-What this means is that resin cannot cure to completion in solution (water). It cannot cure due to change in concentration of reactants and there will be contaminates in the wash that are not safe down the drain.
+*What this means is that resin cannot cure to completion in solution (water). It cannot cure due to change in concentration of reactants and there will be contaminates in the wash that are not safe down the drain.* 
 
 The only proper way to dispose of the wash is to reduce solution by evaporation, and then collect and UV cure the resin residuals and dispose of them properly. 
 
