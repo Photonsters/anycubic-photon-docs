@@ -480,6 +480,8 @@ Even after you expose the mixture to UV, the photoinitiators in the diluted resi
 
 The only proper way to dispose of the wash is to reduce solution by evaporation, and then collect and UV cure the resin residuals and dispose of them properly. 
 
+[Original discussion pertaining to Water Washable resin disposal safety on the Facebook Group.](https://www.facebook.com/groups/AnycubicPhoton/permalink/1866245396853427/)
+
 ## POST PROCESSING
 
 ### My print stuck so well to the build plate that I can't remove it? 
