@@ -120,7 +120,7 @@ Some of the slicers that are available to date.
 - [DecreasePixel CLI](https://github.com/Hans2004/AnyCubic-Photon-Decrease-Pixel) - Same as the above but Command Line version. Confirmed working without issue [in a FB post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1835060846638549/) *(Hans De Jong)* 
 - [cbddlp - xycompensate](https://github.com/yaqwsx/ElegooMarsUtility) *(yaqwsx)* - [check his blog](https://blog.honzamrazek.cz/)
 - [Hexeditor Okteta](https://github.com/Hans2004/okteta-photon) template for .photon format. *(Hans De Jong)*
-- [Slic3r PE's SL1 files to Photon files Converter](https://github.com/fookatchu/SL1toPhoton) *(fookatchu)*
+- [PRUSA SLICER SL1 files to Photon Converter](https://github.com/fookatchu/SL1toPhoton) *(fookatchu)*
 - [pyPhotonfile - library for photon file manipulating](https://github.com/fookatchu/pyphotonfile)*(fookatchu)*
 - [cbddlp, photon, photonS, pws - File cross converter](https://github.com/Ordenritterlein/PhotonsFileConverter) *(Ordenritterlein)*
 - [PNG2Photon - Convert a image to a photon file](https://github.com/0x3f00/PhotonCpp) *(0x3f00)*
