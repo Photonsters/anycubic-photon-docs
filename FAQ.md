@@ -241,6 +241,12 @@ The bottle cap, 30mm diameter x 13mm height, will allow some slack to the film, 
 
 ## MODEL SETUP & SETTINGS
 
+### What settings do I need for the test (lattice cube) file? 
+None. The test file that came on the included USB stick has been pre-sliced and settings configured for the 250ml bottle of translucent green sample resin. All you need to do is select the file and print. If you didn't receive this sample resin with your printer, or received a different colour sample, only then will you need to change the exposure settings. You will then need to either do an exposure test for your resin, or consult the quick settings chart (see below). 
+
+### Where can I find the test (lattice cube) file? 
+It's buried somewhere on the manufacturer's website. For your convenience, you can download a copy of the [PHOTON.photon test file here.](https://drive.google.com/file/d/1D8cWCDtwGZoMRmv6u3BkEEocH9v117yE/) 
+
 ### I just downloaded some cool .stl models from somewhere, how come it won't print? 
 You first need to convert those 3D models by generating sliced layers into a format that your Photon understands and can print. This is done in what's known as a slicer program. A free slicer program comes included in the usb stick provided with your printer. 
 
