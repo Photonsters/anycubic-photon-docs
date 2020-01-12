@@ -415,6 +415,9 @@ This is a limitation of the technology but can be largely mitigated and overcome
 - Set longer UV offtimes so that more viscous resins can drain during lift. It will also help to heat the resin during colder temperatures. 
 - Choose resins with good light blocking formulations. Whether resins are opaque or translucent is irrelevant, the formulations determine this. 
 
+To help in visualisation, there is a [simplified graphic explanation](https://m.facebook.com/groups/1194619320682708?view=permalink&id=1909244509220182) of this issue posted by David McGyver in the owners group on FB. 
+
+
 ### Resin really smells bad during printing, how do I reduce the smell? 
 When you switch on your printer, you may have noticed that the little fan in the print compartment automatically turns on, and stays on. That is the number one cause of resin smells from your printer. What this fan claims to do is to draw smells into a charcoal filter below it, but in reality all it does is to circulate and distribute smells out of the print compartment and into your room. 
 
