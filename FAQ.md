@@ -259,6 +259,11 @@ Every resin behaves differently, there are no best settings that will work for e
 ### How do I find the optimal settings for my resin and machine? 
 It used to be only possible via a messy and time consuming trial and error method involving multiple bracketed prints. But thankfully we now have the [Photon Resin Calibration Test](https://github.com/altLab/photon-resin-calibration/blob/master/README.md) aka the Photon XP Finder. This test enables you to find the optimum settings for your resin, matched to your machine, all in one simple and quick print. 
 
+### My resin is expired, can I still use it? 
+For Anycubic branded resin, first check if the date is printed in black ink. If it is, then that is the production date. For other resin brands, unless it is clearly stated, double check with the manufacturer first whether the date codes are production or best-by dates. 
+
+Generally, most resin manufacturers advice that resin be used within one year. The dates are basically "use by" dates, not expiry per se. In practice, when kept properly in a cool dry location and unexposed to light, resin can be stored and used without issues. 
+
 ### What do the print settings mean?
 This is assuming you're using the Anycubic Photon slicer program (rebadged Chitu slicer v.1.3.6) that is included on the USB stick. Other slicers may use different terminology but they're functionally the same. If you're just starting out, it's highly recommended you use the Anycubic slicer. It's basic, won't overwhelm you with bells and whistles, and just works. 
 
@@ -545,6 +550,11 @@ Just make sure the lubricant is not thin and runny. Do NOT use WD-40!
 
 ### How do I replace the grease on the lead screw? 
 Wipe all the old dirty grey grease off with a cloth rag, or kitchen towels. Then really get it clean by wiping again with solvent and use a toothbrush to get between the threads. IPA works great. Make sure solvent doesn't drip down into the stepper motor beneath. When it's clean and dry, regrease with good quality grease, apply by dabbing onto the entire length of the screw, then switch on the printer and run the slide block up and down. 
+
+### Why do people apply Kapton tape all round the perimeter of the LCD glass screen? 
+Although not strictly necessary, most owners apply tape as an added safety measure in case of resin leaks or the LCD being pulled off together with the vat. 
+This post [explains why](https://m.facebook.com/groups/1194619320682708?view=permalink&id=1482113671933270) in more detail. 
+
 
 ## WARRANTY 
 
