@@ -159,6 +159,7 @@ Some of the slicers that are available to date.
 - [Anycubic Photon LCD Printer Owners Group](https://www.facebook.com/groups/AnycubicPhoton/?ref=group_header) on Facebook, with over 10,000 members. 
 - [ANYCUBIC Photon Forum](http://photonforum.statusavailable.pt/viewforum.php?f=23), managed by official distributor PT. 
 - [Twitter #AnycubicPhoton](https://twitter.com/hashtag/ANYCUBICPHOTON?src=hash)
+- [r/AnycubicPhoton](https://www.reddit.com/r/AnycubicPhoton) and [r/Anycubic](https://www.reddit.com/r/Anycubic) on Reddit
 
 ## Models & resources
 
