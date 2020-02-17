@@ -470,7 +470,7 @@ Damp a piece of cloth or tissue with IPA then lay it on the cured resin. Wait a 
 - **Never throw resin contaminated fluids down the drain**
 
 ### Can I extend the life of my solvents?
-- Yes, if you regularly cure the washing solvents along with your printed parts and filter out the solids your solvents will last longer. 
+- Yes, if you regularly cure the washing solvents along with your printed parts and filter out the solids your solvents will last longer. see [> this FB post <](https://www.facebook.com/permalink.php?story_fbid=10158197292218680&id=651553679) about it 
 
 ### How long can I keep the resin in the vat?
 It depends on environmental factors and type/brand of resin, typically if the resin is kept out of light and moisture/dirt it may sit in the vat for a few weeks. Clear resins tend to sit better, opaque resins will need more stirring before use to mix the pigments back. 
