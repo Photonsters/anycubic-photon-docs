@@ -27,7 +27,8 @@ Logic Chips
 
 ## OTHER PARTS
 
-- Omron endstop EE-SX674-WR
+- Omron endstop [EE-SX674-WR](https://s.click.aliexpress.com/e/_d6Iysd5)
+- Z axis U ballbearings [SG15-2RS](https://s.click.aliexpress.com/e/_d7qVfIT)
 - [List of all fastener sizes and threads used on the Photon](https://github.com/Photonsters/anycubic-photon-docs/blob/master/photon-blueprints/Anycubic%20Photon%20Fasteners%20Sheet.xlsx)
 
 
