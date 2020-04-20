@@ -127,7 +127,7 @@ Some of the slicers that are available to date.
 - [Photon Timelapser EOS](https://github.com/lagnajeet/PhotonTimeLapse) [video](https://www.youtube.com/watch?v=u1mt8Q_h7qg&list=PLVMKVuHiQBM1TjSq00kHshXuMJEsih7rn&index=18) *(lagnajeet)*
 - [Photon Network Controller - Allows to manage files and start prints on any CBD board printer](https://github.com/Photonsters/Universal-Photon-Network-Controller/blob/master/README.md) *(lagnajeet)*
 - [Gcode to Images](https://github.com/svsdval/gcode2photon) *svsdval*
-- [PhotonPCB - Creatin of printed circuit boards with MSLA](https://github.com/borelg/PhotonPCB) *(borelg)*
+- [PhotonPCB - Create printed circuit boards with MSLA](https://github.com/borelg/PhotonPCB) *(borelg)*
 
 - [**#BlackBoaProject** - Photonsters Rebuild Improvement and Documentation of a Photon Classic](https://photos.app.goo.gl/FDa5uVDD6zWR39Wt8)
 
