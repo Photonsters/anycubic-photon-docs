@@ -1,1 +1,2 @@
-M8512 "configFile.gcode" (Dumps the current config.gcode EEPROM data into a file)
+;Dumps the current EEPROM config data into a file
+M8512 "configFile.gcode" 
