@@ -128,6 +128,7 @@ Some of the slicers that are available to date.
 - [Photon Network Controller - Allows to manage files and start prints on any CBD board printer](https://github.com/Photonsters/Universal-Photon-Network-Controller/blob/master/README.md) *(lagnajeet)*
 - [Gcode to Images](https://github.com/svsdval/gcode2photon) *svsdval*
 - [PhotonPCB - Create printed circuit boards with MSLA](https://github.com/borelg/PhotonPCB) *(borelg)*
+- [UV3DP - Multiformat converter command line tool (PHZ,CTB,CBDDLP,CWS(nova),SL1...)](https://github.com/ezrec/uv3dp/blob/master/README.md) *(ezrec)*
 
 - [**#BlackBoaProject** - Photonsters Rebuild Improvement and Documentation of a Photon Classic](https://photos.app.goo.gl/FDa5uVDD6zWR39Wt8)
 
