@@ -190,6 +190,8 @@ Use these resources to test how your Photon is printing, and to remove guesswork
 - [How supports work](./Resources/AddingSupportsForSLA3DPrinters-v1.pdf)
 - [2018 - Resin Casting: A Collection of Hypotheses](http://www.santafesymposium.org/2018-santa-fe-symposium-papers/2018-resin-casting-a-collection-of-hypotheses)
 - [How to use Netfabb supports with LCD printers](https://docs.google.com/document/d/1aC4MIkIyjG61bllVglCZ308qukxOhE7jJ9tKQQh0aPY)
+- [How LCDs work](www.bitly.com/HOW-LCDS-WORK)
+- [The science behind a 3d Printer - Projection, Mask and Resins](https://youtu.be/97ARLiTHjX0)
 
 
 ## TODO
